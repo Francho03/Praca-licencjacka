@@ -41,13 +41,17 @@ Interpolacja przesztrzenna- ma na celu okresleni wartosci pewenj w zmiennej w pu
 
 1. Przestrzeń euklidesowa- umożliwia dobre przybliżenie odległości przestrzennych w przypadku dużych wielkości. Płaskość wyznaczanych odległości.
 na układzie współrzędnych 
-![Zrzut ekranu 2024-07-11 130514](https://github.com/user-attachments/assets/93c40e8a-80bb-4d60-ad63-5af944881ec0)
+![Zrzut ekranu 2024-07-11 130514](https://github.com/user-attachments/assets/93c40e8a-80bb-4d60-ad63-5af944881ec0 "euklides")
 
 
 2. Metryka manhattan:
 
-3. Metryka sferyczna:
 
+![Zrzut ekranu 2024-07-11 130710](https://github.com/user-attachments/assets/32aaafbb-dedb-426f-b0f9-0f5c8213e063 "manhattan")
+
+4. Metryka sferyczna:
+
+![Zrzut ekranu 2024-07-11 130734](https://github.com/user-attachments/assets/c0699494-5e6d-4e55-912e-17beb0ce35c7 "ortodroma")
 
 ## 1.3 Jakość danych przestrzennych
 
