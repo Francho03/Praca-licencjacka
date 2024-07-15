@@ -41,6 +41,7 @@ Interpolacja przesztrzenna- ma na celu okresleni wartosci pewenj w zmiennej w pu
 
 1. Przestrzeń euklidesowa- umożliwia dobre przybliżenie odległości przestrzennych w przypadku dużych wielkości. Płaskość wyznaczanych odległości.
 na układzie współrzędnych 
+![Zrzut ekranu 2024-07-11 130514](https://github.com/user-attachments/assets/93c40e8a-80bb-4d60-ad63-5af944881ec0)
 
 
 2. Metryka manhattan:
