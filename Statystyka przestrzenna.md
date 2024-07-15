@@ -101,6 +101,40 @@ Głównym źródłem niepewności jest sposób zdefiniowania badanych obiektów 
 
 # Rozdział drugi: Geneza i rozwój metod statystyki przestrzennej.
 ## 2.1 Statystyka przestrzenna jako dziedzina analizy przestrzennej
+Statystyczna analiza danych przestrzennych:
+1. ekonometria przestrzenna - specyfikacja, estymacja i weryfikacja modeli uwzględniających aspekt przestrzenny.
+2. statystyka przestrzenna - opiera na się na analizie danych
+### Trzy główne nurty metodologiczne w statystyce przestrzennej:
+####  1.analiza danych punktowych: 
+##### w jaki sposób obiekty są rozmieszczane w przestrzeni:
+ * losowo-(na rozmieszczenie nie wpływa żaden czynnik)
+ * regularnie-(świadome rozmieszczenie obiektów w nienaturalny sposób)
+ * klastrowo-( na rozmieszczeni wplywa czynnik)
+##### Warunki konieczne do przeprowadzenia analizy danych punktowych:
+1. znajomość długości i szerokości współrzędnych geograficznych punktó nanoszonych na mapę
+2. wcześniejsze określenie powierzchni badanego obszaru
+3. dane punktowe powinny stanowić kompletny zbiór, a nie jedynie próbę
+4. istnienie rzeczywistej zależności między obiektami analizowane obszaru a punktami nanoszonymi na mapę
+   
+#### 2. geostatystyka - optymalizacja szacowanych parametrów geologicznych
+#### 3. metody analizy danych obszarowych i i punktowych atrybutowych
+## 2.2 Rozwój metod statystyki przestrzennej
+Autokorelacja przestrzenna- występowanie jednego zjawiska w jednej jednostce przestrzennej powoduje zmniejszanie się bądź zwiększanie się tego zjawiska w jednostkach sąsiednich. 
 
+## 2.3 Powiązanie statystyki przestrzennej z innymi dziedzinami
+### 2.3.1 Statystyka przestrzenna a  tradycyjna statystyka
+Statystyka klasyczna zakłada, że elementy próby są dobierane niezależnie, natomiast statystyka przestrzenna nie może spełnić tego założenia(Prawo Toblera)
 
+### 2.3.2 Statystyka przestrzenna a geografia 
+#### Przestrzeń geograficzna - jest główną cechą, która odróżnia tradycjne dane statystyczne od danych przestrzennych.
+##### Można podzielić ją na:
+* przestrzeń społeczno-ekonomiczną
+* przestrzeń społeczną
+### 2.3.3 Statystka przestrzenna a ekonometria przestrzenna. 
+#### Trzy zasady modelowania statystycznego:
+1. qproksymacja funkcji(regresja przestrzenna) dopasowującej do zbioru wejściowych danych przestrzennych zależności analitycznej wyrażonej wzorem matematycznym
+2. klasyfikacja, czyli przypisanie zaobserwowanych przypadków do określonej liczby klas kategorii reprezentowanych przez zmnienne wyjsciowe
+3. wykrywanie regularności istotnych cech w danych wejściowych bez znajomości wzorców
 
+#### Statystyka przestrzenna opiera się na podejściu data driven
+#### Ekonometria przestrzenna opiera się na podejściumodel driven 
