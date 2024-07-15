@@ -99,5 +99,8 @@ Głównym źródłem niepewności jest sposób zdefiniowania badanych obiektów 
 1. Metoda próba systematyczna 
 1. Metoda warstwowej, systematycznej próby nieliniowej
 
+# Rozdział drugi: Geneza i rozwój metod statystyki przestrzennej.
+## 2.1 Statystyka przestrzenna jako dziedzina analizy przestrzennej
+
 
 
