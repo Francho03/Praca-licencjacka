@@ -160,4 +160,19 @@ Statystyka klasyczna zakłada, że elementy próby są dobierane niezależnie, n
 3. przestrzenna autokorelacja
 4. przestrzenna korelacja i regresja
 ### 3.1.2 Dane powierzchniowe
+nieskończona liczba lokazlizacji si
+#### Główne techniki analizy danych powierzchniowych
+* przestrzenna średnia ruchoma
+* analizy trendu powierzchniowego
+* teselacje
+* tringulacja/TIN
+* wariogram/kowariogram/kriging
+* analiza czynnikowa
+* analiza skupień
+* analiza kanoniczna
+### 3.1.3 Dane punktowe
+Dane punktowe bezatrybutowe- mają przypisane tylko współrzędne geograficzne
+### 3.1.4  Dane przestrzenno-czasowe 
+Macierz geograficzna Berrego
+## 3.2 Wybrane problemy związane z agregacją danych przestrzennych
 
