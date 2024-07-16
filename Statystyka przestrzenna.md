@@ -138,3 +138,26 @@ Statystyka klasyczna zakłada, że elementy próby są dobierane niezależnie, n
 
 #### Statystyka przestrzenna opiera się na podejściu data driven
 #### Ekonometria przestrzenna opiera się na podejściumodel driven 
+# Rozdział trzeci: Dane przestrzenne-podstawowe zagadnienia
+## 3.1 Klasyfikacja i własności danych przestrzennych
+#### Cztery rodzaje danych przestrzennych wg Cressie:
+1. Dane obszarowe - charakteryzujące się skokową zmniennościa- jest określony
+2. Dane powierzchniowe- określane poprzez ciągłą zmienność na podstawie funkcji odległości- jest określony
+3. Dane punktowe - reprezentują wartości zmiennych mające charakter puunktów w przestreni georgaficznej- pole losowe
+5. Obszary przestrzenne - wartości zmiennych mające charakter obiektów o określonym zasięgu przestrzennym- pole losowe
+#### Efekty pierwszego rzędu - odnoszą się do zmian wartości średnej danej zmiennej w określonej przestrzeni. - Trafycyjna regresja
+#### Efekty drugiego rzędu- odnoszą się do przestrzennych zależności pomiędzy jednostkami. Zachodzi efekt sąsiedztwa. - techniki analizy biorące pod uwagę kowiariancję w danych generujących efekty lokalne.
+#### Współzależność przestrzenna - natężenie pewnych zjawisk przenosi się a obiektu na inne obszary sąsiednie. = Prawo Toblera = autokorelacja przestrzenna. 
+#### Heterogeniczność przestrzenna(odwzorowanie stacjonarności w szeregach czasowych) - brak stałości struktur rozmieszcenia wartości badanych cech.
+#### Błąd ekologiczny - różnica pomiędzy wartością statystyki dla pojedynczego obiektu estymowanej za pomocą zbiorowości a wartością statystyki szacowanej na podstawie jednsotek.
+#### Błąd atomistyczny - odwrotność błędu ekologicznego
+#### Problem zmiennej jednsotki odniesienia - błąd wynikający z faktu, że zjawisko o charakterze punktowym jest analizowane za pomocą danych zagregowanych. - szczególny przypadek błedu ekologicznego.
+### 3.1.1 Dane obszarowe
+-miejsce na wzór strona 52!!!
+#### Główne techniki analizy danych obszarowych:
+1. przestrzenna średnia ruchoma
+2. estymacja jądra
+3. przestrzenna autokorelacja
+4. przestrzenna korelacja i regresja
+### 3.1.2 Dane powierzchniowe
+
