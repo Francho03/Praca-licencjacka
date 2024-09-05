@@ -175,4 +175,14 @@ Dane punktowe bezatrybutowe- mają przypisane tylko współrzędne geograficzne
 ### 3.1.4  Dane przestrzenno-czasowe 
 Macierz geograficzna Berrego
 ## 3.2 Wybrane problemy związane z agregacją danych przestrzennych
+#### Problemy analizy danych zagregowanych:
+1. Błąd ekologiczny
+2. Różnice w wartościach miar statystyki opisowej ze względu na sposób podziału przestrzeni na obszary.
+#### Alternatywą dla uniknięcia powyższych problemów jest wnioskowanie z danych indywidualnych przy czym wtedy może pojawić się błąd atomistyczny.
 
+### 3.2.1 Problem MAUP i błąd ekoloniczny
+#### Problem MAUP można podzielć na dwa problemy:
+* problem stosowanej w analizie skali/poziomu agregacji- w zależności jaki poziom agregacji danych zostanie wykorzystany wyniki analizy tego samego zjawiska będą się różnić   
+* problem sposobu podziału przestrzeni - zmiana wyników analizy  w zależnści od sposobu podziału przestrzeni geograficznej na obszary w ramach takiego samego stopnia agregacji danych.
+
+strona 57 do kontynuacji
