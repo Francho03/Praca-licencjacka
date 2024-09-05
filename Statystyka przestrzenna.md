@@ -10,28 +10,28 @@ Analizy przestrzenne:
 * Pomiaru
 * Przekształcenia: Buforowanie i ponowna klasyfikacja wg atrybutów
 
-Interpolacja przesztrzenna- ma na celu okresleni wartosci pewenj w zmiennej w punkcie w którym ona nie była mierzona
+Interpolacja przesztrzenna- ma na celu okreslenie wartosci pewnej zmiennej w punkcie w którym ona nie była mierzona
 ## 1.2 Informacje przestrzenne- klasyfikacja, pomiar zmiennych
 ### Pytania najczęściej zadawane przez badaczy dotyczą:
-1. charakteru występowania zjawiska tzn ustalenia czy dane zjawisko ma w przestrzeni charakter regularny, losowy lub klastrowy.
-2. prawidłowości przestrzennych wykazywanych przez obiekty lub zjawiska
-3. rozproszenia lub skupienia podobnych wartości badanej zmiennej 
-4. skorelowanie badanej zmiennej  z innymi zmiennymi na danym obszarze
-5. niezależności różnych wartości zmiennej, ,, przyciągania się” lub ,,odpychania się” podobnych wartości zmiennej badanej 
-6. zmian w przestrzennym rozkładzie zmiennych
+1. Charakteru występowania zjawiska tzn ustalenia czy dane zjawisko ma w przestrzeni charakter regularny, losowy lub klastrowy.
+2. Prawidłowości przestrzennych wykazywanych przez obiekty lub zjawiska
+3. Rozproszenia lub skupienia podobnych wartości badanej zmiennej 
+4. Skorelowanie badanej zmiennej  z innymi zmiennymi na danym obszarze
+5. Niezależności różnych wartości zmiennej, ,, przyciągania się” lub ,,odpychania się” podobnych wartości zmiennej badanej 
+6. Zmian w przestrzennym rozkładzie zmiennych
 ### Dane zlokalizowane:
-1.  zbiór znaków 
-2. zbiór słów
+1. Zbiór znaków 
+2. Zbiór słów
 3. Dane Statystyczne:
 * Klasyfikacja wg źródeł informacji
-1.  informacje naturalne(geograficzne)
+1.  Informacje naturalne(geograficzne)
   * Dane geograficzne:
 - Dane rastrowe- opisane za pomocą siatki 
 - Dane wektorowe - opisane za pomocą współrzędnych
-2. społeczno ekonomiczne
+2. Społeczno ekonomiczne
 * Dane infrastrukturalne - łączą dane geograficzne i społeczno ekonomiczne, najczęściej są to informacje o wielkości i położeniu obiektów w postaci infrastruktury( np rzeki,kanały drogi)
 * Klasyfikacja wg typów informacji
-1. informacje otrzymane na podstawie różnego rodzaju pomiarów topograficznych:
+1. Informacje otrzymane na podstawie różnego rodzaju pomiarów topograficznych:
 1. Dane powierzchniowe - ciągła zmienność informacji otrzymywana na podstawie ocen i informacji przestrzennych gromadzonych w terenie.- metoda interpolacji obszarowej
 1. Dane obszarowe- dane dyskretne - pochodzą z pewnej powierzchni geograficznej dla badanych obiektów, wykazują autokorelacja przestrzenna i heterogeniczności.
 1. Dane punktowe - odnoszą się do badanych zjawisk, które się zrealizowały. Mają tendencję do tworzenia skupisk dlatego trzeba je testować. 
@@ -56,13 +56,13 @@ na układzie współrzędnych
 ## 1.3 Jakość danych przestrzennych
 
 Siedem cech dotyczących jakości danych przestrzennych:
-1. pochodzenie- skąd pochodzą dane, kiedy zostały pozyskane i jak?
-1. zgodność- brak wewnętrznej sprzeczności
-1. kompleksowość- spełnienia przez zbiór danych deklarowanych wytycznych
-1. dokładność semantyczna- wyraża wierności z jaką zbiór danych odpowiadający przyjętemu modelowi danych przestrzennych odtwarza dziedzinę problemu
-1. dokładność czasowa- aktualność danych do wymagań
-1. dokładność pozycyjna-dokładność współrzędnych punktów
-1. dokładność atrybutu-prawidłowość określenia atrybutów
+1. Pochodzenie- skąd pochodzą dane, kiedy zostały pozyskane i jak?
+1. Zgodność- brak wewnętrznej sprzeczności
+1. Kompleksowość- spełnienia przez zbiór danych deklarowanych wytycznych
+1. Dokładność semantyczna- wyraża wierności z jaką zbiór danych odpowiadający przyjętemu modelowi danych przestrzennych odtwarza dziedzinę problemu
+1. Dokładność czasowa- aktualność danych do wymagań
+1. Dokładność pozycyjna-dokładność współrzędnych punktów
+1. Dokładność atrybutu-prawidłowość określenia atrybutów
 
 ## 1.4 Niepewność w danych przestrzennych
 
@@ -71,20 +71,20 @@ Głównym źródłem niepewności jest sposób zdefiniowania badanych obiektów 
 ### Dobrze zdefiniowany obiekt - można go wydzielić z innych obiektów.
 
 #### Rodzaje błędów niepewności przy dobrze zdefiniowanym obiekcie:
-1. pomiarowe
-1. klasyfikacji
-1. wynikające z generalizacji przestrzeni
-1. popełniane podczas wprowadzania danych
-1. powstałe w wyniku upływu czasu 
-1. powstałe podczas przetwarzania danych
-1. wynikajce z fakt ze atrybutu czy polozenie obiektow w przestrzeni nie są pewne i mogą być określone jedynie z pewnym prawdopodobieństwem
+1. Pomiarowe
+1. Klasyfikacji
+1. Wynikające z generalizacji przestrzeni
+1. Popełniane podczas wprowadzania danych
+1. Powstałe w wyniku upływu czasu 
+1. Powstałe podczas przetwarzania danych
+1. Wynikajce z fakt ze atrybutu czy polozenie obiektow w przestrzeni nie są pewne i mogą być określone jedynie z pewnym prawdopodobieństwem
 ### Obiekty słabo zdefiniowany - nieokreślony i niejednorodność.
 ##### Nieokreśloność:
-* własności- wynika z braku wyraźnych granic obiektu
-* atrybutów- wynika z braku jednoznacznych kryteriów klasyfikacji.- Teoria zbiorów rozmytych
+* Własności- wynika z braku wyraźnych granic obiektu
+* Atrybutów- wynika z braku jednoznacznych kryteriów klasyfikacji.- Teoria zbiorów rozmytych
 #### Niejednorodność- problem przyporządkowania obiektu do określonej klasy w sytuacji gdy w systemach klasyfikacji występują różne kryteria służące do określenia tej samej klasy.
-* niezgodność -teoria Dempstera-Shafera(DST) i model danych częściowo wyspecyfikowany
-* niespecyficzność-teoria zbiorów rozmytych
+* Niezgodność -teoria Dempstera-Shafera(DST) i model danych częściowo wyspecyfikowany
+* Niespecyficzność-teoria zbiorów rozmytych
 
 ## 1.5 Reprezentatywności próby w badaniach przestrzennych.
 
@@ -102,22 +102,22 @@ Głównym źródłem niepewności jest sposób zdefiniowania badanych obiektów 
 # Rozdział drugi: Geneza i rozwój metod statystyki przestrzennej.
 ## 2.1 Statystyka przestrzenna jako dziedzina analizy przestrzennej
 Statystyczna analiza danych przestrzennych:
-1. ekonometria przestrzenna - specyfikacja, estymacja i weryfikacja modeli uwzględniających aspekt przestrzenny.
-2. statystyka przestrzenna - opiera na się na analizie danych
+1. Ekonometria przestrzenna - specyfikacja, estymacja i weryfikacja modeli uwzględniających aspekt przestrzenny.
+2. Statystyka przestrzenna - opiera na się na analizie danych
 ### Trzy główne nurty metodologiczne w statystyce przestrzennej:
-####  1.analiza danych punktowych: 
-##### w jaki sposób obiekty są rozmieszczane w przestrzeni:
+####  1.Analiza danych punktowych: 
+##### W jaki sposób obiekty są rozmieszczane w przestrzeni:
  * losowo-(na rozmieszczenie nie wpływa żaden czynnik)
  * regularnie-(świadome rozmieszczenie obiektów w nienaturalny sposób)
  * klastrowo-( na rozmieszczeni wplywa czynnik)
 ##### Warunki konieczne do przeprowadzenia analizy danych punktowych:
-1. znajomość długości i szerokości współrzędnych geograficznych punktó nanoszonych na mapę
-2. wcześniejsze określenie powierzchni badanego obszaru
-3. dane punktowe powinny stanowić kompletny zbiór, a nie jedynie próbę
-4. istnienie rzeczywistej zależności między obiektami analizowane obszaru a punktami nanoszonymi na mapę
+1. Znajomość długości i szerokości współrzędnych geograficznych punktó nanoszonych na mapę
+2. Wcześniejsze określenie powierzchni badanego obszaru
+3. Dane punktowe powinny stanowić kompletny zbiór, a nie jedynie próbę
+4. Istnienie rzeczywistej zależności między obiektami analizowane obszaru a punktami nanoszonymi na mapę
    
-#### 2. geostatystyka - optymalizacja szacowanych parametrów geologicznych
-#### 3. metody analizy danych obszarowych i i punktowych atrybutowych
+#### 2. Geostatystyka - optymalizacja szacowanych parametrów geologicznych
+#### 3. Metody analizy danych obszarowych i i punktowych atrybutowych
 ## 2.2 Rozwój metod statystyki przestrzennej
 Autokorelacja przestrzenna- występowanie jednego zjawiska w jednej jednostce przestrzennej powoduje zmniejszanie się bądź zwiększanie się tego zjawiska w jednostkach sąsiednich. 
 
@@ -132,9 +132,9 @@ Statystyka klasyczna zakłada, że elementy próby są dobierane niezależnie, n
 * przestrzeń społeczną
 ### 2.3.3 Statystka przestrzenna a ekonometria przestrzenna. 
 #### Trzy zasady modelowania statystycznego:
-1. qproksymacja funkcji(regresja przestrzenna) dopasowującej do zbioru wejściowych danych przestrzennych zależności analitycznej wyrażonej wzorem matematycznym
-2. klasyfikacja, czyli przypisanie zaobserwowanych przypadków do określonej liczby klas kategorii reprezentowanych przez zmnienne wyjsciowe
-3. wykrywanie regularności istotnych cech w danych wejściowych bez znajomości wzorców
+1. Aproksymacja funkcji(regresja przestrzenna) dopasowującej do zbioru wejściowych danych przestrzennych zależności analitycznej wyrażonej wzorem matematycznym
+2. Klasyfikacja, czyli przypisanie zaobserwowanych przypadków do określonej liczby klas kategorii reprezentowanych przez zmnienne wyjsciowe
+3. Wykrywanie regularności istotnych cech w danych wejściowych bez znajomości wzorców
 
 #### Statystyka przestrzenna opiera się na podejściu data driven
 #### Ekonometria przestrzenna opiera się na podejściumodel driven 
@@ -143,22 +143,22 @@ Statystyka klasyczna zakłada, że elementy próby są dobierane niezależnie, n
 #### Cztery rodzaje danych przestrzennych wg Cressie:
 1. Dane obszarowe - charakteryzujące się skokową zmniennościa- jest określony
 2. Dane powierzchniowe- określane poprzez ciągłą zmienność na podstawie funkcji odległości- jest określony
-3. Dane punktowe - reprezentują wartości zmiennych mające charakter puunktów w przestreni georgaficznej- pole losowe
+3. Dane punktowe - reprezentują wartości zmiennych mające charakter punktów w przestrzeni georgaficznej- pole losowe
 5. Obszary przestrzenne - wartości zmiennych mające charakter obiektów o określonym zasięgu przestrzennym- pole losowe
-#### Efekty pierwszego rzędu - odnoszą się do zmian wartości średnej danej zmiennej w określonej przestrzeni. - Trafycyjna regresja
+#### Efekty pierwszego rzędu - odnoszą się do zmian wartości średnej danej zmiennej w określonej przestrzeni. - Tradycyjna regresja
 #### Efekty drugiego rzędu- odnoszą się do przestrzennych zależności pomiędzy jednostkami. Zachodzi efekt sąsiedztwa. - techniki analizy biorące pod uwagę kowiariancję w danych generujących efekty lokalne.
-#### Współzależność przestrzenna - natężenie pewnych zjawisk przenosi się a obiektu na inne obszary sąsiednie. = Prawo Toblera = autokorelacja przestrzenna. 
+#### Współzależność przestrzenna - natężenie pewnych zjawisk przenosi się z obiektu na inne obszary sąsiednie. = Prawo Toblera = autokorelacja przestrzenna. 
 #### Heterogeniczność przestrzenna(odwzorowanie stacjonarności w szeregach czasowych) - brak stałości struktur rozmieszcenia wartości badanych cech.
-#### Błąd ekologiczny - różnica pomiędzy wartością statystyki dla pojedynczego obiektu estymowanej za pomocą zbiorowości a wartością statystyki szacowanej na podstawie jednsotek.
+#### Błąd ekologiczny - różnica pomiędzy wartością statystyki dla pojedynczego obiektu estymowanej za pomocą zbiorowości, a wartością statystyki szacowanej na podstawie jednsotek.
 #### Błąd atomistyczny - odwrotność błędu ekologicznego
 #### Problem zmiennej jednsotki odniesienia - błąd wynikający z faktu, że zjawisko o charakterze punktowym jest analizowane za pomocą danych zagregowanych. - szczególny przypadek błedu ekologicznego.
 ### 3.1.1 Dane obszarowe
 -miejsce na wzór strona 52!!!
 #### Główne techniki analizy danych obszarowych:
-1. przestrzenna średnia ruchoma
-2. estymacja jądra
-3. przestrzenna autokorelacja
-4. przestrzenna korelacja i regresja
+1. Przestrzenna średnia ruchoma
+2. Estymacja jądra
+3. Przestrzenna autokorelacja
+4. Przestrzenna korelacja i regresja
 ### 3.1.2 Dane powierzchniowe
 nieskończona liczba lokazlizacji si
 #### Główne techniki analizy danych powierzchniowych
