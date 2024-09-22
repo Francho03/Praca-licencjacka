@@ -198,5 +198,16 @@ Efekt MAUP związany z przestrzenną agregacją danych jest statystycznie istotn
 W każdym podziale liczba poligonów wynosi 20, natomiast ich geometria jest inna.
 
 ![IMG20240716142643](https://github.com/user-attachments/assets/1e360137-e4d9-4863-883d-9994321f75cc)
+#### Wyniki:
+![image](https://github.com/user-attachments/assets/a6b2f887-a96e-4b58-8cb9-3f5729e9b6c9)
+Jak widać średnia oraz odchylenie standardowe nie różnią się w sposób istotny statystycznie, natomiast współczynnik korelacji różni się już w sposób istotny.
 
-kontynuuj strona 60
+Nieloswy rozkład zjawiska w przestrzeni geograficznej możę skutkować istotnym statystycznie efektem agregacji i zmainy podziału przestrzeni.
+
+
+MAUP może być traktowany jako szczegółny przypadek błędu ekologicznego. 
+W MAUP:                W Błędzi ekologicznym
+efekt skali/agregacji----> błąd agregacji
+sposób podziału przestrzeni---> błąd specyfikacji
+
+### 3.2.2. Błąd atomistyczny
