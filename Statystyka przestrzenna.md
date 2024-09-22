@@ -184,5 +184,19 @@ Macierz geograficzna Berrego
 #### Problem MAUP można podzielć na dwa problemy:
 * problem stosowanej w analizie skali/poziomu agregacji- w zależności jaki poziom agregacji danych zostanie wykorzystany wyniki analizy tego samego zjawiska będą się różnić   
 * problem sposobu podziału przestrzeni - zmiana wyników analizy  w zależnści od sposobu podziału przestrzeni geograficznej na obszary w ramach takiego samego stopnia agregacji danych.
+##### Przykład 3.1 Efekt zmiany poziomu agregacji przestrzennej danych
+![IMG20240716142643](https://github.com/user-attachments/assets/69d927c2-a23c-4f08-a586-7a1f1e0f8754)
+##### Obserwacje:
+###### Wzrosrt poziomu agregacji danych powoduje:
+- redukcje wielkość odchylenia standardowego
+- wzrost współczynnika korelacji liniowej 
+###### Wnioski:
+Efekt MAUP związany z przestrzenną agregacją danych jest statystycznie istotny.
 
-strona 57 do kontynuacji
+##### Przykład 3.2 Efekt zzmiany sposobu podziału przestrzeni geograficznej.
+1000 elementów losowo rozłożoną w przestrzeni geograficznej, a przestrzeń tą podzielono na 6 różnych sposobów, tak, że każdy z nich odzwierciedla ten sam poziom agregacji przestrzennej danych oraz dzieli  zbiór respondentów w sposob rozłączny i wyczerpujący.
+W każdym podziale liczba poligonów wynosi 20, natomiast ich geometria jest inna.
+
+![IMG20240716142643](https://github.com/user-attachments/assets/1e360137-e4d9-4863-883d-9994321f75cc)
+
+kontynuuj strona 60
