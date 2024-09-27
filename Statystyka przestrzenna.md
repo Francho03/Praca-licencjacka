@@ -211,3 +211,21 @@ efekt skali/agregacji----> błąd agregacji
 sposób podziału przestrzeni---> błąd specyfikacji
 
 ### 3.2.2. Błąd atomistyczny
+Bład atomistyczny wiąże się z nieuprawnionym wnioskowaniem o makrozależnościach na podstawie danych mikro.
+
+#### Przykład oddający istotę błędu atomistycznego:
+Badamy relację między poziomem dochodów a zapadalnością na atak serca.
+Na podstawie danych indywidualnych obserwujemy, że wzrost dochodu indywidualnego danej osoby istotnie statycznie redukuje ryzyko zawału. Jeśli uogólnimy ten wniosek na poziom makro, można stwierdzić: 
+Na poziomie krajowym wzrost dochodu per capita zmniejsza ryzyko choroby.
+
+###### Wniosek ten obciążony jest błedem atomistycznym 
+
+##### Narzędziem pozwalającym uniknąć popełnienia błędu atomistycznego jest model wielopoziomowy. 
+
+### 3.2.3. Efekt krawędzi
+Efekt krawędzi występuje wtedy kiedy granica dzieląca obszary rodziela dane skorelowane przestrzennie - czyli istnieje dyskretna granica danego zjawiska różna od tej jaka została wykorzystana do wydzielania obszarów na potrzeby analizy. Wtedy takie obszaru zniekształcają wyniki i interakcje przestrzenne. 
+#### Przykład 3.3 Wizualizacja efektu krawędzi na podstawie danych symulowanych 
+![IMG20240716142711 (1)](https://github.com/user-attachments/assets/a449c22d-3105-4382-b2ac-ea5e60f3a2ca)
+Metoda zapobiegająca efektu krawędzi to stosowanie k-funkcji Ripley'a.
+## 3.3. Modele danych przestrzennych
+### 3.3.1 Charaktersytyka danych przestrzennych
