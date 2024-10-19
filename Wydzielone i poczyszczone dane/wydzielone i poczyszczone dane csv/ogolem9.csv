@@ -1,0 +1,2518 @@
+LP.,wojewodztwo,powiat,gmina,typ gminy,"typ
+jednostki",KESO,razem,MRiPS,MSWIA,MZ,MEiN,MKDNiS
+1,-,-,-,-,MKiDN,040000000000,X,X,X,X,X,X
+2,-,-,-,-,MSW,020000000000,X,X,X,X,X,X
+3,-,-,-,-,MZ,010000000000,X,X,X,X,X,X
+4,dolnośląskie,-,-,-,WPS,100200000000,16938,16938,X,X,X,X
+5,dolnośląskie,bolesławiecki,Bolesławiec,miejska,OPS,300201011000,256,256,X,X,X,X
+6,dolnośląskie,bolesławiecki,Bolesławiec,wiejska,OPS,300201022000,36,36,X,X,X,X
+7,dolnośląskie,bolesławiecki,Gromadka,wiejska,OPS,300201032000,10,10,X,X,X,X
+8,dolnośląskie,bolesławiecki,Nowogrodziec,miejsko-wiejska,OPS,300201043000,92,92,X,X,X,X
+9,dolnośląskie,bolesławiecki,Osiecznica,wiejska,OPS,300201052000,16,16,X,X,X,X
+10,dolnośląskie,bolesławiecki,Warta Bolesławiecka,wiejska,OPS,300201062000,0,0,X,X,X,X
+11,dolnośląskie,dzierżoniowski,Bielawa,miejska,OPS,300202011000,146,146,X,X,X,X
+12,dolnośląskie,dzierżoniowski,Dzierżoniów,miejska,OPS,300202021000,179,179,X,X,X,X
+13,dolnośląskie,dzierżoniowski,Dzierżoniów,wiejska,OPS,300202052000,39,39,X,X,X,X
+14,dolnośląskie,dzierżoniowski,Łagiewniki,wiejska,OPS,300202062000,42,42,X,X,X,X
+15,dolnośląskie,dzierżoniowski,Niemcza,miejsko-wiejska,OPS,300202073000,0,0,X,X,X,X
+16,dolnośląskie,dzierżoniowski,Pieszyce,miejsko-wiejska,OPS,300202031000,42,42,X,X,X,X
+17,dolnośląskie,dzierżoniowski,Piława Górna,miejska,OPS,300202041000,14,14,X,X,X,X
+18,dolnośląskie,głogowski,Głogów,miejska,OPS,300203011000,369,369,X,X,X,X
+19,dolnośląskie,głogowski,Głogów,wiejska,OPS,300203022000,56,56,X,X,X,X
+20,dolnośląskie,głogowski,Jerzmanowa,wiejska,OPS,300203032000,43,43,X,X,X,X
+21,dolnośląskie,głogowski,Kotla,wiejska,OPS,300203042000,128,128,X,X,X,X
+22,dolnośląskie,głogowski,Pęcław,wiejska,OPS,300203052000,22,22,X,X,X,X
+23,dolnośląskie,głogowski,Żukowice,wiejska,OPS,300203062000,25,25,X,X,X,X
+24,dolnośląskie,górowski,Góra,miejsko-wiejska,OPS,300204013000,136,136,X,X,X,X
+25,dolnośląskie,górowski,Jemielno,wiejska,OPS,300204022000,28,28,X,X,X,X
+26,dolnośląskie,górowski,Niechlów,wiejska,OPS,300204032000,50,50,X,X,X,X
+27,dolnośląskie,górowski,Wąsosz,miejsko-wiejska,OPS,300204043000,66,66,X,X,X,X
+28,dolnośląskie,jaworski,Bolków,miejsko-wiejska,OPS,300205023000,56,56,X,X,X,X
+29,dolnośląskie,jaworski,Jawor,miejska,OPS,300205011000,127,127,X,X,X,X
+30,dolnośląskie,jaworski,Męcinka,wiejska,OPS,300205032000,35,35,X,X,X,X
+31,dolnośląskie,jaworski,Mściwojów,wiejska,OPS,300205042000,24,24,X,X,X,X
+32,dolnośląskie,jaworski,Paszowice,wiejska,OPS,300205052000,20,20,X,X,X,X
+33,dolnośląskie,jaworski,Wądroże Wielkie,wiejska,OPS,300205062000,14,14,X,X,X,X
+34,dolnośląskie,m. Jelenia Góra,M. Jelenia Góra,miejska,MOPR,250261011000,352,352,X,X,X,X
+35,dolnośląskie,kamiennogórski,Kamienna Góra,miejska,OPS,300207011000,202,202,X,X,X,X
+36,dolnośląskie,kamiennogórski,Kamienna Góra,wiejska,OPS,300207022000,114,114,X,X,X,X
+37,dolnośląskie,kamiennogórski,Lubawka,miejsko-wiejska,OPS,300207033000,68,68,X,X,X,X
+38,dolnośląskie,kamiennogórski,Marciszów,wiejska,OPS,300207042000,37,37,X,X,X,X
+39,dolnośląskie,karkonoski,Janowice Wielkie,wiejska,OPS,300206052000,12,12,X,X,X,X
+40,dolnośląskie,karkonoski,Jeżów Sudecki,wiejska,OPS,300206062000,11,11,X,X,X,X
+41,dolnośląskie,karkonoski,Karpacz,miejska,OPS,300206011000,12,12,X,X,X,X
+42,dolnośląskie,karkonoski,Kowary,miejska,OPS,300206021000,46,46,X,X,X,X
+43,dolnośląskie,karkonoski,Mysłakowice,wiejska,OPS,300206072000,32,32,X,X,X,X
+44,dolnośląskie,karkonoski,Piechowice,miejska,OPS,300206031000,55,55,X,X,X,X
+45,dolnośląskie,karkonoski,Podgórzyn,wiejska,OPS,300206082000,28,28,X,X,X,X
+46,dolnośląskie,karkonoski,Stara Kamienica,wiejska,OPS,300206092000,30,30,X,X,X,X
+47,dolnośląskie,karkonoski,Szklarska Poręba,miejska,OPS,300206041000,36,36,X,X,X,X
+48,dolnośląskie,kłodzki,Bystrzyca Kłodzka,miejsko-wiejska,OPS,300208063000,251,251,X,X,X,X
+49,dolnośląskie,kłodzki,Duszniki-Zdrój,miejska,OPS,300208011000,45,45,X,X,X,X
+50,dolnośląskie,kłodzki,Kłodzko,miejska,OPS,300208021000,154,154,X,X,X,X
+51,dolnośląskie,kłodzki,Kłodzko,wiejska,OPS,300208072000,75,75,X,X,X,X
+52,dolnośląskie,kłodzki,Kudowa-Zdrój,miejska,OPS,300208031000,126,126,X,X,X,X
+53,dolnośląskie,kłodzki,Lądek-Zdrój,miejsko-wiejska,OPS,300208083000,32,32,X,X,X,X
+54,dolnośląskie,kłodzki,Lewin Kłodzki,wiejska,OPS,300208092000,23,23,X,X,X,X
+55,dolnośląskie,kłodzki,Międzylesie,miejsko-wiejska,OPS,300208103000,81,81,X,X,X,X
+56,dolnośląskie,kłodzki,Nowa Ruda,miejska,OPS,300208041000,84,84,X,X,X,X
+57,dolnośląskie,kłodzki,Nowa Ruda,wiejska,OPS,300208112000,66,66,X,X,X,X
+58,dolnośląskie,kłodzki,Polanica-Zdrój,miejska,OPS,300208051000,20,20,X,X,X,X
+59,dolnośląskie,kłodzki,Radków,miejsko-wiejska,OPS,300208123000,77,77,X,X,X,X
+60,dolnośląskie,kłodzki,Stronie Śląskie,miejsko-wiejska,OPS,300208133000,50,50,X,X,X,X
+61,dolnośląskie,kłodzki,Szczytna,miejsko-wiejska,OPS,300208143000,32,32,X,X,X,X
+62,dolnośląskie,m. Legnica,M. Legnica,miejska,MOPR,250262011000,476,476,X,X,X,X
+63,dolnośląskie,legnicki,Chojnów,miejska,OPS,300209011000,29,29,X,X,X,X
+64,dolnośląskie,legnicki,Chojnów,wiejska,OPS,300209022000,34,34,X,X,X,X
+65,dolnośląskie,legnicki,Krotoszyce,wiejska,OPS,300209032000,54,54,X,X,X,X
+66,dolnośląskie,legnicki,Kunice,wiejska,OPS,300209042000,41,41,X,X,X,X
+67,dolnośląskie,legnicki,Legnickie Pole,wiejska,OPS,300209052000,31,31,X,X,X,X
+68,dolnośląskie,legnicki,Miłkowice,wiejska,OPS,300209062000,32,32,X,X,X,X
+69,dolnośląskie,legnicki,Prochowice,miejsko-wiejska,OPS,300209073000,35,35,X,X,X,X
+70,dolnośląskie,legnicki,Ruja,wiejska,OPS,300209082000,19,19,X,X,X,X
+71,dolnośląskie,lubański,Leśna,miejsko-wiejska,OPS,300210033000,34,34,X,X,X,X
+72,dolnośląskie,lubański,Lubań,miejska,OPS,300210011000,53,53,X,X,X,X
+73,dolnośląskie,lubański,Lubań,wiejska,OPS,300210042000,21,21,X,X,X,X
+74,dolnośląskie,lubański,Olszyna,miejsko-wiejska,OPS,300210052000,20,20,X,X,X,X
+75,dolnośląskie,lubański,Platerówka,wiejska,OPS,300210062000,6,6,X,X,X,X
+76,dolnośląskie,lubański,Siekierczyn,wiejska,OPS,300210072000,14,14,X,X,X,X
+77,dolnośląskie,lubański,Świeradów-Zdrój,miejska,OPS,300210021000,11,11,X,X,X,X
+78,dolnośląskie,lubiński,Lubin,miejska,OPS,300211011000,511,511,X,X,X,X
+79,dolnośląskie,lubiński,Lubin,wiejska,OPS,300211022000,82,82,X,X,X,X
+80,dolnośląskie,lubiński,Rudna,wiejska,OPS,300211032000,83,83,X,X,X,X
+81,dolnośląskie,lubiński,Ścinawa,miejsko-wiejska,OPS,300211043000,35,35,X,X,X,X
+82,dolnośląskie,lwówecki,Gryfów Śląski,miejsko-wiejska,OPS,300212013000,77,77,X,X,X,X
+83,dolnośląskie,lwówecki,Lubomierz,miejsko-wiejska,OPS,300212023000,24,24,X,X,X,X
+84,dolnośląskie,lwówecki,Lwówek Śląski,miejsko-wiejska,OPS,300212033000,113,113,X,X,X,X
+85,dolnośląskie,lwówecki,Mirsk,miejsko-wiejska,OPS,300212043000,30,30,X,X,X,X
+86,dolnośląskie,lwówecki,Wleń,miejsko-wiejska,OPS,300212053000,19,19,X,X,X,X
+87,dolnośląskie,milicki,Cieszków,wiejska,OPS,300213012000,9,9,X,X,X,X
+88,dolnośląskie,milicki,Krośnice,wiejska,OPS,300213022000,32,32,X,X,X,X
+89,dolnośląskie,milicki,Milicz,miejsko-wiejska,OPS,300213033000,66,66,X,X,X,X
+90,dolnośląskie,oleśnicki,Bierutów,miejsko-wiejska,OPS,300214023000,37,37,X,X,X,X
+91,dolnośląskie,oleśnicki,Dobroszyce,wiejska,OPS,300214032000,33,33,X,X,X,X
+92,dolnośląskie,oleśnicki,Dziadowa Kłoda,wiejska,OPS,300214042000,40,40,X,X,X,X
+93,dolnośląskie,oleśnicki,Międzybórz,miejsko-wiejska,OPS,300214053000,7,7,X,X,X,X
+94,dolnośląskie,oleśnicki,Oleśnica,miejska,OPS,300214011000,422,422,X,X,X,X
+95,dolnośląskie,oleśnicki,Oleśnica,wiejska,OPS,300214062000,43,43,X,X,X,X
+96,dolnośląskie,oleśnicki,Syców,miejsko-wiejska,OPS,300214073000,68,68,X,X,X,X
+97,dolnośląskie,oleśnicki,Twardogóra,miejsko-wiejska,OPS,300214083000,47,47,X,X,X,X
+98,dolnośląskie,oławski,Domaniów,wiejska,OPS,300215022000,0,0,X,X,X,X
+99,dolnośląskie,oławski,Jelcz-Laskowice,miejsko-wiejska,OPS,300215033000,250,250,X,X,X,X
+100,dolnośląskie,oławski,Oława,miejska,OPS,300215011000,286,286,X,X,X,X
+101,dolnośląskie,oławski,Oława,wiejska,OPS,300215042000,16,16,X,X,X,X
+102,dolnośląskie,polkowicki,Chocianów,miejsko-wiejska,OPS,300216013000,31,31,X,X,X,X
+103,dolnośląskie,polkowicki,Gaworzyce,wiejska,OPS,300216022000,32,32,X,X,X,X
+104,dolnośląskie,polkowicki,Grębocice,wiejska,OPS,300216032000,36,36,X,X,X,X
+105,dolnośląskie,polkowicki,Polkowice,miejsko-wiejska,OPS,300216043000,519,519,X,X,X,X
+106,dolnośląskie,polkowicki,Przemków,miejsko-wiejska,OPS,300216053000,38,38,X,X,X,X
+107,dolnośląskie,polkowicki,Radwanice,wiejska,OPS,300216062000,38,38,X,X,X,X
+108,dolnośląskie,strzeliński,Borów,wiejska,OPS,300217012000,10,10,X,X,X,X
+109,dolnośląskie,strzeliński,Kondratowice,wiejska,OPS,300217022000,36,36,X,X,X,X
+110,dolnośląskie,strzeliński,Przeworno,wiejska,OPS,300217032000,28,28,X,X,X,X
+111,dolnośląskie,strzeliński,Strzelin,miejsko-wiejska,OPS,300217043000,0,0,X,X,X,X
+112,dolnośląskie,strzeliński,Wiązów,miejsko-wiejska,OPS,300217053000,61,61,X,X,X,X
+113,dolnośląskie,średzki,Kostomłoty,wiejska,OPS,300218012000,46,46,X,X,X,X
+114,dolnośląskie,średzki,Malczyce,wiejska,OPS,300218022000,16,16,X,X,X,X
+115,dolnośląskie,średzki,Miękinia,wiejska,OPS,300218032000,149,149,X,X,X,X
+116,dolnośląskie,średzki,Środa Śląska,miejsko-wiejska,OPS,300218043000,0,0,X,X,X,X
+117,dolnośląskie,średzki,Udanin,wiejska,OPS,300218052000,20,20,X,X,X,X
+118,dolnośląskie,świdnicki,Dobromierz,wiejska,OPS,300219032000,70,70,X,X,X,X
+119,dolnośląskie,świdnicki,Jaworzyna Śląska,miejsko-wiejska,OPS,300219043000,46,46,X,X,X,X
+120,dolnośląskie,świdnicki,Marcinowice,wiejska,OPS,300219052000,22,22,X,X,X,X
+121,dolnośląskie,świdnicki,Strzegom,miejsko-wiejska,OPS,300219063000,183,183,X,X,X,X
+122,dolnośląskie,świdnicki,Świdnica,miejska,OPS,300219011000,703,703,X,X,X,X
+123,dolnośląskie,świdnicki,Świdnica,wiejska,OPS,300219072000,45,45,X,X,X,X
+124,dolnośląskie,świdnicki,Świebodzice,miejska,OPS,300219021000,208,208,X,X,X,X
+125,dolnośląskie,świdnicki,Żarów,miejsko-wiejska,OPS,300219083000,133,133,X,X,X,X
+126,dolnośląskie,trzebnicki,Oborniki Śląskie,miejsko-wiejska,OPS,300220013000,52,52,X,X,X,X
+127,dolnośląskie,trzebnicki,Prusice,miejsko-wiejska,OPS,300220023000,134,134,X,X,X,X
+128,dolnośląskie,trzebnicki,Trzebnica,miejsko-wiejska,OPS,300220033000,129,129,X,X,X,X
+129,dolnośląskie,trzebnicki,Wisznia Mała,wiejska,OPS,300220042000,42,42,X,X,X,X
+130,dolnośląskie,trzebnicki,Zawonia,wiejska,OPS,300220052000,76,76,X,X,X,X
+131,dolnośląskie,trzebnicki,Żmigród,miejsko-wiejska,OPS,300220063000,106,106,X,X,X,X
+132,dolnośląskie,m. Wałbrzych,M. Wałbrzych,miejska,MOPR,250265011000,274,274,X,X,X,X
+133,dolnośląskie,wałbrzyski,Boguszów-Gorce,miejska,OPS,300221011000,85,85,X,X,X,X
+134,dolnośląskie,wałbrzyski,Czarny Bór,wiejska,OPS,300221042000,14,14,X,X,X,X
+135,dolnośląskie,wałbrzyski,Głuszyca,miejsko-wiejska,OPS,300221053000,74,74,X,X,X,X
+136,dolnośląskie,wałbrzyski,Jedlina-Zdrój,miejska,OPS,300221021000,34,34,X,X,X,X
+137,dolnośląskie,wałbrzyski,Mieroszów,miejsko-wiejska,OPS,300221063000,29,29,X,X,X,X
+138,dolnośląskie,wałbrzyski,Stare Bogaczowice,wiejska,OPS,300221072000,3,3,X,X,X,X
+139,dolnośląskie,wałbrzyski,Szczawno-Zdrój,miejska,OPS,300221031000,23,23,X,X,X,X
+140,dolnośląskie,wałbrzyski,Walim,wiejska,OPS,300221082000,56,56,X,X,X,X
+141,dolnośląskie,wołowski,Brzeg Dolny,miejsko-wiejska,OPS,300222013000,51,51,X,X,X,X
+142,dolnośląskie,wołowski,Wińsko,wiejska,OPS,300222022000,28,28,X,X,X,X
+143,dolnośląskie,wołowski,Wołów,miejsko-wiejska,OPS,300222033000,58,58,X,X,X,X
+144,dolnośląskie,m. Wrocław,M. Wrocław,miejska,MOPR,250264011000,3703,3703,X,X,X,X
+145,dolnośląskie,wrocławski,Czernica,wiejska,OPS,300223012000,100,100,X,X,X,X
+146,dolnośląskie,wrocławski,Długołęka,wiejska,OPS,300223022000,104,104,X,X,X,X
+147,dolnośląskie,wrocławski,Jordanów Śląski,wiejska,OPS,300223032000,43,43,X,X,X,X
+148,dolnośląskie,wrocławski,Kąty Wrocławskie,miejsko-wiejska,OPS,300223043000,143,143,X,X,X,X
+149,dolnośląskie,wrocławski,Kobierzyce,wiejska,OPS,300223052000,84,84,X,X,X,X
+150,dolnośląskie,wrocławski,Mietków,wiejska,OPS,300223062000,26,26,X,X,X,X
+151,dolnośląskie,wrocławski,Siechnice,miejsko-wiejska,OPS,300223083000,92,92,X,X,X,X
+152,dolnośląskie,wrocławski,Sobótka,miejsko-wiejska,OPS,300223073000,33,33,X,X,X,X
+153,dolnośląskie,wrocławski,Żórawina,wiejska,OPS,300223092000,116,116,X,X,X,X
+154,dolnośląskie,ząbkowicki,Bardo,miejsko-wiejska,OPS,300224013000,28,28,X,X,X,X
+155,dolnośląskie,ząbkowicki,Ciepłowody,wiejska,OPS,300224022000,25,25,X,X,X,X
+156,dolnośląskie,ząbkowicki,Kamieniec Ząbkowicki,wiejska,OPS,300224032000,0,0,X,X,X,X
+157,dolnośląskie,ząbkowicki,Stoszowice,wiejska,OPS,300224042000,28,28,X,X,X,X
+158,dolnośląskie,ząbkowicki,Ząbkowice Śląskie,miejsko-wiejska,OPS,300224053000,78,78,X,X,X,X
+159,dolnośląskie,ząbkowicki,Ziębice,miejsko-wiejska,OPS,300224063000,101,101,X,X,X,X
+160,dolnośląskie,ząbkowicki,Złoty Stok,miejsko-wiejska,OPS,300224073000,47,47,X,X,X,X
+161,dolnośląskie,zgorzelecki,Bogatynia,miejsko-wiejska,OPS,300225033000,190,190,X,X,X,X
+162,dolnośląskie,zgorzelecki,Pieńsk,miejsko-wiejska,OPS,300225043000,111,111,X,X,X,X
+163,dolnośląskie,zgorzelecki,Sulików,wiejska,OPS,300225052000,59,59,X,X,X,X
+164,dolnośląskie,zgorzelecki,Węgliniec,miejsko-wiejska,OPS,300225063000,33,33,X,X,X,X
+165,dolnośląskie,zgorzelecki,Zawidów,miejska,OPS,300225011000,22,22,X,X,X,X
+166,dolnośląskie,zgorzelecki,Zgorzelec,miejska,OPS,300225021000,140,140,X,X,X,X
+167,dolnośląskie,zgorzelecki,Zgorzelec,wiejska,OPS,300225072000,137,137,X,X,X,X
+168,dolnośląskie,złotoryjski,Pielgrzymka,wiejska,OPS,300226032000,59,59,X,X,X,X
+169,dolnośląskie,złotoryjski,Świerzawa,miejsko-wiejska,OPS,300226043000,27,27,X,X,X,X
+170,dolnośląskie,złotoryjski,Wojcieszów,miejska,OPS,300226011000,27,27,X,X,X,X
+171,dolnośląskie,złotoryjski,Zagrodno,wiejska,OPS,300226052000,16,16,X,X,X,X
+172,dolnośląskie,złotoryjski,Złotoryja,miejska,OPS,300226021000,118,118,X,X,X,X
+173,dolnośląskie,złotoryjski,Złotoryja,wiejska,OPS,300226062000,48,48,X,X,X,X
+174,kujawsko - pomorskie,-,-,-,WPS,100400000000,7662,7662,X,X,X,X
+175,kujawsko - pomorskie,aleksandrowski,Aleksandrów Kujawski,miejska,OPS,300401011000,31,31,X,X,X,X
+176,kujawsko - pomorskie,aleksandrowski,Aleksandrów Kujawski,wiejska,OPS,300401042000,55,55,X,X,X,X
+177,kujawsko - pomorskie,aleksandrowski,Bądkowo,wiejska,OPS,300401052000,3,3,X,X,X,X
+178,kujawsko - pomorskie,aleksandrowski,Ciechocinek,miejska,OPS,300401021000,36,36,X,X,X,X
+179,kujawsko - pomorskie,aleksandrowski,Koneck,wiejska,OPS,300401062000,4,4,X,X,X,X
+180,kujawsko - pomorskie,aleksandrowski,Nieszawa,miejska,OPS,300401031000,15,15,X,X,X,X
+181,kujawsko - pomorskie,aleksandrowski,Raciążek,wiejska,OPS,300401072000,3,3,X,X,X,X
+182,kujawsko - pomorskie,aleksandrowski,Waganiec,wiejska,OPS,300401082000,12,12,X,X,X,X
+183,kujawsko - pomorskie,aleksandrowski,Zakrzewo,wiejska,OPS,300401092000,8,8,X,X,X,X
+184,kujawsko - pomorskie,brodnicki,Bobrowo,wiejska,OPS,300402022000,42,42,X,X,X,X
+185,kujawsko - pomorskie,brodnicki,Brodnica,miejska,OPS,300402011000,151,151,X,X,X,X
+186,kujawsko - pomorskie,brodnicki,Brodnica,wiejska,OPS,300402032000,39,39,X,X,X,X
+187,kujawsko - pomorskie,brodnicki,Brzozie,wiejska,OPS,300402042000,10,10,X,X,X,X
+188,kujawsko - pomorskie,brodnicki,Górzno,miejsko-wiejska,OPS,300402053000,8,8,X,X,X,X
+189,kujawsko - pomorskie,brodnicki,Bartniczka,wiejska,OPS,300402062000,10,10,X,X,X,X
+190,kujawsko - pomorskie,brodnicki,Jabłonowo Pomorskie,miejsko-wiejska,OPS,300402073000,71,71,X,X,X,X
+191,kujawsko - pomorskie,brodnicki,Osiek,wiejska,OPS,300402082000,11,11,X,X,X,X
+192,kujawsko - pomorskie,brodnicki,Świedziebnia,wiejska,OPS,300402092000,18,18,X,X,X,X
+193,kujawsko - pomorskie,brodnicki,Zbiczno,wiejska,OPS,300402102000,13,13,X,X,X,X
+194,kujawsko - pomorskie,bydgoski,Białe Błota,wiejska,OPS,300403012000,139,139,X,X,X,X
+195,kujawsko - pomorskie,bydgoski,Dąbrowa Chełmińska,wiejska,OPS,300403022000,30,30,X,X,X,X
+196,kujawsko - pomorskie,bydgoski,Dobrcz,wiejska,OPS,300403032000,33,33,X,X,X,X
+197,kujawsko - pomorskie,bydgoski,Koronowo,miejsko-wiejska,OPS,300403043000,162,162,X,X,X,X
+198,kujawsko - pomorskie,bydgoski,Nowa Wieś Wielka,wiejska,OPS,300403052000,47,47,X,X,X,X
+199,kujawsko - pomorskie,bydgoski,Osielsko,wiejska,OPS,300403062000,41,41,X,X,X,X
+200,kujawsko - pomorskie,bydgoski,Sicienko,wiejska,OPS,300403072000,63,63,X,X,X,X
+201,kujawsko - pomorskie,bydgoski,Solec Kujawski,miejsko-wiejska,OPS,300403083000,43,43,X,X,X,X
+202,kujawsko - pomorskie,m. Bydgoszcz,M. Bydgoszcz,miejska,MOPR,250461011000,820,820,X,X,X,X
+203,kujawsko - pomorskie,chełmiński,Chełmno,miejska,OPS,300404011000,60,60,X,X,X,X
+204,kujawsko - pomorskie,chełmiński,Chełmno,wiejska,OPS,300404022000,14,14,X,X,X,X
+205,kujawsko - pomorskie,chełmiński,Kijewo Królewskie,wiejska,OPS,300404032000,13,13,X,X,X,X
+206,kujawsko - pomorskie,chełmiński,Lisewo,wiejska,OPS,300404042000,14,14,X,X,X,X
+207,kujawsko - pomorskie,chełmiński,Papowo Biskupie,wiejska,OPS,300404052000,6,6,X,X,X,X
+208,kujawsko - pomorskie,chełmiński,Stolno,wiejska,OPS,300404062000,15,15,X,X,X,X
+209,kujawsko - pomorskie,chełmiński,Unisław,wiejska,OPS,300404072000,33,33,X,X,X,X
+210,kujawsko - pomorskie,golubsko-dobrzyński,Ciechocin,wiejska,OPS,300405022000,9,9,X,X,X,X
+211,kujawsko - pomorskie,golubsko-dobrzyński,Golub-Dobrzyń,miejska,OPS,300405011000,60,60,X,X,X,X
+212,kujawsko - pomorskie,golubsko-dobrzyński,Golub-Dobrzyń,wiejska,OPS,300405032000,22,22,X,X,X,X
+213,kujawsko - pomorskie,golubsko-dobrzyński,Kowalewo Pomorskie,miejsko-wiejska,OPS,300405043000,91,91,X,X,X,X
+214,kujawsko - pomorskie,golubsko-dobrzyński,Radomin,wiejska,OPS,300405052000,15,15,X,X,X,X
+215,kujawsko - pomorskie,golubsko-dobrzyński,Zbójno,wiejska,OPS,300405062000,29,29,X,X,X,X
+216,kujawsko - pomorskie,m. Grudziądz,M. Grudziądz,miejska,MOPR,250462011000,547,547,X,X,X,X
+217,kujawsko - pomorskie,grudziądzki,Grudziądz,wiejska,OPS,300406012000,29,29,X,X,X,X
+218,kujawsko - pomorskie,grudziądzki,Gruta,wiejska,OPS,300406022000,14,14,X,X,X,X
+219,kujawsko - pomorskie,grudziądzki,Łasin,miejsko-wiejska,OPS,300406033000,61,61,X,X,X,X
+220,kujawsko - pomorskie,grudziądzki,Radzyń Chełmiński,miejsko-wiejska,OPS,300406043000,31,31,X,X,X,X
+221,kujawsko - pomorskie,grudziądzki,Rogóźno,wiejska,OPS,300406052000,7,7,X,X,X,X
+222,kujawsko - pomorskie,grudziądzki,Świecie nad Osą,wiejska,OPS,300406062000,16,16,X,X,X,X
+223,kujawsko - pomorskie,inowrocławski,Dąbrowa Biskupia,wiejska,OPS,300407022000,47,47,X,X,X,X
+224,kujawsko - pomorskie,inowrocławski,Gniewkowo,miejsko-wiejska,OPS,300407033000,55,55,X,X,X,X
+225,kujawsko - pomorskie,inowrocławski,Inowrocław,miejska,OPS,300407011000,284,284,X,X,X,X
+226,kujawsko - pomorskie,inowrocławski,Inowrocław,wiejska,OPS,300407042000,44,44,X,X,X,X
+227,kujawsko - pomorskie,inowrocławski,Janikowo,miejsko-wiejska,OPS,300407053000,35,35,X,X,X,X
+228,kujawsko - pomorskie,inowrocławski,Kruszwica,miejsko-wiejska,OPS,300407063000,62,62,X,X,X,X
+229,kujawsko - pomorskie,inowrocławski,Pakość,miejsko-wiejska,OPS,300407073000,69,69,X,X,X,X
+230,kujawsko - pomorskie,inowrocławski,Rojewo,wiejska,OPS,300407082000,49,49,X,X,X,X
+231,kujawsko - pomorskie,inowrocławski,Złotniki Kujawskie,wiejska,OPS,300407092000,25,25,X,X,X,X
+232,kujawsko - pomorskie,lipnowski,Bobrowniki,wiejska,OPS,300408022000,0,0,X,X,X,X
+233,kujawsko - pomorskie,lipnowski,Chrostkowo,wiejska,OPS,300408032000,16,16,X,X,X,X
+234,kujawsko - pomorskie,lipnowski,Dobrzyń nad Wisłą,miejsko-wiejska,OPS,300408043000,23,23,X,X,X,X
+235,kujawsko - pomorskie,lipnowski,Kikół,wiejska,OPS,300408052000,16,16,X,X,X,X
+236,kujawsko - pomorskie,lipnowski,Lipno,miejska,OPS,300408011000,98,98,X,X,X,X
+237,kujawsko - pomorskie,lipnowski,Lipno,wiejska,OPS,300408062000,7,7,X,X,X,X
+238,kujawsko - pomorskie,lipnowski,Skępe,miejsko-wiejska,OPS,300408073000,9,9,X,X,X,X
+239,kujawsko - pomorskie,lipnowski,Tłuchowo,wiejska,OPS,300408082000,22,22,X,X,X,X
+240,kujawsko - pomorskie,lipnowski,Wielgie,wiejska,OPS,300408092000,52,52,X,X,X,X
+241,kujawsko - pomorskie,mogileński,Dąbrowa,wiejska,OPS,300409012000,114,114,X,X,X,X
+242,kujawsko - pomorskie,mogileński,Jeziora Wielkie,wiejska,OPS,300409022000,8,8,X,X,X,X
+243,kujawsko - pomorskie,mogileński,Mogilno,miejsko-wiejska,OPS,300409033000,58,58,X,X,X,X
+244,kujawsko - pomorskie,mogileński,Strzelno,miejsko-wiejska,OPS,300409043000,23,23,X,X,X,X
+245,kujawsko - pomorskie,nakielski,Kcynia,miejsko-wiejska,OPS,300410013000,113,113,X,X,X,X
+246,kujawsko - pomorskie,nakielski,Mrocza,miejsko-wiejska,OPS,300410023000,50,50,X,X,X,X
+247,kujawsko - pomorskie,nakielski,Nakło nad Notecią,miejsko-wiejska,OPS,300410033000,107,107,X,X,X,X
+248,kujawsko - pomorskie,nakielski,Sadki,wiejska,OPS,300410042000,48,48,X,X,X,X
+249,kujawsko - pomorskie,nakielski,Szubin,miejsko-wiejska,OPS,300410053000,99,99,X,X,X,X
+250,kujawsko - pomorskie,radziejowski,Bytoń,wiejska,OPS,300411022000,15,15,X,X,X,X
+251,kujawsko - pomorskie,radziejowski,Dobre,wiejska,OPS,300411032000,40,40,X,X,X,X
+252,kujawsko - pomorskie,radziejowski,Osięciny,wiejska,OPS,300411042000,15,15,X,X,X,X
+253,kujawsko - pomorskie,radziejowski,Piotrków Kujawski,miejsko-wiejska,OPS,300411053000,31,31,X,X,X,X
+254,kujawsko - pomorskie,radziejowski,Radziejów,miejska,OPS,300411011000,31,31,X,X,X,X
+255,kujawsko - pomorskie,radziejowski,Radziejów,wiejska,OPS,300411062000,8,8,X,X,X,X
+256,kujawsko - pomorskie,radziejowski,Topólka,wiejska,OPS,300411072000,52,52,X,X,X,X
+257,kujawsko - pomorskie,rypiński,Brzuze,wiejska,OPS,300412022000,9,9,X,X,X,X
+258,kujawsko - pomorskie,rypiński,Rogowo,wiejska,OPS,300412032000,9,9,X,X,X,X
+259,kujawsko - pomorskie,rypiński,Rypin,miejska,OPS,300412011000,22,22,X,X,X,X
+260,kujawsko - pomorskie,rypiński,Rypin,wiejska,OPS,300412042000,3,3,X,X,X,X
+261,kujawsko - pomorskie,rypiński,Skrwilno,wiejska,OPS,300412052000,7,7,X,X,X,X
+262,kujawsko - pomorskie,rypiński,Wąpielsk,wiejska,OPS,300412062000,4,4,X,X,X,X
+263,kujawsko - pomorskie,sępoleński,Kamień Krajeński,miejsko-wiejska,OPS,300413013000,43,43,X,X,X,X
+264,kujawsko - pomorskie,sępoleński,Sępólno Krajeńskie,miejsko-wiejska,OPS,300413023000,115,115,X,X,X,X
+265,kujawsko - pomorskie,sępoleński,Sośno,wiejska,OPS,300413032000,53,53,X,X,X,X
+266,kujawsko - pomorskie,sępoleński,Więcbork,miejsko-wiejska,OPS,300413043000,94,94,X,X,X,X
+267,kujawsko - pomorskie,świecki,Bukowiec,wiejska,OPS,300414012000,36,36,X,X,X,X
+268,kujawsko - pomorskie,świecki,Dragacz,wiejska,OPS,300414022000,27,27,X,X,X,X
+269,kujawsko - pomorskie,świecki,Drzycim,wiejska,OPS,300414032000,8,8,X,X,X,X
+270,kujawsko - pomorskie,świecki,Jeżewo,wiejska,OPS,300414042000,34,34,X,X,X,X
+271,kujawsko - pomorskie,świecki,Lniano,wiejska,OPS,300414052000,14,14,X,X,X,X
+272,kujawsko - pomorskie,świecki,Nowe,miejsko-wiejska,OPS,300414063000,33,33,X,X,X,X
+273,kujawsko - pomorskie,świecki,Osie,wiejska,OPS,300414072000,4,4,X,X,X,X
+274,kujawsko - pomorskie,świecki,Pruszcz,wiejska,OPS,300414082000,27,27,X,X,X,X
+275,kujawsko - pomorskie,świecki,Świecie,miejsko-wiejska,OPS,300414093000,76,76,X,X,X,X
+276,kujawsko - pomorskie,świecki,Świekatowo,wiejska,OPS,300414102000,23,23,X,X,X,X
+277,kujawsko - pomorskie,świecki,Warlubie,wiejska,OPS,300414112000,21,21,X,X,X,X
+278,kujawsko - pomorskie,m. Toruń,M. Toruń,miejska,MOPR,250463011000,267,267,X,X,X,X
+279,kujawsko - pomorskie,toruński,Chełmża,miejska,OPS,300415011000,11,11,X,X,X,X
+280,kujawsko - pomorskie,toruński,Chełmża,wiejska,OPS,300415022000,41,41,X,X,X,X
+281,kujawsko - pomorskie,toruński,Czernikowo,wiejska,OPS,300415032000,57,57,X,X,X,X
+282,kujawsko - pomorskie,toruński,Lubicz,wiejska,OPS,300415042000,52,52,X,X,X,X
+283,kujawsko - pomorskie,toruński,Łubianka,wiejska,OPS,300415052000,12,12,X,X,X,X
+284,kujawsko - pomorskie,toruński,Łysomice,wiejska,OPS,300415062000,9,9,X,X,X,X
+285,kujawsko - pomorskie,toruński,Obrowo,wiejska,OPS,300415072000,31,31,X,X,X,X
+286,kujawsko - pomorskie,toruński,Wielka Nieszawka,wiejska,OPS,300415082000,12,12,X,X,X,X
+287,kujawsko - pomorskie,toruński,Zławieś Wielka,wiejska,OPS,300415092000,27,27,X,X,X,X
+288,kujawsko - pomorskie,tucholski,Cekcyn,wiejska,OPS,300416012000,16,16,X,X,X,X
+289,kujawsko - pomorskie,tucholski,Gostycyn,wiejska,OPS,300416022000,0,0,X,X,X,X
+290,kujawsko - pomorskie,tucholski,Kęsowo,wiejska,OPS,300416032000,3,3,X,X,X,X
+291,kujawsko - pomorskie,tucholski,Lubiewo,wiejska,OPS,300416042000,17,17,X,X,X,X
+292,kujawsko - pomorskie,tucholski,Śliwice,wiejska,OPS,300416052000,21,21,X,X,X,X
+293,kujawsko - pomorskie,tucholski,Tuchola,miejsko-wiejska,OPS,300416063000,61,61,X,X,X,X
+294,kujawsko - pomorskie,wąbrzeski,Dębowa Łąka,wiejska,OPS,300417022000,6,6,X,X,X,X
+295,kujawsko - pomorskie,wąbrzeski,Książki,wiejska,OPS,300417032000,5,5,X,X,X,X
+296,kujawsko - pomorskie,wąbrzeski,Płużnica,wiejska,OPS,300417042000,16,16,X,X,X,X
+297,kujawsko - pomorskie,wąbrzeski,Ryńsk,wiejska,OPS,300417052000,58,58,X,X,X,X
+298,kujawsko - pomorskie,wąbrzeski,Wąbrzeźno,miejska,OPS,300417011000,7,7,X,X,X,X
+299,kujawsko - pomorskie,m. Włocławek,M. Włocławek,miejska,MOPR,250464011000,656,656,X,X,X,X
+300,kujawsko - pomorskie,włocławski,Baruchowo,wiejska,OPS,300418022000,19,19,X,X,X,X
+301,kujawsko - pomorskie,włocławski,Boniewo,wiejska,OPS,300418032000,10,10,X,X,X,X
+302,kujawsko - pomorskie,włocławski,Brześć Kujawski,miejsko-wiejska,OPS,300418043000,29,29,X,X,X,X
+303,kujawsko - pomorskie,włocławski,Choceń,wiejska,OPS,300418052000,11,11,X,X,X,X
+304,kujawsko - pomorskie,włocławski,Chodecz,miejsko-wiejska,OPS,300418063000,29,29,X,X,X,X
+305,kujawsko - pomorskie,włocławski,Fabianki,wiejska,OPS,300418072000,56,56,X,X,X,X
+306,kujawsko - pomorskie,włocławski,Izbica Kujawska,miejsko-wiejska,OPS,300418083000,45,45,X,X,X,X
+307,kujawsko - pomorskie,włocławski,Kowal,miejska,OPS,300418011000,12,12,X,X,X,X
+308,kujawsko - pomorskie,włocławski,Kowal,wiejska,OPS,300418092000,29,29,X,X,X,X
+309,kujawsko - pomorskie,włocławski,Lubanie,wiejska,OPS,300418102000,16,16,X,X,X,X
+310,kujawsko - pomorskie,włocławski,Lubień Kujawski,miejsko-wiejska,OPS,300418113000,32,32,X,X,X,X
+311,kujawsko - pomorskie,włocławski,Lubraniec,miejsko-wiejska,OPS,300418123000,88,88,X,X,X,X
+312,kujawsko - pomorskie,włocławski,Włocławek,wiejska,OPS,300418132000,41,41,X,X,X,X
+313,kujawsko - pomorskie,żniński,Barcin,miejsko-wiejska,OPS,300419013000,47,47,X,X,X,X
+314,kujawsko - pomorskie,żniński,Gąsawa,wiejska,OPS,300419022000,17,17,X,X,X,X
+315,kujawsko - pomorskie,żniński,Janowiec Wielkopolski,miejsko-wiejska,OPS,300419033000,23,23,X,X,X,X
+316,kujawsko - pomorskie,żniński,Łabiszyn,miejsko-wiejska,OPS,300419043000,37,37,X,X,X,X
+317,kujawsko - pomorskie,żniński,Rogowo,wiejska,OPS,300419052000,59,59,X,X,X,X
+318,kujawsko - pomorskie,żniński,Żnin,miejsko-wiejska,OPS,300419063000,286,286,X,X,X,X
+319,lubelskie,-,-,-,WPS,100600000000,10411,10411,X,X,X,X
+320,lubelskie,bialski,Biała Podlaska,wiejska,OPS,300601032000,65,65,X,X,X,X
+321,lubelskie,bialski,Drelów,wiejska,OPS,300601042000,18,18,X,X,X,X
+322,lubelskie,bialski,Janów Podlaski,wiejska,OPS,300601052000,42,42,X,X,X,X
+323,lubelskie,bialski,Kodeń,wiejska,OPS,300601062000,30,30,X,X,X,X
+324,lubelskie,bialski,Konstantynów,wiejska,OPS,300601072000,36,36,X,X,X,X
+325,lubelskie,bialski,Leśna Podlaska,wiejska,OPS,300601082000,27,27,X,X,X,X
+326,lubelskie,bialski,Łomazy,wiejska,OPS,300601092000,13,13,X,X,X,X
+327,lubelskie,bialski,Międzyrzec Podlaski,miejska,OPS,300601011000,50,50,X,X,X,X
+328,lubelskie,bialski,Międzyrzec Podlaski,wiejska,OPS,300601102000,45,45,X,X,X,X
+329,lubelskie,bialski,Piszczac,wiejska,OPS,300601112000,71,71,X,X,X,X
+330,lubelskie,bialski,Rokitno,wiejska,OPS,300601122000,14,14,X,X,X,X
+331,lubelskie,bialski,Rossosz,wiejska,OPS,300601132000,17,17,X,X,X,X
+332,lubelskie,bialski,Sławatycze,wiejska,OPS,300601142000,6,6,X,X,X,X
+333,lubelskie,bialski,Sosnówka,wiejska,OPS,300601152000,2,2,X,X,X,X
+334,lubelskie,bialski,Terespol,miejska,OPS,300601021000,51,51,X,X,X,X
+335,lubelskie,bialski,Terespol,wiejska,OPS,300601162000,26,26,X,X,X,X
+336,lubelskie,bialski,Tuczna,wiejska,OPS,300601172000,12,12,X,X,X,X
+337,lubelskie,bialski,Wisznice,wiejska,OPS,300601182000,33,33,X,X,X,X
+338,lubelskie,bialski,Zalesie,wiejska,OPS,300601192000,11,11,X,X,X,X
+339,lubelskie,m. Biała Podlaska,M. Biała Podlaska,miejska,MOPR,250661011000,361,361,X,X,X,X
+340,lubelskie,biłgorajski,Aleksandrów,wiejska,OPS,300602022000,11,11,X,X,X,X
+341,lubelskie,biłgorajski,Biłgoraj,miejska,OPS,300602011000,133,133,X,X,X,X
+342,lubelskie,biłgorajski,Biłgoraj,wiejska,OPS,300602032000,101,101,X,X,X,X
+343,lubelskie,biłgorajski,Biszcza,wiejska,OPS,300602042000,8,8,X,X,X,X
+344,lubelskie,biłgorajski,Frampol,miejsko-wiejska,OPS,300602053000,22,22,X,X,X,X
+345,lubelskie,biłgorajski,Goraj,wiejska,OPS,300602062000,2,2,X,X,X,X
+346,lubelskie,biłgorajski,Józefów,miejsko-wiejska,OPS,300602073000,16,16,X,X,X,X
+347,lubelskie,biłgorajski,Księżpol,wiejska,OPS,300602082000,27,27,X,X,X,X
+348,lubelskie,biłgorajski,Łukowa,wiejska,OPS,300602092000,18,18,X,X,X,X
+349,lubelskie,biłgorajski,Obsza,wiejska,OPS,300602102000,36,36,X,X,X,X
+350,lubelskie,biłgorajski,Potok Górny,wiejska,OPS,300602112000,13,13,X,X,X,X
+351,lubelskie,biłgorajski,Tarnogród,miejsko-wiejska,OPS,300602123000,38,38,X,X,X,X
+352,lubelskie,biłgorajski,Tereszpol,wiejska,OPS,300602132000,32,32,X,X,X,X
+353,lubelskie,biłgorajski,Turobin,wiejska,OPS,300602142000,19,19,X,X,X,X
+354,lubelskie,m. Chełm,M. Chełm,miejska,MOPR,250662011000,145,145,X,X,X,X
+355,lubelskie,chełmski,Białopole,wiejska,OPS,300603022000,19,19,X,X,X,X
+356,lubelskie,chełmski,Chełm,wiejska,OPS,300603032000,38,38,X,X,X,X
+357,lubelskie,chełmski,Dorohusk,wiejska,OPS,300603042000,36,36,X,X,X,X
+358,lubelskie,chełmski,Dubienka,wiejska,OPS,300603052000,35,35,X,X,X,X
+359,lubelskie,chełmski,Kamień,wiejska,OPS,300603062000,13,13,X,X,X,X
+360,lubelskie,chełmski,Leśniowice,wiejska,OPS,300603072000,14,14,X,X,X,X
+361,lubelskie,chełmski,Rejowiec Fabryczny,miejska,OPS,300603011000,14,14,X,X,X,X
+362,lubelskie,chełmski,Rejowiec Fabryczny,wiejska,OPS,300603082000,0,0,X,X,X,X
+363,lubelskie,chełmski,Rejowiec,miejsko-wiejska,OPS,300606082000,45,45,X,X,X,X
+364,lubelskie,chełmski,Ruda-Huta,wiejska,OPS,300603092000,16,16,X,X,X,X
+365,lubelskie,chełmski,Sawin,wiejska,OPS,300603102000,34,34,X,X,X,X
+366,lubelskie,chełmski,Siedliszcze,miejsko-wiejska,OPS,300603112000,33,33,X,X,X,X
+367,lubelskie,chełmski,Wierzbica,wiejska,OPS,300603122000,6,6,X,X,X,X
+368,lubelskie,chełmski,Wojsławice,wiejska,OPS,300603132000,23,23,X,X,X,X
+369,lubelskie,chełmski,Żmudź,wiejska,OPS,300603142000,28,28,X,X,X,X
+370,lubelskie,hrubieszowski,Dołhobyczów,wiejska,OPS,300604022000,35,35,X,X,X,X
+371,lubelskie,hrubieszowski,Horodło,wiejska,OPS,300604032000,62,62,X,X,X,X
+372,lubelskie,hrubieszowski,Hrubieszów,miejska,OPS,300604011000,85,85,X,X,X,X
+373,lubelskie,hrubieszowski,Hrubieszów,wiejska,OPS,300604042000,28,28,X,X,X,X
+374,lubelskie,hrubieszowski,Mircze,wiejska,OPS,300604052000,12,12,X,X,X,X
+375,lubelskie,hrubieszowski,Trzeszczany,wiejska,OPS,300604062000,24,24,X,X,X,X
+376,lubelskie,hrubieszowski,Uchanie,wiejska,OPS,300604072000,0,0,X,X,X,X
+377,lubelskie,hrubieszowski,Werbkowice,wiejska,OPS,300604082000,27,27,X,X,X,X
+378,lubelskie,janowski,Batorz,wiejska,OPS,300605012000,4,4,X,X,X,X
+379,lubelskie,janowski,Chrzanów,wiejska,OPS,300605022000,39,39,X,X,X,X
+380,lubelskie,janowski,Dzwola,wiejska,OPS,300605032000,33,33,X,X,X,X
+381,lubelskie,janowski,Godziszów,wiejska,OPS,300605042000,19,19,X,X,X,X
+382,lubelskie,janowski,Janów Lubelski,miejsko-wiejska,OPS,300605053000,160,160,X,X,X,X
+383,lubelskie,janowski,Modliborzyce,miejsko-wiejska,OPS,300605062000,37,37,X,X,X,X
+384,lubelskie,janowski,Potok Wielki,wiejska,OPS,300605072000,44,44,X,X,X,X
+385,lubelskie,krasnostawski,Fajsławice,wiejska,OPS,300606022000,14,14,X,X,X,X
+386,lubelskie,krasnostawski,Gorzków,wiejska,OPS,300606032000,10,10,X,X,X,X
+387,lubelskie,krasnostawski,Izbica,wiejska,OPS,300606042000,45,45,X,X,X,X
+388,lubelskie,krasnostawski,Krasnystaw,miejska,OPS,300606011000,97,97,X,X,X,X
+389,lubelskie,krasnostawski,Krasnystaw,wiejska,OPS,300606052000,58,58,X,X,X,X
+390,lubelskie,krasnostawski,Kraśniczyn,wiejska,OPS,300606062000,16,16,X,X,X,X
+391,lubelskie,krasnostawski,Łopiennik Górny,wiejska,OPS,300606072000,4,4,X,X,X,X
+392,lubelskie,krasnostawski,Rudnik,wiejska,OPS,300606092000,19,19,X,X,X,X
+393,lubelskie,krasnostawski,Siennica Różana,wiejska,OPS,300606102000,8,8,X,X,X,X
+394,lubelskie,krasnostawski,Żółkiewka,wiejska,OPS,300606112000,20,20,X,X,X,X
+395,lubelskie,kraśnicki,Annopol,miejsko-wiejska,OPS,300607023000,54,54,X,X,X,X
+396,lubelskie,kraśnicki,Dzierzkowice,wiejska,OPS,300607032000,16,16,X,X,X,X
+397,lubelskie,kraśnicki,Gościeradów,wiejska,OPS,300607042000,0,0,X,X,X,X
+398,lubelskie,kraśnicki,Kraśnik,miejska,OPS,300607011000,171,171,X,X,X,X
+399,lubelskie,kraśnicki,Kraśnik,wiejska,OPS,300607052000,10,10,X,X,X,X
+400,lubelskie,kraśnicki,Szastarka,wiejska,OPS,300607062000,19,19,X,X,X,X
+401,lubelskie,kraśnicki,Trzydnik Duży,wiejska,OPS,300607072000,20,20,X,X,X,X
+402,lubelskie,kraśnicki,Urzędów,miejsko-wiejska,OPS,300607082000,16,16,X,X,X,X
+403,lubelskie,kraśnicki,Wilkołaz,wiejska,OPS,300607092000,13,13,X,X,X,X
+404,lubelskie,kraśnicki,Zakrzówek,wiejska,OPS,300607102000,23,23,X,X,X,X
+405,lubelskie,lubartowski,Abramów,wiejska,OPS,300608022000,27,27,X,X,X,X
+406,lubelskie,lubartowski,Firlej,wiejska,OPS,300608032000,21,21,X,X,X,X
+407,lubelskie,lubartowski,Jeziorzany,wiejska,OPS,300608042000,33,33,X,X,X,X
+408,lubelskie,lubartowski,Kamionka,wiejska,OPS,300608052000,25,25,X,X,X,X
+409,lubelskie,lubartowski,Kock,miejsko-wiejska,OPS,300608063000,24,24,X,X,X,X
+410,lubelskie,lubartowski,Lubartów,miejska,OPS,300608011000,113,113,X,X,X,X
+411,lubelskie,lubartowski,Lubartów,wiejska,OPS,300608072000,41,41,X,X,X,X
+412,lubelskie,lubartowski,Michów,wiejska,OPS,300608082000,84,84,X,X,X,X
+413,lubelskie,lubartowski,Niedźwiada,wiejska,OPS,300608092000,29,29,X,X,X,X
+414,lubelskie,lubartowski,Ostrów Lubelski,miejsko-wiejska,OPS,300608103000,32,32,X,X,X,X
+415,lubelskie,lubartowski,Ostrówek,wiejska,OPS,300608112000,11,11,X,X,X,X
+416,lubelskie,lubartowski,Serniki,wiejska,OPS,300608122000,24,24,X,X,X,X
+417,lubelskie,lubartowski,Uścimów,wiejska,OPS,300608132000,7,7,X,X,X,X
+418,lubelskie,lubelski,Bełżyce,miejsko-wiejska,OPS,300609013000,39,39,X,X,X,X
+419,lubelskie,lubelski,Borzechów,wiejska,OPS,300609022000,4,4,X,X,X,X
+420,lubelskie,lubelski,Bychawa,miejsko-wiejska,OPS,300609033000,31,31,X,X,X,X
+421,lubelskie,lubelski,Garbów,wiejska,OPS,300609042000,56,56,X,X,X,X
+422,lubelskie,lubelski,Głusk,wiejska,OPS,300609052000,101,101,X,X,X,X
+423,lubelskie,lubelski,Jabłonna,wiejska,OPS,300609062000,4,4,X,X,X,X
+424,lubelskie,lubelski,Jastków,wiejska,OPS,300609072000,65,65,X,X,X,X
+425,lubelskie,lubelski,Konopnica,wiejska,OPS,300609082000,60,60,X,X,X,X
+426,lubelskie,lubelski,Krzczonów,wiejska,OPS,300609092000,36,36,X,X,X,X
+427,lubelskie,lubelski,Niedrzwica Duża,wiejska,OPS,300609102000,34,34,X,X,X,X
+428,lubelskie,lubelski,Niemce,wiejska,OPS,300609112000,78,78,X,X,X,X
+429,lubelskie,lubelski,Strzyżewice,wiejska,OPS,300609122000,28,28,X,X,X,X
+430,lubelskie,lubelski,Wojciechów,wiejska,OPS,300609132000,22,22,X,X,X,X
+431,lubelskie,lubelski,Wólka,wiejska,OPS,300609142000,80,80,X,X,X,X
+432,lubelskie,lubelski,Wysokie,wiejska,OPS,300609152000,11,11,X,X,X,X
+433,lubelskie,lubelski,Zakrzew,wiejska,OPS,300609162000,27,27,X,X,X,X
+434,lubelskie,m. Lublin,M. Lublin,miejska,MOPR,250663011000,1726,1726,X,X,X,X
+435,lubelskie,łęczyński,Cyców,wiejska,OPS,300610012000,61,61,X,X,X,X
+436,lubelskie,łęczyński,Ludwin,wiejska,OPS,300610022000,34,34,X,X,X,X
+437,lubelskie,łęczyński,Łęczna,miejsko-wiejska,OPS,300610033000,158,158,X,X,X,X
+438,lubelskie,łęczyński,Milejów,wiejska,OPS,300610042000,49,49,X,X,X,X
+439,lubelskie,łęczyński,Puchaczów,wiejska,OPS,300610052000,41,41,X,X,X,X
+440,lubelskie,łęczyński,Spiczyn,wiejska,OPS,300610062000,21,21,X,X,X,X
+441,lubelskie,łukowski,Adamów,wiejska,OPS,300611032000,19,19,X,X,X,X
+442,lubelskie,łukowski,Krzywda,wiejska,OPS,300611042000,58,58,X,X,X,X
+443,lubelskie,łukowski,Łuków,miejska,OPS,300611011000,139,139,X,X,X,X
+444,lubelskie,łukowski,Łuków,wiejska,OPS,300611052000,114,114,X,X,X,X
+445,lubelskie,łukowski,Serokomla,wiejska,OPS,300611062000,31,31,X,X,X,X
+446,lubelskie,łukowski,Stanin,wiejska,OPS,300611072000,75,75,X,X,X,X
+447,lubelskie,łukowski,Stoczek Łukowski,miejska,OPS,300611021000,4,4,X,X,X,X
+448,lubelskie,łukowski,Stoczek Łukowski,wiejska,OPS,300611082000,64,64,X,X,X,X
+449,lubelskie,łukowski,Trzebieszów,wiejska,OPS,300611092000,12,12,X,X,X,X
+450,lubelskie,łukowski,Wojcieszków,wiejska,OPS,300611102000,24,24,X,X,X,X
+451,lubelskie,łukowski,Wola Mysłowska,wiejska,OPS,300611112000,12,12,X,X,X,X
+452,lubelskie,opolski,Chodel,wiejska,OPS,300612012000,45,45,X,X,X,X
+453,lubelskie,opolski,Józefów nad Wisłą,miejsko-wiejska,OPS,300612022000,31,31,X,X,X,X
+454,lubelskie,opolski,Karczmiska,wiejska,OPS,300612032000,26,26,X,X,X,X
+455,lubelskie,opolski,Łaziska,wiejska,OPS,300612042000,21,21,X,X,X,X
+456,lubelskie,opolski,Opole Lubelskie,miejsko-wiejska,OPS,300612053000,168,168,X,X,X,X
+457,lubelskie,opolski,Poniatowa,miejsko-wiejska,OPS,300612063000,84,84,X,X,X,X
+458,lubelskie,opolski,Wilków,wiejska,OPS,300612072000,37,37,X,X,X,X
+459,lubelskie,parczewski,Dębowa Kłoda,wiejska,OPS,300613012000,48,48,X,X,X,X
+460,lubelskie,parczewski,Jabłoń,wiejska,OPS,300613022000,10,10,X,X,X,X
+461,lubelskie,parczewski,Milanów,wiejska,OPS,300613032000,36,36,X,X,X,X
+462,lubelskie,parczewski,Parczew,miejsko-wiejska,OPS,300613043000,50,50,X,X,X,X
+463,lubelskie,parczewski,Podedwórze,wiejska,OPS,300613052000,7,7,X,X,X,X
+464,lubelskie,parczewski,Siemień,wiejska,OPS,300613062000,28,28,X,X,X,X
+465,lubelskie,parczewski,Sosnowica,wiejska,OPS,300613072000,14,14,X,X,X,X
+466,lubelskie,puławski,Baranów,wiejska,OPS,300614022000,11,11,X,X,X,X
+467,lubelskie,puławski,Janowiec,wiejska,OPS,300614032000,11,11,X,X,X,X
+468,lubelskie,puławski,Kazimierz Dolny,miejsko-wiejska,OPS,300614043000,34,34,X,X,X,X
+469,lubelskie,puławski,Końskowola,wiejska,OPS,300614052000,25,25,X,X,X,X
+470,lubelskie,puławski,Kurów,wiejska,OPS,300614062000,21,21,X,X,X,X
+471,lubelskie,puławski,Markuszów,wiejska,OPS,300614072000,40,40,X,X,X,X
+472,lubelskie,puławski,Nałęczów,miejsko-wiejska,OPS,300614083000,41,41,X,X,X,X
+473,lubelskie,puławski,Puławy,miejska,OPS,300614011000,246,246,X,X,X,X
+474,lubelskie,puławski,Puławy,wiejska,OPS,300614092000,84,84,X,X,X,X
+475,lubelskie,puławski,Wąwolnica,wiejska,OPS,300614102000,26,26,X,X,X,X
+476,lubelskie,puławski,Żyrzyn,wiejska,OPS,300614112000,32,32,X,X,X,X
+477,lubelskie,radzyński,Borki,wiejska,OPS,300615022000,72,72,X,X,X,X
+478,lubelskie,radzyński,Czemierniki,wiejska,OPS,300615032000,4,4,X,X,X,X
+479,lubelskie,radzyński,Kąkolewnica,wiejska,OPS,300615042000,24,24,X,X,X,X
+480,lubelskie,radzyński,Komarówka Podlaska,wiejska,OPS,300615052000,12,12,X,X,X,X
+481,lubelskie,radzyński,Radzyń Podlaski,miejska,OPS,300615011000,23,23,X,X,X,X
+482,lubelskie,radzyński,Radzyń Podlaski,wiejska,OPS,300615062000,63,63,X,X,X,X
+483,lubelskie,radzyński,Ulan-Majorat,wiejska,OPS,300615072000,19,19,X,X,X,X
+484,lubelskie,radzyński,Wohyń,wiejska,OPS,300615082000,20,20,X,X,X,X
+485,lubelskie,rycki,Dęblin,miejska,OPS,300616011000,189,189,X,X,X,X
+486,lubelskie,rycki,Kłoczew,wiejska,OPS,300616022000,21,21,X,X,X,X
+487,lubelskie,rycki,Nowodwór,wiejska,OPS,300616032000,84,84,X,X,X,X
+488,lubelskie,rycki,Ryki,miejsko-wiejska,OPS,300616043000,72,72,X,X,X,X
+489,lubelskie,rycki,Stężyca,wiejska,OPS,300616052000,34,34,X,X,X,X
+490,lubelskie,rycki,Ułęż,wiejska,OPS,300616062000,27,27,X,X,X,X
+491,lubelskie,świdnicki,Mełgiew,wiejska,OPS,300617022000,99,99,X,X,X,X
+492,lubelskie,świdnicki,Piaski,miejsko-wiejska,OPS,300617033000,91,91,X,X,X,X
+493,lubelskie,świdnicki,Rybczewice,wiejska,OPS,300617042000,3,3,X,X,X,X
+494,lubelskie,świdnicki,Świdnik,miejska,OPS,300617011000,375,375,X,X,X,X
+495,lubelskie,świdnicki,Trawniki,wiejska,OPS,300617052000,32,32,X,X,X,X
+496,lubelskie,tomaszowski,Bełżec,wiejska,OPS,300618022000,10,10,X,X,X,X
+497,lubelskie,tomaszowski,Jarczów,wiejska,OPS,300618032000,4,4,X,X,X,X
+498,lubelskie,tomaszowski,Krynice,wiejska,OPS,300618042000,22,22,X,X,X,X
+499,lubelskie,tomaszowski,Lubycza Królewska,miejsko-wiejska,OPS,300618052000,22,22,X,X,X,X
+500,lubelskie,tomaszowski,Łaszczów,miejsko-wiejska,OPS,300618063000,27,27,X,X,X,X
+501,lubelskie,tomaszowski,Rachanie,wiejska,OPS,300618072000,10,10,X,X,X,X
+502,lubelskie,tomaszowski,Susiec,wiejska,OPS,300618082000,15,15,X,X,X,X
+503,lubelskie,tomaszowski,Tarnawatka,wiejska,OPS,300618092000,5,5,X,X,X,X
+504,lubelskie,tomaszowski,Telatyn,wiejska,OPS,300618102000,28,28,X,X,X,X
+505,lubelskie,tomaszowski,Tomaszów Lubelski,miejska,OPS,300618011000,37,37,X,X,X,X
+506,lubelskie,tomaszowski,Tomaszów Lubelski,wiejska,OPS,300618112000,33,33,X,X,X,X
+507,lubelskie,tomaszowski,Tyszowce,miejsko-wiejska,OPS,300618123000,37,37,X,X,X,X
+508,lubelskie,tomaszowski,Ulhówek,wiejska,OPS,300618132000,3,3,X,X,X,X
+509,lubelskie,włodawski,Hanna,wiejska,OPS,300619022000,19,19,X,X,X,X
+510,lubelskie,włodawski,Hańsk,wiejska,OPS,300619032000,11,11,X,X,X,X
+511,lubelskie,włodawski,Stary Brus,wiejska,OPS,300619042000,10,10,X,X,X,X
+512,lubelskie,włodawski,Urszulin,wiejska,OPS,300619052000,11,11,X,X,X,X
+513,lubelskie,włodawski,Włodawa,miejska,OPS,300619011000,54,54,X,X,X,X
+514,lubelskie,włodawski,Włodawa,wiejska,OPS,300619062000,14,14,X,X,X,X
+515,lubelskie,włodawski,Wola Uhruska,wiejska,OPS,300619072000,29,29,X,X,X,X
+516,lubelskie,włodawski,Wyryki,wiejska,OPS,300619082000,12,12,X,X,X,X
+517,lubelskie,zamojski,Adamów,wiejska,OPS,300620012000,16,16,X,X,X,X
+518,lubelskie,zamojski,Grabowiec,wiejska,OPS,300620022000,5,5,X,X,X,X
+519,lubelskie,zamojski,Komarów-Osada,wiejska,OPS,300620032000,13,13,X,X,X,X
+520,lubelskie,zamojski,Krasnobród,miejsko-wiejska,OPS,300620043000,17,17,X,X,X,X
+521,lubelskie,zamojski,Łabunie,wiejska,OPS,300620052000,15,15,X,X,X,X
+522,lubelskie,zamojski,Miączyn,wiejska,OPS,300620062000,6,6,X,X,X,X
+523,lubelskie,zamojski,Nielisz,wiejska,OPS,300620072000,19,19,X,X,X,X
+524,lubelskie,zamojski,Radecznica,wiejska,OPS,300620082000,7,7,X,X,X,X
+525,lubelskie,zamojski,Sitno,wiejska,OPS,300620092000,15,15,X,X,X,X
+526,lubelskie,zamojski,Skierbieszów,wiejska,OPS,300620102000,0,0,X,X,X,X
+527,lubelskie,zamojski,Stary Zamość,wiejska,OPS,300620112000,14,14,X,X,X,X
+528,lubelskie,zamojski,Sułów,wiejska,OPS,300620122000,22,22,X,X,X,X
+529,lubelskie,zamojski,Szczebrzeszyn,miejsko-wiejska,OPS,300620133000,22,22,X,X,X,X
+530,lubelskie,zamojski,Zamość,wiejska,OPS,300620142000,147,147,X,X,X,X
+531,lubelskie,zamojski,Zwierzyniec,miejsko-wiejska,OPS,300620153000,30,30,X,X,X,X
+532,lubelskie,m. Zamość,M. Zamość,miejska,MOPR,250664011000,274,274,X,X,X,X
+533,lubuskie,-,-,-,WPS,100800000000,3609,3609,X,X,X,X
+534,lubuskie,gorzowski,Bogdaniec,wiejska,OPS,300801022000,24,24,X,X,X,X
+535,lubuskie,gorzowski,Deszczno,wiejska,OPS,300801032000,25,25,X,X,X,X
+536,lubuskie,gorzowski,Kłodawa,wiejska,OPS,300801042000,31,31,X,X,X,X
+537,lubuskie,gorzowski,Kostrzyn nad Odrą,miejska,OPS,300801011000,113,113,X,X,X,X
+538,lubuskie,gorzowski,Lubiszyn,wiejska,OPS,300801052000,46,46,X,X,X,X
+539,lubuskie,gorzowski,Santok,wiejska,OPS,300801062000,12,12,X,X,X,X
+540,lubuskie,gorzowski,Witnica,miejsko-wiejska,OPS,300801073000,18,18,X,X,X,X
+541,lubuskie,m. Gorzów Wielkopolski,M. Gorzów Wielkopolski,miejska,MOPR,250861011000,0,0,X,X,X,X
+542,lubuskie,krośnieński,Bobrowice,wiejska,OPS,300802022000,7,7,X,X,X,X
+543,lubuskie,krośnieński,Bytnica,wiejska,OPS,300802032000,44,44,X,X,X,X
+544,lubuskie,krośnieński,Dąbie,wiejska,OPS,300802042000,14,14,X,X,X,X
+545,lubuskie,krośnieński,Gubin,miejska,OPS,300802011000,71,71,X,X,X,X
+546,lubuskie,krośnieński,Gubin,wiejska,OPS,300802052000,21,21,X,X,X,X
+547,lubuskie,krośnieński,Krosno Odrzańskie,miejsko-wiejska,OPS,300802063000,26,26,X,X,X,X
+548,lubuskie,krośnieński,Maszewo,wiejska,OPS,300802072000,17,17,X,X,X,X
+549,lubuskie,międzyrzecki,Bledzew,wiejska,OPS,300803012000,26,26,X,X,X,X
+550,lubuskie,międzyrzecki,Międzyrzecz,miejsko-wiejska,OPS,300803023000,101,101,X,X,X,X
+551,lubuskie,międzyrzecki,Przytoczna,wiejska,OPS,300803032000,2,2,X,X,X,X
+552,lubuskie,międzyrzecki,Pszczew,wiejska,OPS,300803042000,40,40,X,X,X,X
+553,lubuskie,międzyrzecki,Skwierzyna,miejsko-wiejska,OPS,300803053000,70,70,X,X,X,X
+554,lubuskie,międzyrzecki,Trzciel,miejsko-wiejska,OPS,300803063000,29,29,X,X,X,X
+555,lubuskie,nowosolski,Bytom Odrzański,miejsko-wiejska,OPS,300804023000,15,15,X,X,X,X
+556,lubuskie,nowosolski,Kolsko,wiejska,OPS,300804032000,12,12,X,X,X,X
+557,lubuskie,nowosolski,Kożuchów,miejsko-wiejska,OPS,300804043000,69,69,X,X,X,X
+558,lubuskie,nowosolski,Nowa Sól,miejska,OPS,300804011000,168,168,X,X,X,X
+559,lubuskie,nowosolski,Nowa Sól,wiejska,OPS,300804052000,25,25,X,X,X,X
+560,lubuskie,nowosolski,Nowe Miasteczko,miejsko-wiejska,OPS,300804063000,61,61,X,X,X,X
+561,lubuskie,nowosolski,Otyń,miejsko-wiejska,OPS,300804072000,36,36,X,X,X,X
+562,lubuskie,nowosolski,Siedlisko,wiejska,OPS,300804082000,11,11,X,X,X,X
+563,lubuskie,słubicki,Cybinka,miejsko-wiejska,OPS,300805013000,36,36,X,X,X,X
+564,lubuskie,słubicki,Górzyca,wiejska,OPS,300805022000,4,4,X,X,X,X
+565,lubuskie,słubicki,Ośno Lubuskie,miejsko-wiejska,OPS,300805033000,26,26,X,X,X,X
+566,lubuskie,słubicki,Rzepin,miejsko-wiejska,OPS,300805043000,78,78,X,X,X,X
+567,lubuskie,słubicki,Słubice,miejsko-wiejska,OPS,300805053000,0,0,X,X,X,X
+568,lubuskie,strzelecko-drezdenecki,Dobiegniew,miejsko-wiejska,OPS,300806013000,10,10,X,X,X,X
+569,lubuskie,strzelecko-drezdenecki,Drezdenko,miejsko-wiejska,OPS,300806023000,25,25,X,X,X,X
+570,lubuskie,strzelecko-drezdenecki,Stare Kurowo,wiejska,OPS,300806032000,13,13,X,X,X,X
+571,lubuskie,strzelecko-drezdenecki,Strzelce Krajeńskie,miejsko-wiejska,OPS,300806043000,61,61,X,X,X,X
+572,lubuskie,strzelecko-drezdenecki,Zwierzyn,wiejska,OPS,300806052000,29,29,X,X,X,X
+573,lubuskie,sulęciński,Krzeszyce,wiejska,OPS,300807012000,14,14,X,X,X,X
+574,lubuskie,sulęciński,Lubniewice,miejsko-wiejska,OPS,300807023000,2,2,X,X,X,X
+575,lubuskie,sulęciński,Słońsk,wiejska,OPS,300807032000,5,5,X,X,X,X
+576,lubuskie,sulęciński,Sulęcin,miejsko-wiejska,OPS,300807043000,117,117,X,X,X,X
+577,lubuskie,sulęciński,Torzym,miejsko-wiejska,OPS,300807053000,10,10,X,X,X,X
+578,lubuskie,świebodziński,Lubrza,wiejska,OPS,300808012000,1,1,X,X,X,X
+579,lubuskie,świebodziński,Łagów,wiejska,OPS,300808022000,24,24,X,X,X,X
+580,lubuskie,świebodziński,Skąpe,wiejska,OPS,300808032000,9,9,X,X,X,X
+581,lubuskie,świebodziński,Szczaniec,wiejska,OPS,300808042000,11,11,X,X,X,X
+582,lubuskie,świebodziński,Świebodzin,miejsko-wiejska,OPS,300808053000,74,74,X,X,X,X
+583,lubuskie,świebodziński,Zbąszynek,miejsko-wiejska,OPS,300808063000,23,23,X,X,X,X
+584,lubuskie,wschowski,Sława,miejsko-wiejska,OPS,300812013000,35,35,X,X,X,X
+585,lubuskie,wschowski,Szlichtyngowa,miejsko-wiejska,OPS,300812023000,32,32,X,X,X,X
+586,lubuskie,wschowski,Wschowa,miejsko-wiejska,OPS,300812033000,42,42,X,X,X,X
+587,lubuskie,m. Zielona Góra,M. Zielona Góra,miejska,MOPR,250862011000,899,899,X,X,X,X
+588,lubuskie,zielonogórski,Babimost,miejsko-wiejska,OPS,300809013000,7,7,X,X,X,X
+589,lubuskie,zielonogórski,Bojadła,wiejska,OPS,300809022000,16,16,X,X,X,X
+590,lubuskie,zielonogórski,Czerwieńsk,miejsko-wiejska,OPS,300809033000,69,69,X,X,X,X
+591,lubuskie,zielonogórski,Kargowa,miejsko-wiejska,OPS,300809043000,9,9,X,X,X,X
+592,lubuskie,zielonogórski,Nowogród Bobrzański,miejsko-wiejska,OPS,300809053000,76,76,X,X,X,X
+593,lubuskie,zielonogórski,Sulechów,miejsko-wiejska,OPS,300809063000,83,83,X,X,X,X
+594,lubuskie,zielonogórski,Świdnica,wiejska,OPS,300809072000,41,41,X,X,X,X
+595,lubuskie,zielonogórski,Trzebiechów,wiejska,OPS,300809082000,2,2,X,X,X,X
+596,lubuskie,zielonogórski,Zabór,wiejska,OPS,300809092000,27,27,X,X,X,X
+597,lubuskie,żagański,Brzeźnica,wiejska,OPS,300810032000,8,8,X,X,X,X
+598,lubuskie,żagański,Gozdnica,miejska,OPS,300810011000,12,12,X,X,X,X
+599,lubuskie,żagański,Iłowa,miejsko-wiejska,OPS,300810043000,26,26,X,X,X,X
+600,lubuskie,żagański,Małomice,miejsko-wiejska,OPS,300810053000,40,40,X,X,X,X
+601,lubuskie,żagański,Niegosławice,wiejska,OPS,300810062000,31,31,X,X,X,X
+602,lubuskie,żagański,Szprotawa,miejsko-wiejska,OPS,300810073000,18,18,X,X,X,X
+603,lubuskie,żagański,Wymiarki,wiejska,OPS,300810082000,19,19,X,X,X,X
+604,lubuskie,żagański,Żagań,miejska,OPS,300810021000,39,39,X,X,X,X
+605,lubuskie,żagański,Żagań,wiejska,OPS,300810092000,12,12,X,X,X,X
+606,lubuskie,żarski,Brody,wiejska,OPS,300811032000,2,2,X,X,X,X
+607,lubuskie,żarski,Jasień,miejsko-wiejska,OPS,300811043000,21,21,X,X,X,X
+608,lubuskie,żarski,Lipinki Łużyckie,wiejska,OPS,300811052000,8,8,X,X,X,X
+609,lubuskie,żarski,Lubsko,miejsko-wiejska,OPS,300811063000,99,99,X,X,X,X
+610,lubuskie,żarski,Łęknica,miejska,OPS,300811011000,3,3,X,X,X,X
+611,lubuskie,żarski,Przewóz,wiejska,OPS,300811072000,4,4,X,X,X,X
+612,lubuskie,żarski,Trzebiel,wiejska,OPS,300811082000,23,23,X,X,X,X
+613,lubuskie,żarski,Tuplice,wiejska,OPS,300811092000,10,10,X,X,X,X
+614,lubuskie,żarski,Żary,miejska,OPS,300811021000,163,163,X,X,X,X
+615,lubuskie,żarski,Żary,wiejska,OPS,300811102000,27,27,X,X,X,X
+616,łódzkie,-,-,-,WPS,101000000000,9351,9351,X,X,X,X
+617,łódzkie,bełchatowski,Bełchatów,miejska,OPS,301001011000,176,176,X,X,X,X
+618,łódzkie,bełchatowski,Bełchatów,wiejska,OPS,301001022000,36,36,X,X,X,X
+619,łódzkie,bełchatowski,Drużbice,wiejska,OPS,301001032000,16,16,X,X,X,X
+620,łódzkie,bełchatowski,Kleszczów,wiejska,OPS,301001042000,8,8,X,X,X,X
+621,łódzkie,bełchatowski,Kluki,wiejska,OPS,301001052000,20,20,X,X,X,X
+622,łódzkie,bełchatowski,Rusiec,wiejska,OPS,301001062000,11,11,X,X,X,X
+623,łódzkie,bełchatowski,Szczerców,wiejska,OPS,301001072000,18,18,X,X,X,X
+624,łódzkie,bełchatowski,Zelów,miejsko-wiejska,OPS,301001083000,106,106,X,X,X,X
+625,łódzkie,brzeziński,Brzeziny,miejska,OPS,301021011000,32,32,X,X,X,X
+626,łódzkie,brzeziński,Brzeziny,wiejska,OPS,301021022000,7,7,X,X,X,X
+627,łódzkie,brzeziński,Dmosin,wiejska,OPS,301021032000,15,15,X,X,X,X
+628,łódzkie,brzeziński,Jeżów,wiejska,OPS,301021042000,12,12,X,X,X,X
+629,łódzkie,brzeziński,Rogów,wiejska,OPS,301021052000,11,11,X,X,X,X
+630,łódzkie,kutnowski,Bedlno,wiejska,OPS,301002022000,18,18,X,X,X,X
+631,łódzkie,kutnowski,Dąbrowice,wiejska,OPS,301002032000,17,17,X,X,X,X
+632,łódzkie,kutnowski,Krośniewice,miejsko-wiejska,OPS,301002043000,11,11,X,X,X,X
+633,łódzkie,kutnowski,Krzyżanów,wiejska,OPS,301002052000,25,25,X,X,X,X
+634,łódzkie,kutnowski,Kutno,miejska,OPS,301002011000,246,246,X,X,X,X
+635,łódzkie,kutnowski,Kutno,wiejska,OPS,301002062000,30,30,X,X,X,X
+636,łódzkie,kutnowski,Łanięta,wiejska,OPS,301002072000,10,10,X,X,X,X
+637,łódzkie,kutnowski,Nowe Ostrowy,wiejska,OPS,301002082000,33,33,X,X,X,X
+638,łódzkie,kutnowski,Oporów,wiejska,OPS,301002092000,30,30,X,X,X,X
+639,łódzkie,kutnowski,Strzelce,wiejska,OPS,301002102000,48,48,X,X,X,X
+640,łódzkie,kutnowski,Żychlin,miejsko-wiejska,OPS,301002113000,59,59,X,X,X,X
+641,łódzkie,łaski,Buczek,wiejska,OPS,301003012000,4,4,X,X,X,X
+642,łódzkie,łaski,Łask,miejsko-wiejska,OPS,301003023000,53,53,X,X,X,X
+643,łódzkie,łaski,Sędziejowice,wiejska,OPS,301003032000,21,21,X,X,X,X
+644,łódzkie,łaski,Widawa,wiejska,OPS,301003042000,35,35,X,X,X,X
+645,łódzkie,łaski,Wodzierady,wiejska,OPS,301003052000,9,9,X,X,X,X
+646,łódzkie,łęczycki,Daszyna,wiejska,OPS,301004022000,7,7,X,X,X,X
+647,łódzkie,łęczycki,Góra Świętej Małgorzaty,wiejska,OPS,301004032000,11,11,X,X,X,X
+648,łódzkie,łęczycki,Grabów,wiejska,OPS,301004042000,13,13,X,X,X,X
+649,łódzkie,łęczycki,Łęczyca,miejska,OPS,301004011000,65,65,X,X,X,X
+650,łódzkie,łęczycki,Łęczyca,wiejska,OPS,301004052000,13,13,X,X,X,X
+651,łódzkie,łęczycki,Piątek,wiejska,OPS,301004062000,29,29,X,X,X,X
+652,łódzkie,łęczycki,Świnice Warckie,wiejska,OPS,301004072000,6,6,X,X,X,X
+653,łódzkie,łęczycki,Witonia,wiejska,OPS,301004082000,19,19,X,X,X,X
+654,łódzkie,łowicki,Bielawy,wiejska,OPS,301005022000,39,39,X,X,X,X
+655,łódzkie,łowicki,Chąśno,wiejska,OPS,301005032000,9,9,X,X,X,X
+656,łódzkie,łowicki,Domaniewice,wiejska,OPS,301005042000,17,17,X,X,X,X
+657,łódzkie,łowicki,Kiernozia,wiejska,OPS,301005052000,10,10,X,X,X,X
+658,łódzkie,łowicki,Kocierzew Południowy,wiejska,OPS,301005062000,19,19,X,X,X,X
+659,łódzkie,łowicki,Łowicz,miejska,OPS,301005011000,117,117,X,X,X,X
+660,łódzkie,łowicki,Łowicz,wiejska,OPS,301005072000,20,20,X,X,X,X
+661,łódzkie,łowicki,Łyszkowice,wiejska,OPS,301005082000,25,25,X,X,X,X
+662,łódzkie,łowicki,Nieborów,wiejska,OPS,301005092000,12,12,X,X,X,X
+663,łódzkie,łowicki,Zduny,wiejska,OPS,301005102000,33,33,X,X,X,X
+664,łódzkie,łódzki wschodni,Andrespol,wiejska,OPS,301006022000,11,11,X,X,X,X
+665,łódzkie,łódzki wschodni,Brójce,wiejska,OPS,301006032000,7,7,X,X,X,X
+666,łódzkie,łódzki wschodni,Koluszki,miejsko-wiejska,OPS,301006073000,46,46,X,X,X,X
+667,łódzkie,łódzki wschodni,Nowosolna,wiejska,OPS,301006082000,8,8,X,X,X,X
+668,łódzkie,łódzki wschodni,Rzgów,miejsko-wiejska,OPS,301006102000,18,18,X,X,X,X
+669,łódzkie,łódzki wschodni,Tuszyn,miejsko-wiejska,OPS,301006113000,36,36,X,X,X,X
+670,łódzkie,m. Łódź,M. Łódź,miejska,MOPR,251061011000,3167,3167,X,X,X,X
+671,łódzkie,opoczyński,Białaczów,wiejska,OPS,301007012000,10,10,X,X,X,X
+672,łódzkie,opoczyński,Drzewica,miejsko-wiejska,OPS,301007023000,32,32,X,X,X,X
+673,łódzkie,opoczyński,Mniszków,wiejska,OPS,301007032000,22,22,X,X,X,X
+674,łódzkie,opoczyński,Opoczno,miejsko-wiejska,OPS,301007043000,157,157,X,X,X,X
+675,łódzkie,opoczyński,Paradyż,wiejska,OPS,301007052000,15,15,X,X,X,X
+676,łódzkie,opoczyński,Poświętne,wiejska,OPS,301007062000,12,12,X,X,X,X
+677,łódzkie,opoczyński,Sławno,wiejska,OPS,301007072000,61,61,X,X,X,X
+678,łódzkie,opoczyński,Żarnów,wiejska,OPS,301007082000,20,20,X,X,X,X
+679,łódzkie,pabianicki,Dłutów,wiejska,OPS,301008032000,10,10,X,X,X,X
+680,łódzkie,pabianicki,Dobroń,wiejska,OPS,301008042000,33,33,X,X,X,X
+681,łódzkie,pabianicki,Konstantynów Łódzki,miejska,OPS,301008011000,29,29,X,X,X,X
+682,łódzkie,pabianicki,Ksawerów,wiejska,OPS,301008052000,14,14,X,X,X,X
+683,łódzkie,pabianicki,Lutomiersk,wiejska,OPS,301008062000,25,25,X,X,X,X
+684,łódzkie,pabianicki,Pabianice,miejska,OPS,301008021000,140,140,X,X,X,X
+685,łódzkie,pabianicki,Pabianice,wiejska,OPS,301008072000,15,15,X,X,X,X
+686,łódzkie,pajęczański,Działoszyn,miejsko-wiejska,OPS,301009013000,31,31,X,X,X,X
+687,łódzkie,pajęczański,Kiełczygłów,wiejska,OPS,301009022000,25,25,X,X,X,X
+688,łódzkie,pajęczański,Nowa Brzeźnica,wiejska,OPS,301009032000,9,9,X,X,X,X
+689,łódzkie,pajęczański,Pajęczno,miejsko-wiejska,OPS,301009043000,36,36,X,X,X,X
+690,łódzkie,pajęczański,Rząśnia,wiejska,OPS,301009052000,14,14,X,X,X,X
+691,łódzkie,pajęczański,Siemkowice,wiejska,OPS,301009062000,18,18,X,X,X,X
+692,łódzkie,pajęczański,Strzelce Wielkie,wiejska,OPS,301009072000,10,10,X,X,X,X
+693,łódzkie,pajęczański,Sulmierzyce,wiejska,OPS,301009082000,11,11,X,X,X,X
+694,łódzkie,piotrkowski,Aleksandrów,wiejska,OPS,301010012000,5,5,X,X,X,X
+695,łódzkie,piotrkowski,Czarnocin,wiejska,OPS,301010022000,16,16,X,X,X,X
+696,łódzkie,piotrkowski,Gorzkowice,wiejska,OPS,301010032000,23,23,X,X,X,X
+697,łódzkie,piotrkowski,Grabica,wiejska,OPS,301010042000,8,8,X,X,X,X
+698,łódzkie,piotrkowski,Łęki Szlacheckie,wiejska,OPS,301010052000,14,14,X,X,X,X
+699,łódzkie,piotrkowski,Moszczenica,wiejska,OPS,301010062000,61,61,X,X,X,X
+700,łódzkie,piotrkowski,Ręczno,wiejska,OPS,301010072000,14,14,X,X,X,X
+701,łódzkie,piotrkowski,Rozprza,wiejska,OPS,301010082000,40,40,X,X,X,X
+702,łódzkie,piotrkowski,Sulejów,miejsko-wiejska,OPS,301010093000,93,93,X,X,X,X
+703,łódzkie,piotrkowski,Wola Krzysztoporska,wiejska,OPS,301010102000,63,63,X,X,X,X
+704,łódzkie,piotrkowski,Wolbórz,miejsko-wiejska,OPS,301010113000,66,66,X,X,X,X
+705,łódzkie,m. Piotrków Trybunalski,M. Piotrków Trybunalski,miejska,MOPR,251062011000,477,477,X,X,X,X
+706,łódzkie,poddębicki,Dalików,wiejska,OPS,301011012000,26,26,X,X,X,X
+707,łódzkie,poddębicki,Pęczniew,wiejska,OPS,301011022000,19,19,X,X,X,X
+708,łódzkie,poddębicki,Poddębice,miejsko-wiejska,OPS,301011033000,29,29,X,X,X,X
+709,łódzkie,poddębicki,Uniejów,miejsko-wiejska,OPS,301011043000,30,30,X,X,X,X
+710,łódzkie,poddębicki,Wartkowice,wiejska,OPS,301011052000,32,32,X,X,X,X
+711,łódzkie,poddębicki,Zadzim,wiejska,OPS,301011062000,17,17,X,X,X,X
+712,łódzkie,radomszczański,Dobryszyce,wiejska,OPS,301012022000,25,25,X,X,X,X
+713,łódzkie,radomszczański,Gidle,wiejska,OPS,301012032000,23,23,X,X,X,X
+714,łódzkie,radomszczański,Gomunice,wiejska,OPS,301012042000,18,18,X,X,X,X
+715,łódzkie,radomszczański,Kamieńsk,miejsko-wiejska,OPS,301012053000,14,14,X,X,X,X
+716,łódzkie,radomszczański,Kobiele Wielkie,wiejska,OPS,301012062000,9,9,X,X,X,X
+717,łódzkie,radomszczański,Kodrąb,wiejska,OPS,301012072000,38,38,X,X,X,X
+718,łódzkie,radomszczański,Lgota Wielka,wiejska,OPS,301012082000,9,9,X,X,X,X
+719,łódzkie,radomszczański,Ładzice,wiejska,OPS,301012092000,13,13,X,X,X,X
+720,łódzkie,radomszczański,Masłowice,wiejska,OPS,301012102000,0,0,X,X,X,X
+721,łódzkie,radomszczański,Przedbórz,miejsko-wiejska,OPS,301012113000,9,9,X,X,X,X
+722,łódzkie,radomszczański,Radomsko,miejska,OPS,301012011000,136,136,X,X,X,X
+723,łódzkie,radomszczański,Radomsko,wiejska,OPS,301012122000,19,19,X,X,X,X
+724,łódzkie,radomszczański,Wielgomłyny,wiejska,OPS,301012132000,10,10,X,X,X,X
+725,łódzkie,radomszczański,Żytno,wiejska,OPS,301012142000,14,14,X,X,X,X
+726,łódzkie,rawski,Biała Rawska,miejsko-wiejska,OPS,301013023000,46,46,X,X,X,X
+727,łódzkie,rawski,Cielądz,wiejska,OPS,301013032000,7,7,X,X,X,X
+728,łódzkie,rawski,Rawa Mazowiecka,miejska,OPS,301013011000,79,79,X,X,X,X
+729,łódzkie,rawski,Rawa Mazowiecka,wiejska,OPS,301013042000,32,32,X,X,X,X
+730,łódzkie,rawski,Regnów,wiejska,OPS,301013052000,7,7,X,X,X,X
+731,łódzkie,rawski,Sadkowice,wiejska,OPS,301013062000,8,8,X,X,X,X
+732,łódzkie,sieradzki,Błaszki,miejsko-wiejska,OPS,301014023000,74,74,X,X,X,X
+733,łódzkie,sieradzki,Brąszewice,wiejska,OPS,301014032000,13,13,X,X,X,X
+734,łódzkie,sieradzki,Brzeźnio,wiejska,OPS,301014042000,32,32,X,X,X,X
+735,łódzkie,sieradzki,Burzenin,wiejska,OPS,301014052000,21,21,X,X,X,X
+736,łódzkie,sieradzki,Goszczanów,wiejska,OPS,301014062000,59,59,X,X,X,X
+737,łódzkie,sieradzki,Klonowa,wiejska,OPS,301014072000,13,13,X,X,X,X
+738,łódzkie,sieradzki,Sieradz,miejska,OPS,301014011000,96,96,X,X,X,X
+739,łódzkie,sieradzki,Sieradz,wiejska,OPS,301014082000,33,33,X,X,X,X
+740,łódzkie,sieradzki,Warta,miejsko-wiejska,OPS,301014093000,75,75,X,X,X,X
+741,łódzkie,sieradzki,Wróblew,wiejska,OPS,301014102000,14,14,X,X,X,X
+742,łódzkie,sieradzki,Złoczew,miejsko-wiejska,OPS,301014113000,46,46,X,X,X,X
+743,łódzkie,m. Skierniewice,M. Skierniewice,miejska,MOPR,251063011000,146,146,X,X,X,X
+744,łódzkie,skierniewicki,Bolimów,wiejska,OPS,301015012000,11,11,X,X,X,X
+745,łódzkie,skierniewicki,Głuchów,wiejska,OPS,301015022000,13,13,X,X,X,X
+746,łódzkie,skierniewicki,Godzianów,wiejska,OPS,301015032000,14,14,X,X,X,X
+747,łódzkie,skierniewicki,Kowiesy,wiejska,OPS,301015042000,6,6,X,X,X,X
+748,łódzkie,skierniewicki,Lipce Reymontowskie,wiejska,OPS,301015052000,11,11,X,X,X,X
+749,łódzkie,skierniewicki,Maków,wiejska,OPS,301015062000,25,25,X,X,X,X
+750,łódzkie,skierniewicki,Nowy Kawęczyn,wiejska,OPS,301015072000,10,10,X,X,X,X
+751,łódzkie,skierniewicki,Skierniewice,wiejska,OPS,301015082000,58,58,X,X,X,X
+752,łódzkie,skierniewicki,Słupia,wiejska,OPS,301015092000,3,3,X,X,X,X
+753,łódzkie,tomaszowski,Będków,wiejska,OPS,301016022000,16,16,X,X,X,X
+754,łódzkie,tomaszowski,Budziszewice,wiejska,OPS,301016032000,8,8,X,X,X,X
+755,łódzkie,tomaszowski,Czerniewice,wiejska,OPS,301016042000,10,10,X,X,X,X
+756,łódzkie,tomaszowski,Inowłódz,wiejska,OPS,301016052000,16,16,X,X,X,X
+757,łódzkie,tomaszowski,Lubochnia,wiejska,OPS,301016062000,31,31,X,X,X,X
+758,łódzkie,tomaszowski,Rokiciny,wiejska,OPS,301016072000,11,11,X,X,X,X
+759,łódzkie,tomaszowski,Rzeczyca,wiejska,OPS,301016082000,5,5,X,X,X,X
+760,łódzkie,tomaszowski,Tomaszów Mazowiecki,miejska,OPS,301016011000,180,180,X,X,X,X
+761,łódzkie,tomaszowski,Tomaszów Mazowiecki,wiejska,OPS,301016092000,54,54,X,X,X,X
+762,łódzkie,tomaszowski,Ujazd,wiejska,OPS,301016102000,38,38,X,X,X,X
+763,łódzkie,tomaszowski,Żelechlinek,wiejska,OPS,301016112000,19,19,X,X,X,X
+764,łódzkie,wieluński,Biała,wiejska,OPS,301017012000,20,20,X,X,X,X
+765,łódzkie,wieluński,Czarnożyły,wiejska,OPS,301017022000,9,9,X,X,X,X
+766,łódzkie,wieluński,Konopnica,wiejska,OPS,301017032000,4,4,X,X,X,X
+767,łódzkie,wieluński,Mokrsko,wiejska,OPS,301017042000,3,3,X,X,X,X
+768,łódzkie,wieluński,Osjaków,wiejska,OPS,301017052000,18,18,X,X,X,X
+769,łódzkie,wieluński,Ostrówek,wiejska,OPS,301017062000,4,4,X,X,X,X
+770,łódzkie,wieluński,Pątnów,wiejska,OPS,301017072000,28,28,X,X,X,X
+771,łódzkie,wieluński,Skomlin,wiejska,OPS,301017082000,13,13,X,X,X,X
+772,łódzkie,wieluński,Wieluń,miejsko-wiejska,OPS,301017093000,163,163,X,X,X,X
+773,łódzkie,wieluński,Wierzchlas,wiejska,OPS,301017102000,9,9,X,X,X,X
+774,łódzkie,wieruszowski,Bolesławiec,wiejska,OPS,301018012000,13,13,X,X,X,X
+775,łódzkie,wieruszowski,Czastary,wiejska,OPS,301018022000,32,32,X,X,X,X
+776,łódzkie,wieruszowski,Galewice,wiejska,OPS,301018032000,23,23,X,X,X,X
+777,łódzkie,wieruszowski,Lututów,wiejska,OPS,301018042000,7,7,X,X,X,X
+778,łódzkie,wieruszowski,Łubnice,wiejska,OPS,301018052000,11,11,X,X,X,X
+779,łódzkie,wieruszowski,Sokolniki,wiejska,OPS,301018062000,8,8,X,X,X,X
+780,łódzkie,wieruszowski,Wieruszów,miejsko-wiejska,OPS,301018073000,32,32,X,X,X,X
+781,łódzkie,zduńskowolski,Szadek,miejsko-wiejska,OPS,301019023000,10,10,X,X,X,X
+782,łódzkie,zduńskowolski,Zapolice,wiejska,OPS,301019032000,24,24,X,X,X,X
+783,łódzkie,zduńskowolski,Zduńska Wola,miejska,OPS,301019011000,69,69,X,X,X,X
+784,łódzkie,zduńskowolski,Zduńska Wola,wiejska,OPS,301019042000,10,10,X,X,X,X
+785,łódzkie,zgierski,Aleksandrów Łódzki,miejsko-wiejska,OPS,301020043000,63,63,X,X,X,X
+786,łódzkie,zgierski,Głowno,miejska,OPS,301020011000,29,29,X,X,X,X
+787,łódzkie,zgierski,Głowno,wiejska,OPS,301020052000,13,13,X,X,X,X
+788,łódzkie,zgierski,Ozorków,miejska,OPS,301020021000,96,96,X,X,X,X
+789,łódzkie,zgierski,Ozorków,wiejska,OPS,301020062000,42,42,X,X,X,X
+790,łódzkie,zgierski,Parzęczew,wiejska,OPS,301020072000,32,32,X,X,X,X
+791,łódzkie,zgierski,Stryków,miejsko-wiejska,OPS,301020083000,22,22,X,X,X,X
+792,łódzkie,zgierski,Zgierz,miejska,OPS,301020031000,125,125,X,X,X,X
+793,łódzkie,zgierski,Zgierz,wiejska,OPS,301020092000,86,86,X,X,X,X
+794,małopolskie,-,-,-,WPS,101200000000,10548,10548,X,X,X,X
+795,małopolskie,tarnowski,Wierzchosławice,wiejska,OPS,301216112000,35,35,X,X,X,X
+796,małopolskie,bocheński,Bochnia,miejska,OPS,301201011000,128,128,X,X,X,X
+797,małopolskie,bocheński,Bochnia,wiejska,OPS,301201022000,48,48,X,X,X,X
+798,małopolskie,bocheński,Drwinia,wiejska,OPS,301201032000,13,13,X,X,X,X
+799,małopolskie,bocheński,Lipnica Murowana,wiejska,OPS,301201042000,41,41,X,X,X,X
+800,małopolskie,bocheński,Łapanów,wiejska,OPS,301201052000,40,40,X,X,X,X
+801,małopolskie,bocheński,Nowy Wiśnicz,miejsko-wiejska,OPS,301201063000,53,53,X,X,X,X
+802,małopolskie,bocheński,Rzezawa,wiejska,OPS,301201072000,56,56,X,X,X,X
+803,małopolskie,bocheński,Trzciana,wiejska,OPS,301201082000,17,17,X,X,X,X
+804,małopolskie,bocheński,Żegocina,wiejska,OPS,301201092000,3,3,X,X,X,X
+805,małopolskie,brzeski,Borzęcin,wiejska,OPS,301202012000,29,29,X,X,X,X
+806,małopolskie,brzeski,Brzesko,miejsko-wiejska,OPS,301202023000,97,97,X,X,X,X
+807,małopolskie,brzeski,Czchów,miejsko-wiejska,OPS,301202033000,19,19,X,X,X,X
+808,małopolskie,brzeski,Dębno,wiejska,OPS,301202042000,120,120,X,X,X,X
+809,małopolskie,brzeski,Gnojnik,wiejska,OPS,301202052000,22,22,X,X,X,X
+810,małopolskie,brzeski,Iwkowa,wiejska,OPS,301202062000,42,42,X,X,X,X
+811,małopolskie,brzeski,Szczurowa,wiejska,OPS,301202072000,18,18,X,X,X,X
+812,małopolskie,chrzanowski,Alwernia,miejsko-wiejska,OPS,301203013000,19,19,X,X,X,X
+813,małopolskie,chrzanowski,Babice,wiejska,OPS,301203022000,18,18,X,X,X,X
+814,małopolskie,chrzanowski,Chrzanów,miejsko-wiejska,OPS,301203033000,167,167,X,X,X,X
+815,małopolskie,chrzanowski,Libiąż,miejsko-wiejska,OPS,301203043000,69,69,X,X,X,X
+816,małopolskie,chrzanowski,Trzebinia,miejsko-wiejska,OPS,301203053000,145,145,X,X,X,X
+817,małopolskie,dąbrowski,Bolesław,wiejska,OPS,301204012000,7,7,X,X,X,X
+818,małopolskie,dąbrowski,Dąbrowa Tarnowska,miejsko-wiejska,OPS,301204023000,52,52,X,X,X,X
+819,małopolskie,dąbrowski,Gręboszów,wiejska,OPS,301204032000,7,7,X,X,X,X
+820,małopolskie,dąbrowski,Mędrzechów,wiejska,OPS,301204042000,3,3,X,X,X,X
+821,małopolskie,dąbrowski,Olesno,wiejska,OPS,301204052000,19,19,X,X,X,X
+822,małopolskie,dąbrowski,Radgoszcz,wiejska,OPS,301204062000,10,10,X,X,X,X
+823,małopolskie,dąbrowski,Szczucin,miejsko-wiejska,OPS,301204073000,57,57,X,X,X,X
+824,małopolskie,gorlicki,Biecz,miejsko-wiejska,OPS,301205023000,58,58,X,X,X,X
+825,małopolskie,gorlicki,Bobowa,miejsko-wiejska,OPS,301205033000,24,24,X,X,X,X
+826,małopolskie,gorlicki,Gorlice,miejska,OPS,301205011000,158,158,X,X,X,X
+827,małopolskie,gorlicki,Gorlice,wiejska,OPS,301205042000,50,50,X,X,X,X
+828,małopolskie,gorlicki,Lipinki,wiejska,OPS,301205052000,10,10,X,X,X,X
+829,małopolskie,gorlicki,Łużna,wiejska,OPS,301205062000,17,17,X,X,X,X
+830,małopolskie,gorlicki,Moszczenica,wiejska,OPS,301205072000,5,5,X,X,X,X
+831,małopolskie,gorlicki,Ropa,wiejska,OPS,301205082000,15,15,X,X,X,X
+832,małopolskie,gorlicki,Sękowa,wiejska,OPS,301205092000,25,25,X,X,X,X
+833,małopolskie,gorlicki,Uście Gorlickie,wiejska,OPS,301205102000,16,16,X,X,X,X
+834,małopolskie,krakowski,Czernichów,wiejska,OPS,301206012000,114,114,X,X,X,X
+835,małopolskie,krakowski,Igołomia-Wawrzeńczyce,wiejska,OPS,301206022000,15,15,X,X,X,X
+836,małopolskie,krakowski,Iwanowice,wiejska,OPS,301206032000,25,25,X,X,X,X
+837,małopolskie,krakowski,Jerzmanowice-Przeginia,wiejska,OPS,301206042000,79,79,X,X,X,X
+838,małopolskie,krakowski,Kocmyrzów-Luborzyca,wiejska,OPS,301206052000,29,29,X,X,X,X
+839,małopolskie,krakowski,Krzeszowice,miejsko-wiejska,OPS,301206063000,83,83,X,X,X,X
+840,małopolskie,krakowski,Liszki,wiejska,OPS,301206072000,51,51,X,X,X,X
+841,małopolskie,krakowski,Michałowice,wiejska,OPS,301206082000,33,33,X,X,X,X
+842,małopolskie,krakowski,Mogilany,wiejska,OPS,301206092000,26,26,X,X,X,X
+843,małopolskie,krakowski,Skała,miejsko-wiejska,OPS,301206103000,47,47,X,X,X,X
+844,małopolskie,krakowski,Skawina,miejsko-wiejska,OPS,301206113000,127,127,X,X,X,X
+845,małopolskie,krakowski,Słomniki,miejsko-wiejska,OPS,301206123000,43,43,X,X,X,X
+846,małopolskie,krakowski,Sułoszowa,wiejska,OPS,301206132000,30,30,X,X,X,X
+847,małopolskie,krakowski,Świątniki Górne,miejsko-wiejska,OPS,301206143000,29,29,X,X,X,X
+848,małopolskie,krakowski,Wielka Wieś,wiejska,OPS,301206152000,66,66,X,X,X,X
+849,małopolskie,krakowski,Zabierzów,wiejska,OPS,301206162000,82,82,X,X,X,X
+850,małopolskie,krakowski,Zielonki,wiejska,OPS,301206172000,71,71,X,X,X,X
+851,małopolskie,m. Kraków,M. Kraków,miejska,MOPR,251261011000,1381,1381,X,X,X,X
+852,małopolskie,limanowski,Dobra,wiejska,OPS,301207032000,16,16,X,X,X,X
+853,małopolskie,limanowski,Jodłownik,wiejska,OPS,301207042000,31,31,X,X,X,X
+854,małopolskie,limanowski,Kamienica,wiejska,OPS,301207052000,42,42,X,X,X,X
+855,małopolskie,limanowski,Laskowa,wiejska,OPS,301207062000,32,32,X,X,X,X
+856,małopolskie,limanowski,Limanowa,miejska,OPS,301207011000,66,66,X,X,X,X
+857,małopolskie,limanowski,Limanowa,wiejska,OPS,301207072000,51,51,X,X,X,X
+858,małopolskie,limanowski,Łukowica,wiejska,OPS,301207082000,47,47,X,X,X,X
+859,małopolskie,limanowski,Mszana Dolna,miejska,OPS,301207021000,28,28,X,X,X,X
+860,małopolskie,limanowski,Mszana Dolna,wiejska,OPS,301207092000,47,47,X,X,X,X
+861,małopolskie,limanowski,Niedźwiedź,wiejska,OPS,301207102000,61,61,X,X,X,X
+862,małopolskie,limanowski,Słopnice,wiejska,OPS,301207112000,14,14,X,X,X,X
+863,małopolskie,limanowski,Tymbark,wiejska,OPS,301207122000,13,13,X,X,X,X
+864,małopolskie,miechowski,Charsznica,wiejska,OPS,301208012000,47,47,X,X,X,X
+865,małopolskie,miechowski,Gołcza,wiejska,OPS,301208022000,25,25,X,X,X,X
+866,małopolskie,miechowski,Kozłów,wiejska,OPS,301208032000,41,41,X,X,X,X
+867,małopolskie,miechowski,Książ Wielki,wiejska,OPS,301208042000,17,17,X,X,X,X
+868,małopolskie,miechowski,Miechów,miejsko-wiejska,OPS,301208053000,101,101,X,X,X,X
+869,małopolskie,miechowski,Racławice,wiejska,OPS,301208062000,10,10,X,X,X,X
+870,małopolskie,miechowski,Słaboszów,wiejska,OPS,301208072000,21,21,X,X,X,X
+871,małopolskie,myślenicki,Dobczyce,miejsko-wiejska,OPS,301209013000,24,24,X,X,X,X
+872,małopolskie,myślenicki,Lubień,wiejska,OPS,301209022000,29,29,X,X,X,X
+873,małopolskie,myślenicki,Myślenice,miejsko-wiejska,OPS,301209033000,108,108,X,X,X,X
+874,małopolskie,myślenicki,Pcim,wiejska,OPS,301209042000,25,25,X,X,X,X
+875,małopolskie,myślenicki,Raciechowice,wiejska,OPS,301209052000,16,16,X,X,X,X
+876,małopolskie,myślenicki,Siepraw,wiejska,OPS,301209062000,34,34,X,X,X,X
+877,małopolskie,myślenicki,Sułkowice,miejsko-wiejska,OPS,301209073000,44,44,X,X,X,X
+878,małopolskie,myślenicki,Tokarnia,wiejska,OPS,301209082000,45,45,X,X,X,X
+879,małopolskie,myślenicki,Wiśniowa,wiejska,OPS,301209092000,33,33,X,X,X,X
+880,małopolskie,nowosądecki,Chełmiec,miejsko-wiejska,OPS,301210022000,57,57,X,X,X,X
+881,małopolskie,nowosądecki,Gródek nad Dunajcem,wiejska,OPS,301210032000,59,59,X,X,X,X
+882,małopolskie,nowosądecki,Grybów,miejska,OPS,301210011000,30,30,X,X,X,X
+883,małopolskie,nowosądecki,Grybów,wiejska,OPS,301210042000,46,46,X,X,X,X
+884,małopolskie,nowosądecki,Kamionka Wielka,wiejska,OPS,301210052000,71,71,X,X,X,X
+885,małopolskie,nowosądecki,Korzenna,wiejska,OPS,301210062000,36,36,X,X,X,X
+886,małopolskie,nowosądecki,Krynica-Zdrój,miejsko-wiejska,OPS,301210073000,30,30,X,X,X,X
+887,małopolskie,nowosądecki,Łabowa,wiejska,OPS,301210082000,40,40,X,X,X,X
+888,małopolskie,nowosądecki,Łącko,wiejska,OPS,301210092000,58,58,X,X,X,X
+889,małopolskie,nowosądecki,Łososina Dolna,wiejska,OPS,301210102000,29,29,X,X,X,X
+890,małopolskie,nowosądecki,Muszyna,miejsko-wiejska,OPS,301210113000,24,24,X,X,X,X
+891,małopolskie,nowosądecki,Nawojowa,wiejska,OPS,301210122000,22,22,X,X,X,X
+892,małopolskie,nowosądecki,Piwniczna-Zdrój,miejsko-wiejska,OPS,301210133000,42,42,X,X,X,X
+893,małopolskie,nowosądecki,Podegrodzie,wiejska,OPS,301210142000,22,22,X,X,X,X
+894,małopolskie,nowosądecki,Rytro,wiejska,OPS,301210152000,28,28,X,X,X,X
+895,małopolskie,nowosądecki,Stary Sącz,miejsko-wiejska,OPS,301210163000,73,73,X,X,X,X
+896,małopolskie,nowotarski,Czarny Dunajec,wiejska,OPS,301211032000,114,114,X,X,X,X
+897,małopolskie,nowotarski,Czorsztyn,wiejska,OPS,301211042000,23,23,X,X,X,X
+898,małopolskie,nowotarski,Jabłonka,wiejska,OPS,301211052000,70,70,X,X,X,X
+899,małopolskie,nowotarski,Krościenko nad Dunajcem,wiejska,OPS,301211062000,27,27,X,X,X,X
+900,małopolskie,nowotarski,Lipnica Wielka,wiejska,OPS,301211072000,12,12,X,X,X,X
+901,małopolskie,nowotarski,Łapsze Niżne,wiejska,OPS,301211082000,73,73,X,X,X,X
+902,małopolskie,nowotarski,Nowy Targ,miejska,OPS,301211011000,148,148,X,X,X,X
+903,małopolskie,nowotarski,Nowy Targ,wiejska,OPS,301211092000,117,117,X,X,X,X
+904,małopolskie,nowotarski,Ochotnica Dolna,wiejska,OPS,301211102000,43,43,X,X,X,X
+905,małopolskie,nowotarski,Raba Wyżna,wiejska,OPS,301211112000,20,20,X,X,X,X
+906,małopolskie,nowotarski,Rabka-Zdrój,miejsko-wiejska,OPS,301211123000,36,36,X,X,X,X
+907,małopolskie,nowotarski,Spytkowice,wiejska,OPS,301211132000,14,14,X,X,X,X
+908,małopolskie,nowotarski,Szaflary,wiejska,OPS,301211142000,27,27,X,X,X,X
+909,małopolskie,nowotarski,Szczawnica,miejsko-wiejska,OPS,301211023000,32,32,X,X,X,X
+910,małopolskie,m. Nowy Sącz,M. Nowy Sącz,miejska,MOPR,251262011000,368,368,X,X,X,X
+911,małopolskie,olkuski,Bolesław,wiejska,OPS,301212032000,22,22,X,X,X,X
+912,małopolskie,olkuski,Bukowno,miejska,OPS,301212011000,28,28,X,X,X,X
+913,małopolskie,olkuski,Klucze,wiejska,OPS,301212042000,98,98,X,X,X,X
+914,małopolskie,olkuski,Olkusz,miejsko-wiejska,OPS,301212053000,253,253,X,X,X,X
+915,małopolskie,olkuski,Trzyciąż,wiejska,OPS,301212062000,20,20,X,X,X,X
+916,małopolskie,olkuski,Wolbrom,miejsko-wiejska,OPS,301212073000,81,81,X,X,X,X
+917,małopolskie,oświęcimski,Brzeszcze,miejsko-wiejska,OPS,301213023000,34,34,X,X,X,X
+918,małopolskie,oświęcimski,Chełmek,miejsko-wiejska,OPS,301213033000,22,22,X,X,X,X
+919,małopolskie,oświęcimski,Kęty,miejsko-wiejska,OPS,301213043000,132,132,X,X,X,X
+920,małopolskie,oświęcimski,Osiek,wiejska,OPS,301213052000,29,29,X,X,X,X
+921,małopolskie,oświęcimski,Oświęcim,miejska,OPS,301213011000,118,118,X,X,X,X
+922,małopolskie,oświęcimski,Oświęcim,wiejska,OPS,301213062000,69,69,X,X,X,X
+923,małopolskie,oświęcimski,Polanka Wielka,wiejska,OPS,301213072000,30,30,X,X,X,X
+924,małopolskie,oświęcimski,Przeciszów,wiejska,OPS,301213082000,22,22,X,X,X,X
+925,małopolskie,oświęcimski,Zator,miejsko-wiejska,OPS,301213093000,21,21,X,X,X,X
+926,małopolskie,proszowicki,Koniusza,wiejska,OPS,301214012000,31,31,X,X,X,X
+927,małopolskie,proszowicki,Koszyce,wiejska,OPS,301214022000,22,22,X,X,X,X
+928,małopolskie,proszowicki,Nowe Brzesko,miejsko-wiejska,OPS,301214033000,19,19,X,X,X,X
+929,małopolskie,proszowicki,Pałecznica,wiejska,OPS,301214042000,7,7,X,X,X,X
+930,małopolskie,proszowicki,Proszowice,miejsko-wiejska,OPS,301214053000,32,32,X,X,X,X
+931,małopolskie,proszowicki,Radziemice,wiejska,OPS,301214062000,18,18,X,X,X,X
+932,małopolskie,suski,Budzów,wiejska,OPS,301215032000,46,46,X,X,X,X
+933,małopolskie,suski,Bystra-Sidzina,wiejska,OPS,301215042000,32,32,X,X,X,X
+934,małopolskie,suski,Jordanów,miejska,OPS,301215011000,11,11,X,X,X,X
+935,małopolskie,suski,Jordanów,wiejska,OPS,301215052000,34,34,X,X,X,X
+936,małopolskie,suski,Maków Podhalański,miejsko-wiejska,OPS,301215063000,81,81,X,X,X,X
+937,małopolskie,suski,Stryszawa,wiejska,OPS,301215072000,52,52,X,X,X,X
+938,małopolskie,suski,Sucha Beskidzka,miejska,OPS,301215021000,31,31,X,X,X,X
+939,małopolskie,suski,Zawoja,wiejska,OPS,301215082000,49,49,X,X,X,X
+940,małopolskie,suski,Zembrzyce,wiejska,OPS,301215092000,15,15,X,X,X,X
+941,małopolskie,tarnowski,Ciężkowice,miejsko-wiejska,OPS,301216013000,33,33,X,X,X,X
+942,małopolskie,tarnowski,Gromnik,wiejska,OPS,301216022000,39,39,X,X,X,X
+943,małopolskie,tarnowski,Lisia Góra,wiejska,OPS,301216032000,28,28,X,X,X,X
+944,małopolskie,tarnowski,Pleśna,wiejska,OPS,301216042000,28,28,X,X,X,X
+945,małopolskie,tarnowski,Radłów,miejsko-wiejska,OPS,301216053000,14,14,X,X,X,X
+946,małopolskie,tarnowski,Ryglice,miejsko-wiejska,OPS,301216063000,25,25,X,X,X,X
+947,małopolskie,tarnowski,Rzepiennik Strzyżewski,wiejska,OPS,301216072000,25,25,X,X,X,X
+948,małopolskie,tarnowski,Skrzyszów,wiejska,OPS,301216082000,50,50,X,X,X,X
+949,małopolskie,tarnowski,Szerzyny,wiejska,OPS,301216162000,28,28,X,X,X,X
+950,małopolskie,tarnowski,Tarnów,wiejska,OPS,301216092000,129,129,X,X,X,X
+951,małopolskie,tarnowski,Tuchów,miejsko-wiejska,OPS,301216103000,104,104,X,X,X,X
+952,małopolskie,tarnowski,Wietrzychowice,wiejska,OPS,301216122000,5,5,X,X,X,X
+953,małopolskie,tarnowski,Wojnicz,miejsko-wiejska,OPS,301216133000,25,25,X,X,X,X
+954,małopolskie,tarnowski,Zakliczyn,miejsko-wiejska,OPS,301216142000,32,32,X,X,X,X
+955,małopolskie,tarnowski,Żabno,miejsko-wiejska,OPS,301216153000,28,28,X,X,X,X
+956,małopolskie,m. Tarnów,M. Tarnów,miejska,MOPR,251263011000,456,456,X,X,X,X
+957,małopolskie,tatrzański,Biały Dunajec,wiejska,OPS,301217022000,17,17,X,X,X,X
+958,małopolskie,tatrzański,Bukowina Tatrzańska,wiejska,OPS,301217032000,31,31,X,X,X,X
+959,małopolskie,tatrzański,Kościelisko,wiejska,OPS,301217042000,16,16,X,X,X,X
+960,małopolskie,tatrzański,Poronin,wiejska,OPS,301217052000,56,56,X,X,X,X
+961,małopolskie,tatrzański,Zakopane,miejska,OPS,301217011000,0,0,X,X,X,X
+962,małopolskie,wadowicki,Andrychów,miejsko-wiejska,OPS,301218013000,191,191,X,X,X,X
+963,małopolskie,wadowicki,Brzeźnica,wiejska,OPS,301218022000,32,32,X,X,X,X
+964,małopolskie,wadowicki,Kalwaria Zebrzydowska,miejsko-wiejska,OPS,301218033000,27,27,X,X,X,X
+965,małopolskie,wadowicki,Lanckorona,wiejska,OPS,301218042000,41,41,X,X,X,X
+966,małopolskie,wadowicki,Mucharz,wiejska,OPS,301218052000,25,25,X,X,X,X
+967,małopolskie,wadowicki,Spytkowice,wiejska,OPS,301218062000,38,38,X,X,X,X
+968,małopolskie,wadowicki,Stryszów,wiejska,OPS,301218072000,19,19,X,X,X,X
+969,małopolskie,wadowicki,Tomice,wiejska,OPS,301218082000,34,34,X,X,X,X
+970,małopolskie,wadowicki,Wadowice,miejsko-wiejska,OPS,301218093000,77,77,X,X,X,X
+971,małopolskie,wadowicki,Wieprz,wiejska,OPS,301218102000,68,68,X,X,X,X
+972,małopolskie,wielicki,Biskupice,wiejska,OPS,301219012000,15,15,X,X,X,X
+973,małopolskie,wielicki,Gdów,wiejska,OPS,301219022000,80,80,X,X,X,X
+974,małopolskie,wielicki,Kłaj,wiejska,OPS,301219032000,24,24,X,X,X,X
+975,małopolskie,wielicki,Niepołomice,miejsko-wiejska,OPS,301219043000,82,82,X,X,X,X
+976,małopolskie,wielicki,Wieliczka,miejsko-wiejska,OPS,301219053000,245,245,X,X,X,X
+977,mazowieckie,-,-,-,WPS,101400000000,17741,17741,X,X,X,X
+978,mazowieckie,kozienicki,Gniewoszów,wiejska,OPS,301407032000,6,6,X,X,X,X
+979,mazowieckie,białobrzeski,Białobrzegi,miejsko-wiejska,OPS,301401013000,42,42,X,X,X,X
+980,mazowieckie,białobrzeski,Promna,wiejska,OPS,301401022000,8,8,X,X,X,X
+981,mazowieckie,białobrzeski,Radzanów,wiejska,OPS,301401032000,8,8,X,X,X,X
+982,mazowieckie,białobrzeski,Stara Błotnica,wiejska,OPS,301401042000,13,13,X,X,X,X
+983,mazowieckie,białobrzeski,Stromiec,wiejska,OPS,301401052000,55,55,X,X,X,X
+984,mazowieckie,białobrzeski,Wyśmierzyce,miejsko-wiejska,OPS,301401063000,21,21,X,X,X,X
+985,mazowieckie,ciechanowski,Ciechanów,miejska,OPS,301402011000,85,85,X,X,X,X
+986,mazowieckie,ciechanowski,Ciechanów,wiejska,OPS,301402022000,18,18,X,X,X,X
+987,mazowieckie,ciechanowski,Glinojeck,miejsko-wiejska,OPS,301402033000,16,16,X,X,X,X
+988,mazowieckie,ciechanowski,Gołymin-Ośrodek,wiejska,OPS,301402042000,42,42,X,X,X,X
+989,mazowieckie,ciechanowski,Grudusk,wiejska,OPS,301402052000,4,4,X,X,X,X
+990,mazowieckie,ciechanowski,Ojrzeń,wiejska,OPS,301402062000,32,32,X,X,X,X
+991,mazowieckie,ciechanowski,Opinogóra Górna,wiejska,OPS,301402072000,12,12,X,X,X,X
+992,mazowieckie,ciechanowski,Regimin,wiejska,OPS,301402082000,21,21,X,X,X,X
+993,mazowieckie,ciechanowski,Sońsk,wiejska,OPS,301402092000,18,18,X,X,X,X
+994,mazowieckie,garwoliński,Borowie,wiejska,OPS,301403032000,9,9,X,X,X,X
+995,mazowieckie,garwoliński,Garwolin,miejska,OPS,301403011000,53,53,X,X,X,X
+996,mazowieckie,garwoliński,Garwolin,wiejska,OPS,301403042000,107,107,X,X,X,X
+997,mazowieckie,garwoliński,Górzno,wiejska,OPS,301403052000,26,26,X,X,X,X
+998,mazowieckie,garwoliński,Łaskarzew,miejska,OPS,301403021000,18,18,X,X,X,X
+999,mazowieckie,garwoliński,Łaskarzew,wiejska,OPS,301403062000,13,13,X,X,X,X
+1000,mazowieckie,garwoliński,Maciejowice,wiejska,OPS,301403072000,17,17,X,X,X,X
+1001,mazowieckie,garwoliński,Miastków Kościelny,wiejska,OPS,301403082000,22,22,X,X,X,X
+1002,mazowieckie,garwoliński,Parysów,wiejska,OPS,301403092000,30,30,X,X,X,X
+1003,mazowieckie,garwoliński,Pilawa,miejsko-wiejska,OPS,301403103000,64,64,X,X,X,X
+1004,mazowieckie,garwoliński,Sobolew,wiejska,OPS,301403112000,39,39,X,X,X,X
+1005,mazowieckie,garwoliński,Trojanów,wiejska,OPS,301403122000,38,38,X,X,X,X
+1006,mazowieckie,garwoliński,Wilga,wiejska,OPS,301403132000,30,30,X,X,X,X
+1007,mazowieckie,garwoliński,Żelechów,miejsko-wiejska,OPS,301403143000,36,36,X,X,X,X
+1008,mazowieckie,gostyniński,Gostynin,miejska,OPS,301404011000,44,44,X,X,X,X
+1009,mazowieckie,gostyniński,Gostynin,wiejska,OPS,301404022000,57,57,X,X,X,X
+1010,mazowieckie,gostyniński,Pacyna,wiejska,OPS,301404032000,4,4,X,X,X,X
+1011,mazowieckie,gostyniński,Sanniki,miejsko-wiejska,OPS,301404042000,57,57,X,X,X,X
+1012,mazowieckie,gostyniński,Szczawin Kościelny,wiejska,OPS,301404052000,4,4,X,X,X,X
+1013,mazowieckie,grodziski,Baranów,wiejska,OPS,301405032000,9,9,X,X,X,X
+1014,mazowieckie,grodziski,Grodzisk Mazowiecki,miejsko-wiejska,OPS,301405043000,113,113,X,X,X,X
+1015,mazowieckie,grodziski,Jaktorów,wiejska,OPS,301405052000,31,31,X,X,X,X
+1016,mazowieckie,grodziski,Milanówek,miejska,OPS,301405011000,18,18,X,X,X,X
+1017,mazowieckie,grodziski,Podkowa Leśna,miejska,OPS,301405021000,13,13,X,X,X,X
+1018,mazowieckie,grodziski,Żabia Wola,wiejska,OPS,301405062000,15,15,X,X,X,X
+1019,mazowieckie,grójecki,Belsk Duży,wiejska,OPS,301406012000,25,25,X,X,X,X
+1020,mazowieckie,grójecki,Błędów,wiejska,OPS,301406022000,13,13,X,X,X,X
+1021,mazowieckie,grójecki,Chynów,wiejska,OPS,301406032000,13,13,X,X,X,X
+1022,mazowieckie,grójecki,Goszczyn,wiejska,OPS,301406042000,15,15,X,X,X,X
+1023,mazowieckie,grójecki,Grójec,miejsko-wiejska,OPS,301406053000,61,61,X,X,X,X
+1024,mazowieckie,grójecki,Jasieniec,wiejska,OPS,301406062000,19,19,X,X,X,X
+1025,mazowieckie,grójecki,Mogielnica,miejsko-wiejska,OPS,301406073000,30,30,X,X,X,X
+1026,mazowieckie,grójecki,Nowe Miasto nad Pilicą,miejsko-wiejska,OPS,301406083000,13,13,X,X,X,X
+1027,mazowieckie,grójecki,Pniewy,wiejska,OPS,301406092000,33,33,X,X,X,X
+1028,mazowieckie,grójecki,Warka,miejsko-wiejska,OPS,301406113000,33,33,X,X,X,X
+1029,mazowieckie,kozienicki,Garbatka-Letnisko,wiejska,OPS,301407012000,15,15,X,X,X,X
+1030,mazowieckie,kozienicki,Głowaczów,wiejska,OPS,301407022000,15,15,X,X,X,X
+1031,mazowieckie,kozienicki,Grabów nad Pilicą,wiejska,OPS,301407042000,6,6,X,X,X,X
+1032,mazowieckie,kozienicki,Kozienice,miejsko-wiejska,OPS,301407053000,67,67,X,X,X,X
+1033,mazowieckie,kozienicki,Magnuszew,wiejska,OPS,301407062000,10,10,X,X,X,X
+1034,mazowieckie,kozienicki,Sieciechów,wiejska,OPS,301407072000,24,24,X,X,X,X
+1035,mazowieckie,legionowski,Jabłonna,wiejska,OPS,301408022000,67,67,X,X,X,X
+1036,mazowieckie,legionowski,Legionowo,miejska,OPS,301408011000,108,108,X,X,X,X
+1037,mazowieckie,legionowski,Nieporęt,wiejska,OPS,301408032000,52,52,X,X,X,X
+1038,mazowieckie,legionowski,Serock,miejsko-wiejska,OPS,301408043000,28,28,X,X,X,X
+1039,mazowieckie,legionowski,Wieliszew,wiejska,OPS,301408052000,56,56,X,X,X,X
+1040,mazowieckie,lipski,Chotcza,wiejska,OPS,301409012000,2,2,X,X,X,X
+1041,mazowieckie,lipski,Ciepielów,wiejska,OPS,301409022000,7,7,X,X,X,X
+1042,mazowieckie,lipski,Lipsko,miejsko-wiejska,OPS,301409033000,37,37,X,X,X,X
+1043,mazowieckie,lipski,Rzeczniów,wiejska,OPS,301409042000,7,7,X,X,X,X
+1044,mazowieckie,lipski,Sienno,wiejska,OPS,301409052000,33,33,X,X,X,X
+1045,mazowieckie,lipski,Solec nad Wisłą,wiejska,OPS,301409062000,3,3,X,X,X,X
+1046,mazowieckie,łosicki,Huszlew,wiejska,OPS,301410012000,7,7,X,X,X,X
+1047,mazowieckie,łosicki,Łosice,miejsko-wiejska,OPS,301410023000,46,46,X,X,X,X
+1048,mazowieckie,łosicki,Olszanka,wiejska,OPS,301410032000,4,4,X,X,X,X
+1049,mazowieckie,łosicki,Platerów,wiejska,OPS,301410042000,14,14,X,X,X,X
+1050,mazowieckie,łosicki,Sarnaki,wiejska,OPS,301410052000,27,27,X,X,X,X
+1051,mazowieckie,łosicki,Stara Kornica,wiejska,OPS,301410062000,38,38,X,X,X,X
+1052,mazowieckie,makowski,Czerwonka,wiejska,OPS,301411022000,7,7,X,X,X,X
+1053,mazowieckie,makowski,Karniewo,wiejska,OPS,301411032000,22,22,X,X,X,X
+1054,mazowieckie,makowski,Krasnosielc,wiejska,OPS,301411042000,3,3,X,X,X,X
+1055,mazowieckie,makowski,Maków Mazowiecki,miejska,OPS,301411011000,10,10,X,X,X,X
+1056,mazowieckie,makowski,Młynarze,wiejska,OPS,301411052000,3,3,X,X,X,X
+1057,mazowieckie,makowski,Płoniawy-Bramura,wiejska,OPS,301411062000,11,11,X,X,X,X
+1058,mazowieckie,makowski,Różan,miejsko-wiejska,OPS,301411073000,17,17,X,X,X,X
+1059,mazowieckie,makowski,Rzewnie,wiejska,OPS,301411082000,8,8,X,X,X,X
+1060,mazowieckie,makowski,Sypniewo,wiejska,OPS,301411092000,10,10,X,X,X,X
+1061,mazowieckie,makowski,Szelków,wiejska,OPS,301411102000,3,3,X,X,X,X
+1062,mazowieckie,miński,Cegłów,wiejska,OPS,301412042000,17,17,X,X,X,X
+1063,mazowieckie,miński,Dębe Wielkie,wiejska,OPS,301412052000,23,23,X,X,X,X
+1064,mazowieckie,miński,Dobre,wiejska,OPS,301412062000,30,30,X,X,X,X
+1065,mazowieckie,miński,Halinów,miejsko-wiejska,OPS,301412073000,88,88,X,X,X,X
+1066,mazowieckie,miński,Jakubów,wiejska,OPS,301412082000,58,58,X,X,X,X
+1067,mazowieckie,miński,Kałuszyn,miejsko-wiejska,OPS,301412093000,13,13,X,X,X,X
+1068,mazowieckie,miński,Latowicz,wiejska,OPS,301412102000,29,29,X,X,X,X
+1069,mazowieckie,miński,Mińsk Mazowiecki,miejska,OPS,301412011000,99,99,X,X,X,X
+1070,mazowieckie,miński,Mińsk Mazowiecki,wiejska,OPS,301412112000,48,48,X,X,X,X
+1071,mazowieckie,miński,Mrozy,miejsko-wiejska,OPS,301412122000,21,21,X,X,X,X
+1072,mazowieckie,miński,Siennica,wiejska,OPS,301412132000,15,15,X,X,X,X
+1073,mazowieckie,miński,Stanisławów,wiejska,OPS,301412142000,42,42,X,X,X,X
+1074,mazowieckie,miński,Sulejówek,miejska,OPS,301412151000,85,85,X,X,X,X
+1075,mazowieckie,mławski,Dzierzgowo,wiejska,OPS,301413022000,15,15,X,X,X,X
+1076,mazowieckie,mławski,Lipowiec Kościelny,wiejska,OPS,301413032000,22,22,X,X,X,X
+1077,mazowieckie,mławski,Mława,miejska,OPS,301413011000,80,80,X,X,X,X
+1078,mazowieckie,mławski,Radzanów,wiejska,OPS,301413042000,5,5,X,X,X,X
+1079,mazowieckie,mławski,Strzegowo,wiejska,OPS,301413052000,21,21,X,X,X,X
+1080,mazowieckie,mławski,Stupsk,wiejska,OPS,301413062000,36,36,X,X,X,X
+1081,mazowieckie,mławski,Szreńsk,wiejska,OPS,301413072000,15,15,X,X,X,X
+1082,mazowieckie,mławski,Szydłowo,wiejska,OPS,301413082000,6,6,X,X,X,X
+1083,mazowieckie,mławski,Wieczfnia Kościelna,wiejska,OPS,301413092000,36,36,X,X,X,X
+1084,mazowieckie,mławski,Wiśniewo,wiejska,OPS,301413102000,27,27,X,X,X,X
+1085,mazowieckie,nowodworski,Czosnów,wiejska,OPS,301414022000,23,23,X,X,X,X
+1086,mazowieckie,nowodworski,Leoncin,wiejska,OPS,301414032000,9,9,X,X,X,X
+1087,mazowieckie,nowodworski,Nasielsk,miejsko-wiejska,OPS,301414043000,41,41,X,X,X,X
+1088,mazowieckie,nowodworski,Nowy Dwór Mazowiecki,miejska,OPS,301414011000,78,78,X,X,X,X
+1089,mazowieckie,nowodworski,Pomiechówek,wiejska,OPS,301414052000,53,53,X,X,X,X
+1090,mazowieckie,nowodworski,Zakroczym,miejsko-wiejska,OPS,301414063000,12,12,X,X,X,X
+1091,mazowieckie,ostrołęcki,Baranowo,wiejska,OPS,301415012000,10,10,X,X,X,X
+1092,mazowieckie,ostrołęcki,Czarnia,wiejska,OPS,301415022000,3,3,X,X,X,X
+1093,mazowieckie,ostrołęcki,Czerwin,wiejska,OPS,301415032000,5,5,X,X,X,X
+1094,mazowieckie,ostrołęcki,Goworowo,wiejska,OPS,301415042000,11,11,X,X,X,X
+1095,mazowieckie,ostrołęcki,Kadzidło,wiejska,OPS,301415052000,35,35,X,X,X,X
+1096,mazowieckie,ostrołęcki,Lelis,wiejska,OPS,301415062000,28,28,X,X,X,X
+1097,mazowieckie,ostrołęcki,Łyse,wiejska,OPS,301415072000,17,17,X,X,X,X
+1098,mazowieckie,ostrołęcki,Myszyniec,miejsko-wiejska,OPS,301415083000,24,24,X,X,X,X
+1099,mazowieckie,ostrołęcki,Olszewo-Borki,wiejska,OPS,301415092000,15,15,X,X,X,X
+1100,mazowieckie,ostrołęcki,Rzekuń,wiejska,OPS,301415102000,64,64,X,X,X,X
+1101,mazowieckie,ostrołęcki,Troszyn,wiejska,OPS,301415112000,16,16,X,X,X,X
+1102,mazowieckie,m. Ostrołęka,M. Ostrołęka,miejska,MOPR,251461011000,122,122,X,X,X,X
+1103,mazowieckie,ostrowski,Andrzejewo,wiejska,OPS,301416022000,2,2,X,X,X,X
+1104,mazowieckie,ostrowski,Boguty-Pianki,wiejska,OPS,301416032000,9,9,X,X,X,X
+1105,mazowieckie,ostrowski,Brok,miejsko-wiejska,OPS,301416043000,10,10,X,X,X,X
+1106,mazowieckie,ostrowski,Małkinia Górna,wiejska,OPS,301416052000,22,22,X,X,X,X
+1107,mazowieckie,ostrowski,Nur,wiejska,OPS,301416062000,9,9,X,X,X,X
+1108,mazowieckie,ostrowski,Ostrów Mazowiecka,miejska,OPS,301416011000,55,55,X,X,X,X
+1109,mazowieckie,ostrowski,Ostrów Mazowiecka,wiejska,OPS,301416072000,38,38,X,X,X,X
+1110,mazowieckie,ostrowski,Stary Lubotyń,wiejska,OPS,301416082000,15,15,X,X,X,X
+1111,mazowieckie,ostrowski,Szulborze Wielkie,wiejska,OPS,301416092000,4,4,X,X,X,X
+1112,mazowieckie,ostrowski,Wąsewo,wiejska,OPS,301416102000,20,20,X,X,X,X
+1113,mazowieckie,ostrowski,Zaręby Kościelne,wiejska,OPS,301416112000,27,27,X,X,X,X
+1114,mazowieckie,otwocki,Celestynów,wiejska,OPS,301417032000,28,28,X,X,X,X
+1115,mazowieckie,otwocki,Józefów,miejska,OPS,301417011000,30,30,X,X,X,X
+1116,mazowieckie,otwocki,Karczew,miejsko-wiejska,OPS,301417043000,78,78,X,X,X,X
+1117,mazowieckie,otwocki,Kołbiel,wiejska,OPS,301417052000,20,20,X,X,X,X
+1118,mazowieckie,otwocki,Osieck,wiejska,OPS,301417062000,6,6,X,X,X,X
+1119,mazowieckie,otwocki,Otwock,miejska,OPS,301417021000,83,83,X,X,X,X
+1120,mazowieckie,otwocki,Sobienie-Jeziory,wiejska,OPS,301417072000,8,8,X,X,X,X
+1121,mazowieckie,otwocki,Wiązowna,wiejska,OPS,301417082000,52,52,X,X,X,X
+1122,mazowieckie,piaseczyński,Góra Kalwaria,miejsko-wiejska,OPS,301418013000,53,53,X,X,X,X
+1123,mazowieckie,piaseczyński,Konstancin-Jeziorna,miejsko-wiejska,OPS,301418023000,83,83,X,X,X,X
+1124,mazowieckie,piaseczyński,Lesznowola,wiejska,OPS,301418032000,43,43,X,X,X,X
+1125,mazowieckie,piaseczyński,Piaseczno,miejsko-wiejska,OPS,301418043000,159,159,X,X,X,X
+1126,mazowieckie,piaseczyński,Prażmów,wiejska,OPS,301418052000,37,37,X,X,X,X
+1127,mazowieckie,piaseczyński,Tarczyn,miejsko-wiejska,OPS,301418063000,19,19,X,X,X,X
+1128,mazowieckie,m. Płock,M. Płock,miejska,MOPR,251462011000,236,236,X,X,X,X
+1129,mazowieckie,płocki,Stara Biała,wiejska,OPS,301419132000,46,46,X,X,X,X
+1130,mazowieckie,płocki,Bielsk,wiejska,OPS,301419012000,29,29,X,X,X,X
+1131,mazowieckie,płocki,Bodzanów,wiejska,OPS,301419022000,4,4,X,X,X,X
+1132,mazowieckie,płocki,Brudzeń Duży,wiejska,OPS,301419032000,16,16,X,X,X,X
+1133,mazowieckie,płocki,Bulkowo,wiejska,OPS,301419042000,8,8,X,X,X,X
+1134,mazowieckie,płocki,Drobin,miejsko-wiejska,OPS,301419053000,7,7,X,X,X,X
+1135,mazowieckie,płocki,Gąbin,miejsko-wiejska,OPS,301419063000,22,22,X,X,X,X
+1136,mazowieckie,płocki,Łąck,wiejska,OPS,301419072000,20,20,X,X,X,X
+1137,mazowieckie,płocki,Mała Wieś,wiejska,OPS,301419082000,8,8,X,X,X,X
+1138,mazowieckie,płocki,Nowy Duninów,wiejska,OPS,301419092000,9,9,X,X,X,X
+1139,mazowieckie,płocki,Radzanowo,wiejska,OPS,301419102000,43,43,X,X,X,X
+1140,mazowieckie,płocki,Słubice,wiejska,OPS,301419112000,10,10,X,X,X,X
+1141,mazowieckie,płocki,Słupno,wiejska,OPS,301419122000,15,15,X,X,X,X
+1142,mazowieckie,płocki,Staroźreby,wiejska,OPS,301419142000,15,15,X,X,X,X
+1143,mazowieckie,płocki,Wyszogród,miejsko-wiejska,OPS,301419153000,12,12,X,X,X,X
+1144,mazowieckie,płoński,Baboszewo,wiejska,OPS,301420032000,17,17,X,X,X,X
+1145,mazowieckie,płoński,Czerwińsk nad Wisłą,wiejska,OPS,301420042000,11,11,X,X,X,X
+1146,mazowieckie,płoński,Dzierzążnia,wiejska,OPS,301420052000,3,3,X,X,X,X
+1147,mazowieckie,płoński,Joniec,wiejska,OPS,301420062000,12,12,X,X,X,X
+1148,mazowieckie,płoński,Naruszewo,wiejska,OPS,301420072000,13,13,X,X,X,X
+1149,mazowieckie,płoński,Nowe Miasto,wiejska,OPS,301420082000,13,13,X,X,X,X
+1150,mazowieckie,płoński,Płońsk,miejska,OPS,301420011000,45,45,X,X,X,X
+1151,mazowieckie,płoński,Płońsk,wiejska,OPS,301420092000,26,26,X,X,X,X
+1152,mazowieckie,płoński,Raciąż,miejska,OPS,301420021000,59,59,X,X,X,X
+1153,mazowieckie,płoński,Raciąż,wiejska,OPS,301420102000,58,58,X,X,X,X
+1154,mazowieckie,płoński,Sochocin,wiejska,OPS,301420112000,16,16,X,X,X,X
+1155,mazowieckie,płoński,Załuski,wiejska,OPS,301420122000,40,40,X,X,X,X
+1156,mazowieckie,pruszkowski,Brwinów,miejsko-wiejska,OPS,301421033000,29,29,X,X,X,X
+1157,mazowieckie,pruszkowski,Michałowice,wiejska,OPS,301421042000,25,25,X,X,X,X
+1158,mazowieckie,pruszkowski,Nadarzyn,wiejska,OPS,301421052000,13,13,X,X,X,X
+1159,mazowieckie,pruszkowski,Piastów,miejska,OPS,301421011000,19,19,X,X,X,X
+1160,mazowieckie,pruszkowski,Pruszków,miejska,OPS,301421021000,85,85,X,X,X,X
+1161,mazowieckie,pruszkowski,Raszyn,wiejska,OPS,301421062000,70,70,X,X,X,X
+1162,mazowieckie,przasnyski,Chorzele,miejsko-wiejska,OPS,301422023000,35,35,X,X,X,X
+1163,mazowieckie,przasnyski,Czernice Borowe,wiejska,OPS,301422032000,5,5,X,X,X,X
+1164,mazowieckie,przasnyski,Jednorożec,wiejska,OPS,301422042000,23,23,X,X,X,X
+1165,mazowieckie,przasnyski,Krasne,wiejska,OPS,301422052000,6,6,X,X,X,X
+1166,mazowieckie,przasnyski,Krzynowłoga Mała,wiejska,OPS,301422062000,2,2,X,X,X,X
+1167,mazowieckie,przasnyski,Przasnysz,miejska,OPS,301422011000,48,48,X,X,X,X
+1168,mazowieckie,przasnyski,Przasnysz,wiejska,OPS,301422072000,87,87,X,X,X,X
+1169,mazowieckie,przysuski,Borkowice,wiejska,OPS,301423012000,14,14,X,X,X,X
+1170,mazowieckie,przysuski,Gielniów,wiejska,OPS,301423022000,27,27,X,X,X,X
+1171,mazowieckie,przysuski,Klwów,wiejska,OPS,301423032000,5,5,X,X,X,X
+1172,mazowieckie,przysuski,Odrzywół,wiejska,OPS,301423042000,6,6,X,X,X,X
+1173,mazowieckie,przysuski,Potworów,wiejska,OPS,301423052000,7,7,X,X,X,X
+1174,mazowieckie,przysuski,Przysucha,miejsko-wiejska,OPS,301423063000,23,23,X,X,X,X
+1175,mazowieckie,przysuski,Rusinów,wiejska,OPS,301423072000,5,5,X,X,X,X
+1176,mazowieckie,przysuski,Wieniawa,wiejska,OPS,301423082000,10,10,X,X,X,X
+1177,mazowieckie,pułtuski,Gzy,wiejska,OPS,301424012000,5,5,X,X,X,X
+1178,mazowieckie,pułtuski,Obryte,wiejska,OPS,301424022000,10,10,X,X,X,X
+1179,mazowieckie,pułtuski,Pokrzywnica,wiejska,OPS,301424032000,24,24,X,X,X,X
+1180,mazowieckie,pułtuski,Pułtusk,miejsko-wiejska,OPS,301424043000,186,186,X,X,X,X
+1181,mazowieckie,pułtuski,Świercze,wiejska,OPS,301424052000,13,13,X,X,X,X
+1182,mazowieckie,pułtuski,Winnica,wiejska,OPS,301424062000,14,14,X,X,X,X
+1183,mazowieckie,pułtuski,Zatory,wiejska,OPS,301424072000,17,17,X,X,X,X
+1184,mazowieckie,m. Radom,M. Radom,miejska,MOPR,251463011000,1570,1570,X,X,X,X
+1185,mazowieckie,radomski,Gózd,wiejska,OPS,301425022000,26,26,X,X,X,X
+1186,mazowieckie,radomski,Iłża,miejsko-wiejska,OPS,301425033000,85,85,X,X,X,X
+1187,mazowieckie,radomski,Jastrzębia,wiejska,OPS,301425042000,36,36,X,X,X,X
+1188,mazowieckie,radomski,Jedlińsk,wiejska,OPS,301425052000,53,53,X,X,X,X
+1189,mazowieckie,radomski,Jedlnia-Letnisko,wiejska,OPS,301425062000,48,48,X,X,X,X
+1190,mazowieckie,radomski,Kowala,wiejska,OPS,301425072000,39,39,X,X,X,X
+1191,mazowieckie,radomski,Pionki,miejska,OPS,301425011000,41,41,X,X,X,X
+1192,mazowieckie,radomski,Pionki,wiejska,OPS,301425082000,60,60,X,X,X,X
+1193,mazowieckie,radomski,Przytyk,wiejska,OPS,301425092000,32,32,X,X,X,X
+1194,mazowieckie,radomski,Skaryszew,miejsko-wiejska,OPS,301425103000,67,67,X,X,X,X
+1195,mazowieckie,radomski,Wierzbica,wiejska,OPS,301425112000,28,28,X,X,X,X
+1196,mazowieckie,radomski,Wolanów,wiejska,OPS,301425122000,29,29,X,X,X,X
+1197,mazowieckie,radomski,Zakrzew,wiejska,OPS,301425132000,68,68,X,X,X,X
+1198,mazowieckie,m. Siedlce,M. Siedlce,miejska,MOPR,251464011000,139,139,X,X,X,X
+1199,mazowieckie,siedlecki,Domanice,wiejska,OPS,301426012000,13,13,X,X,X,X
+1200,mazowieckie,siedlecki,Korczew,wiejska,OPS,301426022000,12,12,X,X,X,X
+1201,mazowieckie,siedlecki,Kotuń,wiejska,OPS,301426032000,36,36,X,X,X,X
+1202,mazowieckie,siedlecki,Mokobody,wiejska,OPS,301426042000,5,5,X,X,X,X
+1203,mazowieckie,siedlecki,Mordy,miejsko-wiejska,OPS,301426053000,18,18,X,X,X,X
+1204,mazowieckie,siedlecki,Paprotnia,wiejska,OPS,301426062000,4,4,X,X,X,X
+1205,mazowieckie,siedlecki,Przesmyki,wiejska,OPS,301426072000,21,21,X,X,X,X
+1206,mazowieckie,siedlecki,Siedlce,wiejska,OPS,301426082000,54,54,X,X,X,X
+1207,mazowieckie,siedlecki,Skórzec,wiejska,OPS,301426092000,42,42,X,X,X,X
+1208,mazowieckie,siedlecki,Suchożebry,wiejska,OPS,301426102000,9,9,X,X,X,X
+1209,mazowieckie,siedlecki,Wiśniew,wiejska,OPS,301426112000,16,16,X,X,X,X
+1210,mazowieckie,siedlecki,Wodynie,wiejska,OPS,301426122000,14,14,X,X,X,X
+1211,mazowieckie,siedlecki,Zbuczyn,wiejska,OPS,301426132000,24,24,X,X,X,X
+1212,mazowieckie,sierpecki,Gozdowo,wiejska,OPS,301427022000,11,11,X,X,X,X
+1213,mazowieckie,sierpecki,Mochowo,wiejska,OPS,301427032000,7,7,X,X,X,X
+1214,mazowieckie,sierpecki,Rościszewo,wiejska,OPS,301427042000,10,10,X,X,X,X
+1215,mazowieckie,sierpecki,Sierpc,miejska,OPS,301427011000,84,84,X,X,X,X
+1216,mazowieckie,sierpecki,Sierpc,wiejska,OPS,301427052000,16,16,X,X,X,X
+1217,mazowieckie,sierpecki,Szczutowo,wiejska,OPS,301427062000,6,6,X,X,X,X
+1218,mazowieckie,sierpecki,Zawidz,wiejska,OPS,301427072000,6,6,X,X,X,X
+1219,mazowieckie,sochaczewski,Brochów,wiejska,OPS,301428022000,29,29,X,X,X,X
+1220,mazowieckie,sochaczewski,Iłów,wiejska,OPS,301428032000,12,12,X,X,X,X
+1221,mazowieckie,sochaczewski,Młodzieszyn,wiejska,OPS,301428042000,14,14,X,X,X,X
+1222,mazowieckie,sochaczewski,Nowa Sucha,wiejska,OPS,301428052000,14,14,X,X,X,X
+1223,mazowieckie,sochaczewski,Rybno,wiejska,OPS,301428062000,14,14,X,X,X,X
+1224,mazowieckie,sochaczewski,Sochaczew,miejska,OPS,301428011000,121,121,X,X,X,X
+1225,mazowieckie,sochaczewski,Sochaczew,wiejska,OPS,301428072000,27,27,X,X,X,X
+1226,mazowieckie,sochaczewski,Teresin,wiejska,OPS,301428082000,23,23,X,X,X,X
+1227,mazowieckie,sokołowski,Bielany,wiejska,OPS,301429022000,11,11,X,X,X,X
+1228,mazowieckie,sokołowski,Ceranów,wiejska,OPS,301429032000,7,7,X,X,X,X
+1229,mazowieckie,sokołowski,Jabłonna Lacka,wiejska,OPS,301429042000,8,8,X,X,X,X
+1230,mazowieckie,sokołowski,Kosów Lacki,miejsko-wiejska,OPS,301429053000,14,14,X,X,X,X
+1231,mazowieckie,sokołowski,Repki,wiejska,OPS,301429062000,17,17,X,X,X,X
+1232,mazowieckie,sokołowski,Sabnie,wiejska,OPS,301429072000,13,13,X,X,X,X
+1233,mazowieckie,sokołowski,Sokołów Podlaski,miejska,OPS,301429011000,59,59,X,X,X,X
+1234,mazowieckie,sokołowski,Sokołów Podlaski,wiejska,OPS,301429082000,23,23,X,X,X,X
+1235,mazowieckie,sokołowski,Sterdyń,wiejska,OPS,301429092000,11,11,X,X,X,X
+1236,mazowieckie,szydłowiecki,Chlewiska,wiejska,OPS,301430012000,6,6,X,X,X,X
+1237,mazowieckie,szydłowiecki,Jastrząb,wiejska,OPS,301430022000,9,9,X,X,X,X
+1238,mazowieckie,szydłowiecki,Mirów,wiejska,OPS,301430032000,6,6,X,X,X,X
+1239,mazowieckie,szydłowiecki,Orońsko,wiejska,OPS,301430042000,43,43,X,X,X,X
+1240,mazowieckie,szydłowiecki,Szydłowiec,miejsko-wiejska,OPS,301430053000,50,50,X,X,X,X
+1241,mazowieckie,m. st. Warszawa,M. st. Warszawa,miejska,MOPR,251465011000,0,0,X,X,X,X
+1242,mazowieckie,m. st. Warszawa,Bemowo,dzielnica,OPS,301465028000,307,307,X,X,X,X
+1243,mazowieckie,m. st. Warszawa,Białołęka,dzielnica,OPS,301465038000,269,269,X,X,X,X
+1244,mazowieckie,m. st. Warszawa,Bielany,dzielnica,OPS,301465048000,688,688,X,X,X,X
+1245,mazowieckie,m. st. Warszawa,Mokotów,dzielnica,OPS,301465058000,899,899,X,X,X,X
+1246,mazowieckie,m. st. Warszawa,Ochota,dzielnica,OPS,301465068000,160,160,X,X,X,X
+1247,mazowieckie,m. st. Warszawa,Praga-Południe,dzielnica,OPS,301465078000,659,659,X,X,X,X
+1248,mazowieckie,m. st. Warszawa,Praga-Północ,dzielnica,OPS,301465088000,276,276,X,X,X,X
+1249,mazowieckie,m. st. Warszawa,Rembertów,dzielnica,OPS,301465098000,96,96,X,X,X,X
+1250,mazowieckie,m. st. Warszawa,Śródmieście,dzielnica,OPS,301465108000,476,476,X,X,X,X
+1251,mazowieckie,m. st. Warszawa,Targówek,dzielnica,OPS,301465118000,464,464,X,X,X,X
+1252,mazowieckie,m. st. Warszawa,Ursus,dzielnica,OPS,301465128000,316,316,X,X,X,X
+1253,mazowieckie,m. st. Warszawa,Ursynów,dzielnica,OPS,301465138000,399,399,X,X,X,X
+1254,mazowieckie,m. st. Warszawa,Wawer,dzielnica,OPS,301465148000,384,384,X,X,X,X
+1255,mazowieckie,m. st. Warszawa,Wesoła,dzielnica,OPS,301465158000,36,36,X,X,X,X
+1256,mazowieckie,m. st. Warszawa,Wilanów,dzielnica,OPS,301465168000,77,77,X,X,X,X
+1257,mazowieckie,m. st. Warszawa,Włochy,dzielnica,OPS,301465178000,50,50,X,X,X,X
+1258,mazowieckie,m. st. Warszawa,Wola,dzielnica,OPS,301465188000,519,519,X,X,X,X
+1259,mazowieckie,m. st. Warszawa,Żoliborz,dzielnica,OPS,301465198000,259,259,X,X,X,X
+1260,mazowieckie,warszawski zachodni,Błonie,miejsko-wiejska,OPS,301432013000,54,54,X,X,X,X
+1261,mazowieckie,warszawski zachodni,Izabelin,wiejska,OPS,301432022000,12,12,X,X,X,X
+1262,mazowieckie,warszawski zachodni,Kampinos,wiejska,OPS,301432032000,23,23,X,X,X,X
+1263,mazowieckie,warszawski zachodni,Leszno,wiejska,OPS,301432042000,22,22,X,X,X,X
+1264,mazowieckie,warszawski zachodni,Łomianki,miejsko-wiejska,OPS,301432053000,30,30,X,X,X,X
+1265,mazowieckie,warszawski zachodni,Ożarów Mazowiecki,miejsko-wiejska,OPS,301432063000,22,22,X,X,X,X
+1266,mazowieckie,warszawski zachodni,Stare Babice,wiejska,OPS,301432072000,41,41,X,X,X,X
+1267,mazowieckie,węgrowski,Grębków,wiejska,OPS,301433022000,24,24,X,X,X,X
+1268,mazowieckie,węgrowski,Korytnica,wiejska,OPS,301433032000,14,14,X,X,X,X
+1269,mazowieckie,węgrowski,Liw,wiejska,OPS,301433042000,26,26,X,X,X,X
+1270,mazowieckie,węgrowski,Łochów,miejsko-wiejska,OPS,301433053000,47,47,X,X,X,X
+1271,mazowieckie,węgrowski,Miedzna,wiejska,OPS,301433062000,5,5,X,X,X,X
+1272,mazowieckie,węgrowski,Sadowne,wiejska,OPS,301433072000,20,20,X,X,X,X
+1273,mazowieckie,węgrowski,Stoczek,wiejska,OPS,301433082000,13,13,X,X,X,X
+1274,mazowieckie,węgrowski,Węgrów,miejska,OPS,301433011000,145,145,X,X,X,X
+1275,mazowieckie,węgrowski,Wierzbno,wiejska,OPS,301433092000,12,12,X,X,X,X
+1276,mazowieckie,wołomiński,Dąbrówka,wiejska,OPS,301434052000,39,39,X,X,X,X
+1277,mazowieckie,wołomiński,Jadów,wiejska,OPS,301434062000,12,12,X,X,X,X
+1278,mazowieckie,wołomiński,Klembów,wiejska,OPS,301434072000,35,35,X,X,X,X
+1279,mazowieckie,wołomiński,Kobyłka,miejska,OPS,301434011000,50,50,X,X,X,X
+1280,mazowieckie,wołomiński,Marki,miejska,OPS,301434021000,66,66,X,X,X,X
+1281,mazowieckie,wołomiński,Poświętne,wiejska,OPS,301434082000,35,35,X,X,X,X
+1282,mazowieckie,wołomiński,Radzymin,miejsko-wiejska,OPS,301434093000,117,117,X,X,X,X
+1283,mazowieckie,wołomiński,Strachówka,wiejska,OPS,301434102000,8,8,X,X,X,X
+1284,mazowieckie,wołomiński,Tłuszcz,miejsko-wiejska,OPS,301434113000,118,118,X,X,X,X
+1285,mazowieckie,wołomiński,Wołomin,miejsko-wiejska,OPS,301434123000,114,114,X,X,X,X
+1286,mazowieckie,wołomiński,Ząbki,miejska,OPS,301434031000,78,78,X,X,X,X
+1287,mazowieckie,wołomiński,Zielonka,miejska,OPS,301434041000,67,67,X,X,X,X
+1288,mazowieckie,wyszkowski,Brańszczyk,wiejska,OPS,301435012000,25,25,X,X,X,X
+1289,mazowieckie,wyszkowski,Długosiodło,wiejska,OPS,301435022000,31,31,X,X,X,X
+1290,mazowieckie,wyszkowski,Rząśnik,wiejska,OPS,301435032000,22,22,X,X,X,X
+1291,mazowieckie,wyszkowski,Somianka,wiejska,OPS,301435042000,26,26,X,X,X,X
+1292,mazowieckie,wyszkowski,Wyszków,miejsko-wiejska,OPS,301435053000,119,119,X,X,X,X
+1293,mazowieckie,wyszkowski,Zabrodzie,wiejska,OPS,301435062000,20,20,X,X,X,X
+1294,mazowieckie,zwoleński,Kazanów,wiejska,OPS,301436012000,20,20,X,X,X,X
+1295,mazowieckie,zwoleński,Policzna,wiejska,OPS,301436022000,21,21,X,X,X,X
+1296,mazowieckie,zwoleński,Przyłęk,wiejska,OPS,301436032000,7,7,X,X,X,X
+1297,mazowieckie,zwoleński,Tczów,wiejska,OPS,301436042000,37,37,X,X,X,X
+1298,mazowieckie,zwoleński,Zwoleń,miejsko-wiejska,OPS,301436053000,40,40,X,X,X,X
+1299,mazowieckie,żuromiński,Bieżuń,miejsko-wiejska,OPS,301437013000,12,12,X,X,X,X
+1300,mazowieckie,żuromiński,Kuczbork-Osada,wiejska,OPS,301437022000,7,7,X,X,X,X
+1301,mazowieckie,żuromiński,Lubowidz,wiejska,OPS,301437032000,10,10,X,X,X,X
+1302,mazowieckie,żuromiński,Lutocin,wiejska,OPS,301437042000,9,9,X,X,X,X
+1303,mazowieckie,żuromiński,Siemiątkowo,wiejska,OPS,301437052000,15,15,X,X,X,X
+1304,mazowieckie,żuromiński,Żuromin,miejsko-wiejska,OPS,301437063000,52,52,X,X,X,X
+1305,mazowieckie,żyrardowski,Mszczonów,miejsko-wiejska,OPS,301438023000,49,49,X,X,X,X
+1306,mazowieckie,żyrardowski,Puszcza Mariańska,wiejska,OPS,301438032000,36,36,X,X,X,X
+1307,mazowieckie,żyrardowski,Radziejowice,wiejska,OPS,301438042000,36,36,X,X,X,X
+1308,mazowieckie,żyrardowski,Wiskitki,wiejska,OPS,301438052000,30,30,X,X,X,X
+1309,mazowieckie,żyrardowski,Żyrardów,miejska,OPS,301438011000,51,51,X,X,X,X
+1310,opolskie,-,-,-,WPS,101600000000,4310,4310,X,X,X,X
+1311,opolskie,brzeski,Brzeg,miejska,OPS,301601011000,166,166,X,X,X,X
+1312,opolskie,brzeski,Grodków,miejsko-wiejska,OPS,301601033000,52,52,X,X,X,X
+1313,opolskie,brzeski,Lewin Brzeski,miejsko-wiejska,OPS,301601043000,61,61,X,X,X,X
+1314,opolskie,brzeski,Lubsza,wiejska,OPS,301601052000,42,42,X,X,X,X
+1315,opolskie,brzeski,Olszanka,wiejska,OPS,301601062000,14,14,X,X,X,X
+1316,opolskie,brzeski,Skarbimierz,wiejska,OPS,301601022000,56,56,X,X,X,X
+1317,opolskie,głubczycki,Baborów,miejsko-wiejska,OPS,301602013000,53,53,X,X,X,X
+1318,opolskie,głubczycki,Branice,wiejska,OPS,301602022000,30,30,X,X,X,X
+1319,opolskie,głubczycki,Głubczyce,miejsko-wiejska,OPS,301602033000,145,145,X,X,X,X
+1320,opolskie,głubczycki,Kietrz,miejsko-wiejska,OPS,301602043000,31,31,X,X,X,X
+1321,opolskie,kędzierzyńsko-kozielski,Bierawa,wiejska,OPS,301603022000,12,12,X,X,X,X
+1322,opolskie,kędzierzyńsko-kozielski,Cisek,wiejska,OPS,301603032000,20,20,X,X,X,X
+1323,opolskie,kędzierzyńsko-kozielski,Kędzierzyn-Koźle,miejska,OPS,301603011000,518,518,X,X,X,X
+1324,opolskie,kędzierzyńsko-kozielski,Pawłowiczki,wiejska,OPS,301603042000,17,17,X,X,X,X
+1325,opolskie,kędzierzyńsko-kozielski,Polska Cerekiew,wiejska,OPS,301603052000,40,40,X,X,X,X
+1326,opolskie,kędzierzyńsko-kozielski,Reńska Wieś,wiejska,OPS,301603062000,18,18,X,X,X,X
+1327,opolskie,kluczborski,Byczyna,miejsko-wiejska,OPS,301604013000,38,38,X,X,X,X
+1328,opolskie,kluczborski,Kluczbork,miejsko-wiejska,OPS,301604023000,60,60,X,X,X,X
+1329,opolskie,kluczborski,Lasowice Wielkie,wiejska,OPS,301604032000,4,4,X,X,X,X
+1330,opolskie,kluczborski,Wołczyn,miejsko-wiejska,OPS,301604043000,19,19,X,X,X,X
+1331,opolskie,krapkowicki,Gogolin,miejsko-wiejska,OPS,301605013000,44,44,X,X,X,X
+1332,opolskie,krapkowicki,Krapkowice,miejsko-wiejska,OPS,301605023000,122,122,X,X,X,X
+1333,opolskie,krapkowicki,Strzeleczki,wiejska,OPS,301605032000,21,21,X,X,X,X
+1334,opolskie,krapkowicki,Walce,wiejska,OPS,301605042000,41,41,X,X,X,X
+1335,opolskie,krapkowicki,Zdzieszowice,miejsko-wiejska,OPS,301605053000,42,42,X,X,X,X
+1336,opolskie,namysłowski,Domaszowice,wiejska,OPS,301606012000,8,8,X,X,X,X
+1337,opolskie,namysłowski,Namysłów,miejsko-wiejska,OPS,301606023000,167,167,X,X,X,X
+1338,opolskie,namysłowski,Pokój,wiejska,OPS,301606032000,13,13,X,X,X,X
+1339,opolskie,namysłowski,Świerczów,wiejska,OPS,301606042000,4,4,X,X,X,X
+1340,opolskie,namysłowski,Wilków,wiejska,OPS,301606052000,33,33,X,X,X,X
+1341,opolskie,nyski,Głuchołazy,miejsko-wiejska,OPS,301607013000,69,69,X,X,X,X
+1342,opolskie,nyski,Kamiennik,wiejska,OPS,301607022000,11,11,X,X,X,X
+1343,opolskie,nyski,Korfantów,miejsko-wiejska,OPS,301607033000,71,71,X,X,X,X
+1344,opolskie,nyski,Łambinowice,wiejska,OPS,301607042000,111,111,X,X,X,X
+1345,opolskie,nyski,Nysa,miejsko-wiejska,OPS,301607053000,266,266,X,X,X,X
+1346,opolskie,nyski,Otmuchów,miejsko-wiejska,OPS,301607063000,54,54,X,X,X,X
+1347,opolskie,nyski,Paczków,miejsko-wiejska,OPS,301607073000,45,45,X,X,X,X
+1348,opolskie,nyski,Pakosławice,wiejska,OPS,301607082000,20,20,X,X,X,X
+1349,opolskie,nyski,Skoroszyce,wiejska,OPS,301607092000,100,100,X,X,X,X
+1350,opolskie,oleski,Dobrodzień,miejsko-wiejska,OPS,301608013000,49,49,X,X,X,X
+1351,opolskie,oleski,Gorzów Śląski,miejsko-wiejska,OPS,301608023000,71,71,X,X,X,X
+1352,opolskie,oleski,Olesno,miejsko-wiejska,OPS,301608033000,52,52,X,X,X,X
+1353,opolskie,oleski,Praszka,miejsko-wiejska,OPS,301608043000,31,31,X,X,X,X
+1354,opolskie,oleski,Radłów,wiejska,OPS,301608052000,30,30,X,X,X,X
+1355,opolskie,oleski,Rudniki,wiejska,OPS,301608062000,52,52,X,X,X,X
+1356,opolskie,oleski,Zębowice,wiejska,OPS,301608072000,2,2,X,X,X,X
+1357,opolskie,m. Opole,M. Opole,miejska,MOPR,251661011000,551,551,X,X,X,X
+1358,opolskie,opolski,Chrząstowice,wiejska,OPS,301609012000,10,10,X,X,X,X
+1359,opolskie,opolski,Dąbrowa,wiejska,OPS,301609022000,14,14,X,X,X,X
+1360,opolskie,opolski,Dobrzeń Wielki,wiejska,OPS,301609032000,51,51,X,X,X,X
+1361,opolskie,opolski,Komprachcice,wiejska,OPS,301609042000,10,10,X,X,X,X
+1362,opolskie,opolski,Łubniany,wiejska,OPS,301609052000,10,10,X,X,X,X
+1363,opolskie,opolski,Murów,wiejska,OPS,301609062000,6,6,X,X,X,X
+1364,opolskie,opolski,Niemodlin,miejsko-wiejska,OPS,301609073000,37,37,X,X,X,X
+1365,opolskie,opolski,Ozimek,miejsko-wiejska,OPS,301609083000,33,33,X,X,X,X
+1366,opolskie,opolski,Popielów,wiejska,OPS,301609092000,20,20,X,X,X,X
+1367,opolskie,opolski,Prószków,miejsko-wiejska,OPS,301609103000,34,34,X,X,X,X
+1368,opolskie,opolski,Tarnów Opolski,wiejska,OPS,301609112000,36,36,X,X,X,X
+1369,opolskie,opolski,Tułowice,miejsko-wiejska,OPS,301609122000,23,23,X,X,X,X
+1370,opolskie,opolski,Turawa,wiejska,OPS,301609132000,27,27,X,X,X,X
+1371,opolskie,prudnicki,Biała,miejsko-wiejska,OPS,301610013000,37,37,X,X,X,X
+1372,opolskie,prudnicki,Głogówek,miejsko-wiejska,OPS,301610023000,67,67,X,X,X,X
+1373,opolskie,prudnicki,Lubrza,wiejska,OPS,301610032000,10,10,X,X,X,X
+1374,opolskie,prudnicki,Prudnik,miejsko-wiejska,OPS,301610043000,160,160,X,X,X,X
+1375,opolskie,strzelecki,Izbicko,wiejska,OPS,301611012000,24,24,X,X,X,X
+1376,opolskie,strzelecki,Jemielnica,wiejska,OPS,301611022000,36,36,X,X,X,X
+1377,opolskie,strzelecki,Kolonowskie,miejsko-wiejska,OPS,301611033000,30,30,X,X,X,X
+1378,opolskie,strzelecki,Leśnica,miejsko-wiejska,OPS,301611043000,10,10,X,X,X,X
+1379,opolskie,strzelecki,Strzelce Opolskie,miejsko-wiejska,OPS,301611053000,44,44,X,X,X,X
+1380,opolskie,strzelecki,Ujazd,miejsko-wiejska,OPS,301611063000,24,24,X,X,X,X
+1381,opolskie,strzelecki,Zawadzkie,miejsko-wiejska,OPS,301611073000,81,81,X,X,X,X
+1382,podkarpackie,-,-,-,WPS,101800000000,8153,8153,X,X,X,X
+1383,podkarpackie,bieszczadzki,Czarna,wiejska,OPS,301801032000,0,0,X,X,X,X
+1384,podkarpackie,bieszczadzki,Lutowiska,wiejska,OPS,301801052000,8,8,X,X,X,X
+1385,podkarpackie,bieszczadzki,Ustrzyki Dolne,miejsko-wiejska,OPS,301801083000,81,81,X,X,X,X
+1386,podkarpackie,brzozowski,Brzozów,miejsko-wiejska,OPS,301802013000,99,99,X,X,X,X
+1387,podkarpackie,brzozowski,Domaradz,wiejska,OPS,301802022000,20,20,X,X,X,X
+1388,podkarpackie,brzozowski,Dydnia,wiejska,OPS,301802032000,54,54,X,X,X,X
+1389,podkarpackie,brzozowski,Haczów,wiejska,OPS,301802042000,33,33,X,X,X,X
+1390,podkarpackie,brzozowski,Jasienica Rosielna,wiejska,OPS,301802052000,7,7,X,X,X,X
+1391,podkarpackie,brzozowski,Nozdrzec,wiejska,OPS,301802062000,22,22,X,X,X,X
+1392,podkarpackie,dębicki,Brzostek,miejsko-wiejska,OPS,301803023000,97,97,X,X,X,X
+1393,podkarpackie,dębicki,Czarna,wiejska,OPS,301803032000,28,28,X,X,X,X
+1394,podkarpackie,dębicki,Dębica,miejska,OPS,301803011000,150,150,X,X,X,X
+1395,podkarpackie,dębicki,Dębica,wiejska,OPS,301803042000,123,123,X,X,X,X
+1396,podkarpackie,dębicki,Jodłowa,wiejska,OPS,301803052000,33,33,X,X,X,X
+1397,podkarpackie,dębicki,Pilzno,miejsko-wiejska,OPS,301803063000,40,40,X,X,X,X
+1398,podkarpackie,dębicki,Żyraków,wiejska,OPS,301803072000,76,76,X,X,X,X
+1399,podkarpackie,jarosławski,Chłopice,wiejska,OPS,301804032000,7,7,X,X,X,X
+1400,podkarpackie,jarosławski,Jarosław,miejska,OPS,301804011000,55,55,X,X,X,X
+1401,podkarpackie,jarosławski,Jarosław,wiejska,OPS,301804042000,24,24,X,X,X,X
+1402,podkarpackie,jarosławski,Laszki,wiejska,OPS,301804052000,40,40,X,X,X,X
+1403,podkarpackie,jarosławski,Pawłosiów,wiejska,OPS,301804062000,17,17,X,X,X,X
+1404,podkarpackie,jarosławski,Pruchnik,miejsko-wiejska,OPS,301804073000,24,24,X,X,X,X
+1405,podkarpackie,jarosławski,Radymno,miejska,OPS,301804021000,14,14,X,X,X,X
+1406,podkarpackie,jarosławski,Radymno,wiejska,OPS,301804082000,28,28,X,X,X,X
+1407,podkarpackie,jarosławski,Rokietnica,wiejska,OPS,301804092000,3,3,X,X,X,X
+1408,podkarpackie,jarosławski,Roźwienica,wiejska,OPS,301804102000,20,20,X,X,X,X
+1409,podkarpackie,jarosławski,Wiązownica,wiejska,OPS,301804112000,19,19,X,X,X,X
+1410,podkarpackie,jasielski,Brzyska,wiejska,OPS,301805022000,30,30,X,X,X,X
+1411,podkarpackie,jasielski,Dębowiec,wiejska,OPS,301805032000,30,30,X,X,X,X
+1412,podkarpackie,jasielski,Jasło,miejska,OPS,301805011000,137,137,X,X,X,X
+1413,podkarpackie,jasielski,Jasło,wiejska,OPS,301805042000,63,63,X,X,X,X
+1414,podkarpackie,jasielski,Kołaczyce,miejsko-wiejska,OPS,301805053000,44,44,X,X,X,X
+1415,podkarpackie,jasielski,Krempna,wiejska,OPS,301805062000,11,11,X,X,X,X
+1416,podkarpackie,jasielski,Nowy Żmigród,wiejska,OPS,301805072000,34,34,X,X,X,X
+1417,podkarpackie,jasielski,Osiek Jasielski,wiejska,OPS,301805082000,12,12,X,X,X,X
+1418,podkarpackie,jasielski,Skołyszyn,wiejska,OPS,301805092000,54,54,X,X,X,X
+1419,podkarpackie,jasielski,Tarnowiec,wiejska,OPS,301805112000,24,24,X,X,X,X
+1420,podkarpackie,kolbuszowski,Cmolas,wiejska,OPS,301806012000,27,27,X,X,X,X
+1421,podkarpackie,kolbuszowski,Dzikowiec,wiejska,OPS,301806062000,26,26,X,X,X,X
+1422,podkarpackie,kolbuszowski,Kolbuszowa,miejsko-wiejska,OPS,301806023000,182,182,X,X,X,X
+1423,podkarpackie,kolbuszowski,Majdan Królewski,wiejska,OPS,301806032000,20,20,X,X,X,X
+1424,podkarpackie,kolbuszowski,Niwiska,wiejska,OPS,301806042000,47,47,X,X,X,X
+1425,podkarpackie,kolbuszowski,Raniżów,wiejska,OPS,301806052000,33,33,X,X,X,X
+1426,podkarpackie,m. Krosno,M. Krosno,miejska,MOPR,251861011000,136,136,X,X,X,X
+1427,podkarpackie,krośnieński,Chorkówka,wiejska,OPS,301807012000,51,51,X,X,X,X
+1428,podkarpackie,krośnieński,Dukla,miejsko-wiejska,OPS,301807023000,49,49,X,X,X,X
+1429,podkarpackie,krośnieński,Iwonicz-Zdrój,miejsko-wiejska,OPS,301807033000,48,48,X,X,X,X
+1430,podkarpackie,krośnieński,Jaśliska,wiejska,OPS,301807102000,12,12,X,X,X,X
+1431,podkarpackie,krośnieński,Jedlicze,miejsko-wiejska,OPS,301807043000,41,41,X,X,X,X
+1432,podkarpackie,krośnieński,Korczyna,wiejska,OPS,301807052000,63,63,X,X,X,X
+1433,podkarpackie,krośnieński,Krościenko Wyżne,wiejska,OPS,301807062000,25,25,X,X,X,X
+1434,podkarpackie,krośnieński,Miejsce Piastowe,wiejska,OPS,301807072000,48,48,X,X,X,X
+1435,podkarpackie,krośnieński,Rymanów,miejsko-wiejska,OPS,301807083000,15,15,X,X,X,X
+1436,podkarpackie,krośnieński,Wojaszówka,wiejska,OPS,301807092000,39,39,X,X,X,X
+1437,podkarpackie,leski,Baligród,wiejska,OPS,301821012000,8,8,X,X,X,X
+1438,podkarpackie,leski,Cisna,wiejska,OPS,301821022000,3,3,X,X,X,X
+1439,podkarpackie,leski,Lesko,miejsko-wiejska,OPS,301821033000,43,43,X,X,X,X
+1440,podkarpackie,leski,Olszanica,wiejska,OPS,301821042000,31,31,X,X,X,X
+1441,podkarpackie,leski,Solina,wiejska,OPS,301821052000,15,15,X,X,X,X
+1442,podkarpackie,leżajski,Grodzisko Dolne,wiejska,OPS,301808022000,15,15,X,X,X,X
+1443,podkarpackie,leżajski,Kuryłówka,wiejska,OPS,301808032000,44,44,X,X,X,X
+1444,podkarpackie,leżajski,Leżajsk,miejska,OPS,301808011000,53,53,X,X,X,X
+1445,podkarpackie,leżajski,Leżajsk,wiejska,OPS,301808042000,62,62,X,X,X,X
+1446,podkarpackie,leżajski,Nowa Sarzyna,miejsko-wiejska,OPS,301808053000,128,128,X,X,X,X
+1447,podkarpackie,lubaczowski,Cieszanów,miejsko-wiejska,OPS,301809023000,31,31,X,X,X,X
+1448,podkarpackie,lubaczowski,Horyniec-Zdrój,wiejska,OPS,301809032000,12,12,X,X,X,X
+1449,podkarpackie,lubaczowski,Lubaczów,miejska,OPS,301809011000,32,32,X,X,X,X
+1450,podkarpackie,lubaczowski,Lubaczów,wiejska,OPS,301809042000,24,24,X,X,X,X
+1451,podkarpackie,lubaczowski,Narol,miejsko-wiejska,OPS,301809053000,22,22,X,X,X,X
+1452,podkarpackie,lubaczowski,Oleszyce,miejsko-wiejska,OPS,301809063000,8,8,X,X,X,X
+1453,podkarpackie,lubaczowski,Stary Dzików,wiejska,OPS,301809072000,29,29,X,X,X,X
+1454,podkarpackie,lubaczowski,Wielkie Oczy,wiejska,OPS,301809082000,9,9,X,X,X,X
+1455,podkarpackie,łańcucki,Białobrzegi,wiejska,OPS,301810022000,17,17,X,X,X,X
+1456,podkarpackie,łańcucki,Czarna,wiejska,OPS,301810032000,29,29,X,X,X,X
+1457,podkarpackie,łańcucki,Łańcut,miejska,OPS,301810011000,48,48,X,X,X,X
+1458,podkarpackie,łańcucki,Łańcut,wiejska,OPS,301810042000,54,54,X,X,X,X
+1459,podkarpackie,łańcucki,Markowa,wiejska,OPS,301810052000,63,63,X,X,X,X
+1460,podkarpackie,łańcucki,Rakszawa,wiejska,OPS,301810062000,13,13,X,X,X,X
+1461,podkarpackie,łańcucki,Żołynia,wiejska,OPS,301810072000,47,47,X,X,X,X
+1462,podkarpackie,mielecki,Borowa,wiejska,OPS,301811022000,17,17,X,X,X,X
+1463,podkarpackie,mielecki,Czermin,wiejska,OPS,301811032000,40,40,X,X,X,X
+1464,podkarpackie,mielecki,Gawłuszowice,wiejska,OPS,301811042000,4,4,X,X,X,X
+1465,podkarpackie,mielecki,Mielec,miejska,OPS,301811011000,261,261,X,X,X,X
+1466,podkarpackie,mielecki,Mielec,wiejska,OPS,301811052000,35,35,X,X,X,X
+1467,podkarpackie,mielecki,Padew Narodowa,wiejska,OPS,301811062000,46,46,X,X,X,X
+1468,podkarpackie,mielecki,Przecław,miejsko-wiejska,OPS,301811073000,37,37,X,X,X,X
+1469,podkarpackie,mielecki,Radomyśl Wielki,miejsko-wiejska,OPS,301811083000,131,131,X,X,X,X
+1470,podkarpackie,mielecki,Tuszów Narodowy,wiejska,OPS,301811092000,21,21,X,X,X,X
+1471,podkarpackie,mielecki,Wadowice Górne,wiejska,OPS,301811102000,24,24,X,X,X,X
+1472,podkarpackie,niżański,Harasiuki,wiejska,OPS,301812012000,5,5,X,X,X,X
+1473,podkarpackie,niżański,Jarocin,wiejska,OPS,301812022000,17,17,X,X,X,X
+1474,podkarpackie,niżański,Jeżowe,wiejska,OPS,301812032000,73,73,X,X,X,X
+1475,podkarpackie,niżański,Krzeszów,wiejska,OPS,301812042000,6,6,X,X,X,X
+1476,podkarpackie,niżański,Nisko,miejsko-wiejska,OPS,301812053000,151,151,X,X,X,X
+1477,podkarpackie,niżański,Rudnik nad Sanem,miejsko-wiejska,OPS,301812063000,123,123,X,X,X,X
+1478,podkarpackie,niżański,Ulanów,miejsko-wiejska,OPS,301812073000,47,47,X,X,X,X
+1479,podkarpackie,przemyski,Bircza,wiejska,OPS,301813012000,44,44,X,X,X,X
+1480,podkarpackie,przemyski,Dubiecko,wiejska,OPS,301813022000,0,0,X,X,X,X
+1481,podkarpackie,przemyski,Fredropol,wiejska,OPS,301813032000,15,15,X,X,X,X
+1482,podkarpackie,przemyski,Krasiczyn,wiejska,OPS,301813042000,31,31,X,X,X,X
+1483,podkarpackie,przemyski,Krzywcza,wiejska,OPS,301813052000,12,12,X,X,X,X
+1484,podkarpackie,przemyski,Medyka,wiejska,OPS,301813062000,15,15,X,X,X,X
+1485,podkarpackie,przemyski,Orły,wiejska,OPS,301813072000,7,7,X,X,X,X
+1486,podkarpackie,przemyski,Przemyśl,wiejska,OPS,301813082000,24,24,X,X,X,X
+1487,podkarpackie,przemyski,Stubno,wiejska,OPS,301813092000,16,16,X,X,X,X
+1488,podkarpackie,przemyski,Żurawica,wiejska,OPS,301813102000,45,45,X,X,X,X
+1489,podkarpackie,m. Przemyśl,M. Przemyśl,miejska,MOPR,251862011000,327,327,X,X,X,X
+1490,podkarpackie,przeworski,Adamówka,wiejska,OPS,301814022000,17,17,X,X,X,X
+1491,podkarpackie,przeworski,Gać,wiejska,OPS,301814032000,20,20,X,X,X,X
+1492,podkarpackie,przeworski,Jawornik Polski,wiejska,OPS,301814042000,8,8,X,X,X,X
+1493,podkarpackie,przeworski,Kańczuga,miejsko-wiejska,OPS,301814053000,28,28,X,X,X,X
+1494,podkarpackie,przeworski,Przeworsk,miejska,OPS,301814011000,51,51,X,X,X,X
+1495,podkarpackie,przeworski,Przeworsk,wiejska,OPS,301814062000,55,55,X,X,X,X
+1496,podkarpackie,przeworski,Sieniawa,miejsko-wiejska,OPS,301814073000,20,20,X,X,X,X
+1497,podkarpackie,przeworski,Tryńcza,wiejska,OPS,301814082000,50,50,X,X,X,X
+1498,podkarpackie,przeworski,Zarzecze,wiejska,OPS,301814092000,26,26,X,X,X,X
+1499,podkarpackie,ropczycko-sędziszowski,Iwierzyce,wiejska,OPS,301815012000,28,28,X,X,X,X
+1500,podkarpackie,ropczycko-sędziszowski,Ostrów,wiejska,OPS,301815022000,19,19,X,X,X,X
+1501,podkarpackie,ropczycko-sędziszowski,Ropczyce,miejsko-wiejska,OPS,301815033000,59,59,X,X,X,X
+1502,podkarpackie,ropczycko-sędziszowski,Sędziszów Małopolski,miejsko-wiejska,OPS,301815043000,61,61,X,X,X,X
+1503,podkarpackie,ropczycko-sędziszowski,Wielopole Skrzyńskie,wiejska,OPS,301815052000,13,13,X,X,X,X
+1504,podkarpackie,rzeszowski,Błażowa,miejsko-wiejska,OPS,301816023000,39,39,X,X,X,X
+1505,podkarpackie,rzeszowski,Boguchwała,miejsko-wiejska,OPS,301816033000,71,71,X,X,X,X
+1506,podkarpackie,rzeszowski,Chmielnik,wiejska,OPS,301816042000,21,21,X,X,X,X
+1507,podkarpackie,rzeszowski,Dynów,miejska,OPS,301816011000,7,7,X,X,X,X
+1508,podkarpackie,rzeszowski,Dynów,wiejska,OPS,301816052000,22,22,X,X,X,X
+1509,podkarpackie,rzeszowski,Głogów Małopolski,miejsko-wiejska,OPS,301816063000,116,116,X,X,X,X
+1510,podkarpackie,rzeszowski,Hyżne,wiejska,OPS,301816072000,16,16,X,X,X,X
+1511,podkarpackie,rzeszowski,Kamień,wiejska,OPS,301816082000,20,20,X,X,X,X
+1512,podkarpackie,rzeszowski,Krasne,wiejska,OPS,301816092000,48,48,X,X,X,X
+1513,podkarpackie,rzeszowski,Lubenia,wiejska,OPS,301816102000,25,25,X,X,X,X
+1514,podkarpackie,rzeszowski,Sokołów Małopolski,miejsko-wiejska,OPS,301816113000,74,74,X,X,X,X
+1515,podkarpackie,rzeszowski,Świlcza,wiejska,OPS,301816122000,124,124,X,X,X,X
+1516,podkarpackie,rzeszowski,Trzebownisko,wiejska,OPS,301816132000,50,50,X,X,X,X
+1517,podkarpackie,rzeszowski,Tyczyn,miejsko-wiejska,OPS,301816143000,67,67,X,X,X,X
+1518,podkarpackie,m. Rzeszów,M. Rzeszów,miejska,MOPR,251863011000,562,562,X,X,X,X
+1519,podkarpackie,sanocki,Besko,wiejska,OPS,301817022000,17,17,X,X,X,X
+1520,podkarpackie,sanocki,Bukowsko,wiejska,OPS,301817032000,40,40,X,X,X,X
+1521,podkarpackie,sanocki,Komańcza,wiejska,OPS,301817042000,9,9,X,X,X,X
+1522,podkarpackie,sanocki,Sanok,miejska,OPS,301817011000,190,190,X,X,X,X
+1523,podkarpackie,sanocki,Sanok,wiejska,OPS,301817052000,133,133,X,X,X,X
+1524,podkarpackie,sanocki,Tyrawa Wołoska,wiejska,OPS,301817062000,7,7,X,X,X,X
+1525,podkarpackie,sanocki,Zagórz,miejsko-wiejska,OPS,301817073000,37,37,X,X,X,X
+1526,podkarpackie,sanocki,Zarszyn,wiejska,OPS,301817082000,46,46,X,X,X,X
+1527,podkarpackie,stalowowolski,Bojanów,wiejska,OPS,301818022000,24,24,X,X,X,X
+1528,podkarpackie,stalowowolski,Pysznica,wiejska,OPS,301818032000,53,53,X,X,X,X
+1529,podkarpackie,stalowowolski,Radomyśl nad Sanem,wiejska,OPS,301818042000,15,15,X,X,X,X
+1530,podkarpackie,stalowowolski,Stalowa Wola,miejska,OPS,301818011000,195,195,X,X,X,X
+1531,podkarpackie,stalowowolski,Zaklików,miejsko-wiejska,OPS,301818052000,6,6,X,X,X,X
+1532,podkarpackie,stalowowolski,Zaleszany,wiejska,OPS,301818062000,62,62,X,X,X,X
+1533,podkarpackie,strzyżowski,Czudec,wiejska,OPS,301819012000,38,38,X,X,X,X
+1534,podkarpackie,strzyżowski,Frysztak,wiejska,OPS,301819022000,27,27,X,X,X,X
+1535,podkarpackie,strzyżowski,Niebylec,wiejska,OPS,301819032000,50,50,X,X,X,X
+1536,podkarpackie,strzyżowski,Strzyżów,miejsko-wiejska,OPS,301819043000,65,65,X,X,X,X
+1537,podkarpackie,strzyżowski,Wiśniowa,wiejska,OPS,301819052000,0,0,X,X,X,X
+1538,podkarpackie,m. Tarnobrzeg,M. Tarnobrzeg,miejska,MOPR,251864011000,312,312,X,X,X,X
+1539,podkarpackie,tarnobrzeski,Baranów Sandomierski,miejsko-wiejska,OPS,301820013000,43,43,X,X,X,X
+1540,podkarpackie,tarnobrzeski,Gorzyce,wiejska,OPS,301820022000,47,47,X,X,X,X
+1541,podkarpackie,tarnobrzeski,Grębów,wiejska,OPS,301820032000,111,111,X,X,X,X
+1542,podkarpackie,tarnobrzeski,Nowa Dęba,miejsko-wiejska,OPS,301820043000,72,72,X,X,X,X
+1543,podlaskie,-,-,-,WPS,102000000000,5968,5968,X,X,X,X
+1544,podlaskie,augustowski,Augustów,miejska,OPS,302001011000,244,244,X,X,X,X
+1545,podlaskie,augustowski,Augustów,wiejska,OPS,302001022000,42,42,X,X,X,X
+1546,podlaskie,augustowski,Bargłów Kościelny,wiejska,OPS,302001032000,69,69,X,X,X,X
+1547,podlaskie,augustowski,Lipsk,miejsko-wiejska,OPS,302001043000,50,50,X,X,X,X
+1548,podlaskie,augustowski,Nowinka,wiejska,OPS,302001052000,28,28,X,X,X,X
+1549,podlaskie,augustowski,Płaska,wiejska,OPS,302001062000,28,28,X,X,X,X
+1550,podlaskie,augustowski,Sztabin,wiejska,OPS,302001072000,30,30,X,X,X,X
+1551,podlaskie,białostocki,Choroszcz,miejsko-wiejska,OPS,302002013000,43,43,X,X,X,X
+1552,podlaskie,białostocki,Czarna Białostocka,miejsko-wiejska,OPS,302002023000,61,61,X,X,X,X
+1553,podlaskie,białostocki,Dobrzyniewo Duże,wiejska,OPS,302002032000,31,31,X,X,X,X
+1554,podlaskie,białostocki,Gródek,wiejska,OPS,302002042000,40,40,X,X,X,X
+1555,podlaskie,białostocki,Juchnowiec Kościelny,wiejska,OPS,302002052000,65,65,X,X,X,X
+1556,podlaskie,białostocki,Łapy,miejsko-wiejska,OPS,302002063000,52,52,X,X,X,X
+1557,podlaskie,białostocki,Michałowo,miejsko-wiejska,OPS,302002073000,25,25,X,X,X,X
+1558,podlaskie,białostocki,Poświętne,wiejska,OPS,302002082000,14,14,X,X,X,X
+1559,podlaskie,białostocki,Supraśl,miejsko-wiejska,OPS,302002093000,64,64,X,X,X,X
+1560,podlaskie,białostocki,Suraż,miejsko-wiejska,OPS,302002103000,10,10,X,X,X,X
+1561,podlaskie,białostocki,Turośń Kościelna,wiejska,OPS,302002112000,18,18,X,X,X,X
+1562,podlaskie,białostocki,Tykocin,miejsko-wiejska,OPS,302002123000,17,17,X,X,X,X
+1563,podlaskie,białostocki,Wasilków,miejsko-wiejska,OPS,302002133000,117,117,X,X,X,X
+1564,podlaskie,białostocki,Zabłudów,miejsko-wiejska,OPS,302002143000,18,18,X,X,X,X
+1565,podlaskie,białostocki,Zawady,wiejska,OPS,302002152000,8,8,X,X,X,X
+1566,podlaskie,m. Białystok,M. Białystok,miejska,MOPR,252061011000,1646,1646,X,X,X,X
+1567,podlaskie,bielski,Bielsk Podlaski,miejska,OPS,302003011000,169,169,X,X,X,X
+1568,podlaskie,bielski,Bielsk Podlaski,wiejska,OPS,302003032000,25,25,X,X,X,X
+1569,podlaskie,bielski,Boćki,wiejska,OPS,302003042000,44,44,X,X,X,X
+1570,podlaskie,bielski,Brańsk,miejska,OPS,302003021000,8,8,X,X,X,X
+1571,podlaskie,bielski,Brańsk,wiejska,OPS,302003052000,20,20,X,X,X,X
+1572,podlaskie,bielski,Orla,wiejska,OPS,302003062000,22,22,X,X,X,X
+1573,podlaskie,bielski,Rudka,wiejska,OPS,302003072000,12,12,X,X,X,X
+1574,podlaskie,bielski,Wyszki,wiejska,OPS,302003082000,40,40,X,X,X,X
+1575,podlaskie,grajewski,Grajewo,miejska,OPS,302004011000,198,198,X,X,X,X
+1576,podlaskie,grajewski,Grajewo,wiejska,OPS,302004022000,65,65,X,X,X,X
+1577,podlaskie,grajewski,Radziłów,wiejska,OPS,302004032000,18,18,X,X,X,X
+1578,podlaskie,grajewski,Rajgród,miejsko-wiejska,OPS,302004043000,45,45,X,X,X,X
+1579,podlaskie,grajewski,Szczuczyn,miejsko-wiejska,OPS,302004053000,46,46,X,X,X,X
+1580,podlaskie,grajewski,Wąsosz,wiejska,OPS,302004062000,16,16,X,X,X,X
+1581,podlaskie,hajnowski,Białowieża,wiejska,OPS,302005022000,2,2,X,X,X,X
+1582,podlaskie,hajnowski,Czeremcha,wiejska,OPS,302005032000,9,9,X,X,X,X
+1583,podlaskie,hajnowski,Czyże,wiejska,OPS,302005042000,8,8,X,X,X,X
+1584,podlaskie,hajnowski,Dubicze Cerkiewne,wiejska,OPS,302005052000,22,22,X,X,X,X
+1585,podlaskie,hajnowski,Hajnówka,miejska,OPS,302005011000,94,94,X,X,X,X
+1586,podlaskie,hajnowski,Hajnówka,wiejska,OPS,302005062000,40,40,X,X,X,X
+1587,podlaskie,hajnowski,Kleszczele,miejsko-wiejska,OPS,302005073000,4,4,X,X,X,X
+1588,podlaskie,hajnowski,Narew,wiejska,OPS,302005082000,16,16,X,X,X,X
+1589,podlaskie,hajnowski,Narewka,wiejska,OPS,302005092000,13,13,X,X,X,X
+1590,podlaskie,kolneński,Grabowo,wiejska,OPS,302006022000,9,9,X,X,X,X
+1591,podlaskie,kolneński,Kolno,miejska,OPS,302006011000,86,86,X,X,X,X
+1592,podlaskie,kolneński,Kolno,wiejska,OPS,302006032000,119,119,X,X,X,X
+1593,podlaskie,kolneński,Mały Płock,wiejska,OPS,302006042000,24,24,X,X,X,X
+1594,podlaskie,kolneński,Stawiski,miejsko-wiejska,OPS,302006053000,92,92,X,X,X,X
+1595,podlaskie,kolneński,Turośl,wiejska,OPS,302006062000,36,36,X,X,X,X
+1596,podlaskie,m. Łomża,M. Łomża,miejska,MOPR,252062011000,142,142,X,X,X,X
+1597,podlaskie,łomżyński,Jedwabne,miejsko-wiejska,OPS,302007013000,41,41,X,X,X,X
+1598,podlaskie,łomżyński,Łomża,wiejska,OPS,302007022000,40,40,X,X,X,X
+1599,podlaskie,łomżyński,Miastkowo,wiejska,OPS,302007032000,22,22,X,X,X,X
+1600,podlaskie,łomżyński,Nowogród,miejsko-wiejska,OPS,302007043000,7,7,X,X,X,X
+1601,podlaskie,łomżyński,Piątnica,wiejska,OPS,302007052000,33,33,X,X,X,X
+1602,podlaskie,łomżyński,Przytuły,wiejska,OPS,302007062000,18,18,X,X,X,X
+1603,podlaskie,łomżyński,Śniadowo,wiejska,OPS,302007072000,9,9,X,X,X,X
+1604,podlaskie,łomżyński,Wizna,wiejska,OPS,302007082000,20,20,X,X,X,X
+1605,podlaskie,łomżyński,Zbójna,wiejska,OPS,302007092000,8,8,X,X,X,X
+1606,podlaskie,moniecki,Goniądz,miejsko-wiejska,OPS,302008013000,22,22,X,X,X,X
+1607,podlaskie,moniecki,Jasionówka,wiejska,OPS,302008022000,10,10,X,X,X,X
+1608,podlaskie,moniecki,Jaświły,wiejska,OPS,302008032000,45,45,X,X,X,X
+1609,podlaskie,moniecki,Knyszyn,miejsko-wiejska,OPS,302008043000,9,9,X,X,X,X
+1610,podlaskie,moniecki,Krypno,wiejska,OPS,302008052000,16,16,X,X,X,X
+1611,podlaskie,moniecki,Mońki,miejsko-wiejska,OPS,302008063000,19,19,X,X,X,X
+1612,podlaskie,moniecki,Trzcianne,wiejska,OPS,302008072000,22,22,X,X,X,X
+1613,podlaskie,sejneński,Giby,wiejska,OPS,302009022000,9,9,X,X,X,X
+1614,podlaskie,sejneński,Krasnopol,wiejska,OPS,302009032000,6,6,X,X,X,X
+1615,podlaskie,sejneński,Puńsk,wiejska,OPS,302009042000,44,44,X,X,X,X
+1616,podlaskie,sejneński,Sejny,miejska,OPS,302009011000,23,23,X,X,X,X
+1617,podlaskie,sejneński,Sejny,wiejska,OPS,302009052000,10,10,X,X,X,X
+1618,podlaskie,siemiatycki,Drohiczyn,miejsko-wiejska,OPS,302010023000,30,30,X,X,X,X
+1619,podlaskie,siemiatycki,Dziadkowice,wiejska,OPS,302010032000,17,17,X,X,X,X
+1620,podlaskie,siemiatycki,Grodzisk,wiejska,OPS,302010042000,14,14,X,X,X,X
+1621,podlaskie,siemiatycki,Mielnik,wiejska,OPS,302010052000,9,9,X,X,X,X
+1622,podlaskie,siemiatycki,Milejczyce,wiejska,OPS,302010062000,8,8,X,X,X,X
+1623,podlaskie,siemiatycki,Nurzec-Stacja,wiejska,OPS,302010072000,14,14,X,X,X,X
+1624,podlaskie,siemiatycki,Perlejewo,wiejska,OPS,302010082000,5,5,X,X,X,X
+1625,podlaskie,siemiatycki,Siemiatycze,miejska,OPS,302010011000,76,76,X,X,X,X
+1626,podlaskie,siemiatycki,Siemiatycze,wiejska,OPS,302010092000,27,27,X,X,X,X
+1627,podlaskie,sokólski,Dąbrowa Białostocka,miejsko-wiejska,OPS,302011013000,85,85,X,X,X,X
+1628,podlaskie,sokólski,Janów,wiejska,OPS,302011022000,43,43,X,X,X,X
+1629,podlaskie,sokólski,Korycin,wiejska,OPS,302011032000,19,19,X,X,X,X
+1630,podlaskie,sokólski,Krynki,miejsko-wiejska,OPS,302011043000,28,28,X,X,X,X
+1631,podlaskie,sokólski,Kuźnica,wiejska,OPS,302011052000,29,29,X,X,X,X
+1632,podlaskie,sokólski,Nowy Dwór,wiejska,OPS,302011062000,25,25,X,X,X,X
+1633,podlaskie,sokólski,Sidra,wiejska,OPS,302011072000,16,16,X,X,X,X
+1634,podlaskie,sokólski,Sokółka,miejsko-wiejska,OPS,302011083000,131,131,X,X,X,X
+1635,podlaskie,sokólski,Suchowola,miejsko-wiejska,OPS,302011093000,45,45,X,X,X,X
+1636,podlaskie,sokólski,Szudziałowo,wiejska,OPS,302011102000,17,17,X,X,X,X
+1637,podlaskie,suwalski,Bakałarzewo,wiejska,OPS,302012012000,8,8,X,X,X,X
+1638,podlaskie,suwalski,Filipów,wiejska,OPS,302012022000,23,23,X,X,X,X
+1639,podlaskie,suwalski,Jeleniewo,wiejska,OPS,302012032000,15,15,X,X,X,X
+1640,podlaskie,suwalski,Przerośl,wiejska,OPS,302012042000,9,9,X,X,X,X
+1641,podlaskie,suwalski,Raczki,wiejska,OPS,302012052000,20,20,X,X,X,X
+1642,podlaskie,suwalski,Rutka-Tartak,wiejska,OPS,302012062000,17,17,X,X,X,X
+1643,podlaskie,suwalski,Suwałki,wiejska,OPS,302012072000,50,50,X,X,X,X
+1644,podlaskie,suwalski,Szypliszki,wiejska,OPS,302012082000,53,53,X,X,X,X
+1645,podlaskie,suwalski,Wiżajny,wiejska,OPS,302012092000,4,4,X,X,X,X
+1646,podlaskie,m. Suwałki,M. Suwałki,miejska,MOPR,252063011000,155,155,X,X,X,X
+1647,podlaskie,wysokomazowiecki,Ciechanowiec,miejsko-wiejska,OPS,302013023000,28,28,X,X,X,X
+1648,podlaskie,wysokomazowiecki,Czyżew,miejsko-wiejska,OPS,302013033000,9,9,X,X,X,X
+1649,podlaskie,wysokomazowiecki,Klukowo,wiejska,OPS,302013042000,14,14,X,X,X,X
+1650,podlaskie,wysokomazowiecki,Kobylin-Borzymy,wiejska,OPS,302013052000,7,7,X,X,X,X
+1651,podlaskie,wysokomazowiecki,Kulesze Kościelne,wiejska,OPS,302013062000,5,5,X,X,X,X
+1652,podlaskie,wysokomazowiecki,Nowe Piekuty,wiejska,OPS,302013072000,14,14,X,X,X,X
+1653,podlaskie,wysokomazowiecki,Sokoły,wiejska,OPS,302013082000,44,44,X,X,X,X
+1654,podlaskie,wysokomazowiecki,Szepietowo,miejsko-wiejska,OPS,302013093000,24,24,X,X,X,X
+1655,podlaskie,wysokomazowiecki,Wysokie Mazowieckie,miejska,OPS,302013011000,49,49,X,X,X,X
+1656,podlaskie,wysokomazowiecki,Wysokie Mazowieckie,wiejska,OPS,302013102000,24,24,X,X,X,X
+1657,podlaskie,zambrowski,Kołaki Kościelne,wiejska,OPS,302014022000,6,6,X,X,X,X
+1658,podlaskie,zambrowski,Rutki,wiejska,OPS,302014032000,22,22,X,X,X,X
+1659,podlaskie,zambrowski,Szumowo,wiejska,OPS,302014042000,7,7,X,X,X,X
+1660,podlaskie,zambrowski,Zambrów,miejska,OPS,302014011000,110,110,X,X,X,X
+1661,podlaskie,zambrowski,Zambrów,wiejska,OPS,302014052000,16,16,X,X,X,X
+1662,pomorskie,-,-,-,WPS,102200000000,9367,9367,X,X,X,X
+1663,pomorskie,bytowski,Borzytuchom,wiejska,OPS,302201012000,25,25,X,X,X,X
+1664,pomorskie,bytowski,Bytów,miejsko-wiejska,OPS,302201023000,212,212,X,X,X,X
+1665,pomorskie,bytowski,Czarna Dąbrówka,wiejska,OPS,302201032000,21,21,X,X,X,X
+1666,pomorskie,bytowski,Kołczygłowy,wiejska,OPS,302201042000,8,8,X,X,X,X
+1667,pomorskie,bytowski,Lipnica,wiejska,OPS,302201052000,4,4,X,X,X,X
+1668,pomorskie,bytowski,Miastko,miejsko-wiejska,OPS,302201063000,80,80,X,X,X,X
+1669,pomorskie,bytowski,Parchowo,wiejska,OPS,302201072000,4,4,X,X,X,X
+1670,pomorskie,bytowski,Studzienice,wiejska,OPS,302201082000,5,5,X,X,X,X
+1671,pomorskie,bytowski,Trzebielino,wiejska,OPS,302201092000,18,18,X,X,X,X
+1672,pomorskie,bytowski,Tuchomie,wiejska,OPS,302201102000,9,9,X,X,X,X
+1673,pomorskie,chojnicki,Brusy,miejsko-wiejska,OPS,302202023000,54,54,X,X,X,X
+1674,pomorskie,chojnicki,Chojnice,miejska,OPS,302202011000,177,177,X,X,X,X
+1675,pomorskie,chojnicki,Chojnice,wiejska,OPS,302202032000,158,158,X,X,X,X
+1676,pomorskie,chojnicki,Czersk,miejsko-wiejska,OPS,302202043000,152,152,X,X,X,X
+1677,pomorskie,chojnicki,Konarzyny,wiejska,OPS,302202052000,3,3,X,X,X,X
+1678,pomorskie,człuchowski,Czarne,miejsko-wiejska,OPS,302203023000,25,25,X,X,X,X
+1679,pomorskie,człuchowski,Człuchów,miejska,OPS,302203011000,117,117,X,X,X,X
+1680,pomorskie,człuchowski,Człuchów,wiejska,OPS,302203032000,49,49,X,X,X,X
+1681,pomorskie,człuchowski,Debrzno,miejsko-wiejska,OPS,302203043000,31,31,X,X,X,X
+1682,pomorskie,człuchowski,Koczała,wiejska,OPS,302203052000,6,6,X,X,X,X
+1683,pomorskie,człuchowski,Przechlewo,wiejska,OPS,302203062000,37,37,X,X,X,X
+1684,pomorskie,człuchowski,Rzeczenica,wiejska,OPS,302203072000,14,14,X,X,X,X
+1685,pomorskie,m. Gdańsk,M. Gdańsk,miejska,MOPR,252261011000,1152,1152,X,X,X,X
+1686,pomorskie,gdański,Cedry Wielkie,wiejska,OPS,302204022000,7,7,X,X,X,X
+1687,pomorskie,gdański,Kolbudy,wiejska,OPS,302204032000,84,84,X,X,X,X
+1688,pomorskie,gdański,Pruszcz Gdański,miejska,OPS,302204011000,162,162,X,X,X,X
+1689,pomorskie,gdański,Pruszcz Gdański,wiejska,OPS,302204042000,87,87,X,X,X,X
+1690,pomorskie,gdański,Przywidz,wiejska,OPS,302204052000,36,36,X,X,X,X
+1691,pomorskie,gdański,Pszczółki,wiejska,OPS,302204062000,19,19,X,X,X,X
+1692,pomorskie,gdański,Suchy Dąb,wiejska,OPS,302204072000,15,15,X,X,X,X
+1693,pomorskie,gdański,Trąbki Wielkie,wiejska,OPS,302204082000,26,26,X,X,X,X
+1694,pomorskie,m. Gdynia,M. Gdynia,miejska,MOPR,252262011000,797,797,X,X,X,X
+1695,pomorskie,kartuski,Chmielno,wiejska,OPS,302205012000,52,52,X,X,X,X
+1696,pomorskie,kartuski,Kartuzy,miejsko-wiejska,OPS,302205023000,253,253,X,X,X,X
+1697,pomorskie,kartuski,Przodkowo,wiejska,OPS,302205032000,10,10,X,X,X,X
+1698,pomorskie,kartuski,Sierakowice,wiejska,OPS,302205042000,53,53,X,X,X,X
+1699,pomorskie,kartuski,Somonino,wiejska,OPS,302205052000,119,119,X,X,X,X
+1700,pomorskie,kartuski,Stężyca,wiejska,OPS,302205062000,123,123,X,X,X,X
+1701,pomorskie,kartuski,Sulęczyno,wiejska,OPS,302205072000,27,27,X,X,X,X
+1702,pomorskie,kartuski,Żukowo,miejsko-wiejska,OPS,302205083000,106,106,X,X,X,X
+1703,pomorskie,kościerski,Dziemiany,wiejska,OPS,302206022000,6,6,X,X,X,X
+1704,pomorskie,kościerski,Karsin,wiejska,OPS,302206032000,58,58,X,X,X,X
+1705,pomorskie,kościerski,Kościerzyna,miejska,OPS,302206011000,197,197,X,X,X,X
+1706,pomorskie,kościerski,Kościerzyna,wiejska,OPS,302206042000,36,36,X,X,X,X
+1707,pomorskie,kościerski,Liniewo,wiejska,OPS,302206052000,51,51,X,X,X,X
+1708,pomorskie,kościerski,Lipusz,wiejska,OPS,302206062000,44,44,X,X,X,X
+1709,pomorskie,kościerski,Nowa Karczma,wiejska,OPS,302206072000,37,37,X,X,X,X
+1710,pomorskie,kościerski,Stara Kiszewa,wiejska,OPS,302206082000,24,24,X,X,X,X
+1711,pomorskie,kwidzyński,Gardeja,wiejska,OPS,302207022000,19,19,X,X,X,X
+1712,pomorskie,kwidzyński,Kwidzyn,miejska,OPS,302207011000,199,199,X,X,X,X
+1713,pomorskie,kwidzyński,Kwidzyn,wiejska,OPS,302207032000,26,26,X,X,X,X
+1714,pomorskie,kwidzyński,Prabuty,miejsko-wiejska,OPS,302207043000,42,42,X,X,X,X
+1715,pomorskie,kwidzyński,Ryjewo,wiejska,OPS,302207052000,7,7,X,X,X,X
+1716,pomorskie,kwidzyński,Sadlinki,wiejska,OPS,302207062000,13,13,X,X,X,X
+1717,pomorskie,lęborski,Cewice,wiejska,OPS,302208032000,70,70,X,X,X,X
+1718,pomorskie,lęborski,Lębork,miejska,OPS,302208011000,108,108,X,X,X,X
+1719,pomorskie,lęborski,Łeba,miejska,OPS,302208021000,13,13,X,X,X,X
+1720,pomorskie,lęborski,Nowa Wieś Lęborska,wiejska,OPS,302208042000,46,46,X,X,X,X
+1721,pomorskie,lęborski,Wicko,wiejska,OPS,302208052000,13,13,X,X,X,X
+1722,pomorskie,malborski,Lichnowy,wiejska,OPS,302209032000,28,28,X,X,X,X
+1723,pomorskie,malborski,Malbork,miejska,OPS,302209011000,267,267,X,X,X,X
+1724,pomorskie,malborski,Malbork,wiejska,OPS,302209042000,29,29,X,X,X,X
+1725,pomorskie,malborski,Miłoradz,wiejska,OPS,302209062000,9,9,X,X,X,X
+1726,pomorskie,malborski,Nowy Staw,miejsko-wiejska,OPS,302209073000,71,71,X,X,X,X
+1727,pomorskie,malborski,Stare Pole,wiejska,OPS,302209082000,17,17,X,X,X,X
+1728,pomorskie,nowodworski,Krynica Morska,miejska,OPS,302210011000,3,3,X,X,X,X
+1729,pomorskie,nowodworski,Nowy Dwór Gdański,miejsko-wiejska,OPS,302210023000,86,86,X,X,X,X
+1730,pomorskie,nowodworski,Ostaszewo,wiejska,OPS,302210032000,19,19,X,X,X,X
+1731,pomorskie,nowodworski,Stegna,wiejska,OPS,302210042000,61,61,X,X,X,X
+1732,pomorskie,nowodworski,Sztutowo,wiejska,OPS,302210052000,32,32,X,X,X,X
+1733,pomorskie,pucki,Hel,miejska,OPS,302211011000,3,3,X,X,X,X
+1734,pomorskie,pucki,Jastarnia,miejsko-wiejska,OPS,302211021000,9,9,X,X,X,X
+1735,pomorskie,pucki,Kosakowo,wiejska,OPS,302211052000,105,105,X,X,X,X
+1736,pomorskie,pucki,Krokowa,wiejska,OPS,302211062000,20,20,X,X,X,X
+1737,pomorskie,pucki,Puck,miejska,OPS,302211031000,75,75,X,X,X,X
+1738,pomorskie,pucki,Puck,wiejska,OPS,302211072000,80,80,X,X,X,X
+1739,pomorskie,pucki,Władysławowo,miejsko-wiejska,OPS,302211041000,42,42,X,X,X,X
+1740,pomorskie,m. Słupsk,M. Słupsk,miejska,MOPR,252263011000,220,220,X,X,X,X
+1741,pomorskie,słupski,Damnica,wiejska,OPS,302212022000,14,14,X,X,X,X
+1742,pomorskie,słupski,Dębnica Kaszubska,wiejska,OPS,302212032000,35,35,X,X,X,X
+1743,pomorskie,słupski,Główczyce,wiejska,OPS,302212042000,22,22,X,X,X,X
+1744,pomorskie,słupski,Kępice,miejsko-wiejska,OPS,302212053000,22,22,X,X,X,X
+1745,pomorskie,słupski,Kobylnica,wiejska,OPS,302212062000,110,110,X,X,X,X
+1746,pomorskie,słupski,Potęgowo,wiejska,OPS,302212072000,18,18,X,X,X,X
+1747,pomorskie,słupski,Słupsk,wiejska,OPS,302212082000,46,46,X,X,X,X
+1748,pomorskie,słupski,Smołdzino,wiejska,OPS,302212092000,18,18,X,X,X,X
+1749,pomorskie,słupski,Ustka,miejska,OPS,302212011000,49,49,X,X,X,X
+1750,pomorskie,słupski,Ustka,wiejska,OPS,302212102000,30,30,X,X,X,X
+1751,pomorskie,m. Sopot,M. Sopot,miejska,MOPR,252264011000,121,121,X,X,X,X
+1752,pomorskie,starogardzki,Bobowo,wiejska,OPS,302213042000,29,29,X,X,X,X
+1753,pomorskie,starogardzki,Czarna Woda,miejsko-wiejska,OPS,302213011000,9,9,X,X,X,X
+1754,pomorskie,starogardzki,Kaliska,wiejska,OPS,302213052000,35,35,X,X,X,X
+1755,pomorskie,starogardzki,Lubichowo,wiejska,OPS,302213062000,14,14,X,X,X,X
+1756,pomorskie,starogardzki,Osieczna,wiejska,OPS,302213072000,12,12,X,X,X,X
+1757,pomorskie,starogardzki,Osiek,wiejska,OPS,302213082000,3,3,X,X,X,X
+1758,pomorskie,starogardzki,Skarszewy,miejsko-wiejska,OPS,302213093000,101,101,X,X,X,X
+1759,pomorskie,starogardzki,Skórcz,miejska,OPS,302213021000,7,7,X,X,X,X
+1760,pomorskie,starogardzki,Skórcz,wiejska,OPS,302213102000,15,15,X,X,X,X
+1761,pomorskie,starogardzki,Smętowo Graniczne,wiejska,OPS,302213112000,19,19,X,X,X,X
+1762,pomorskie,starogardzki,Starogard Gdański,miejska,OPS,302213031000,281,281,X,X,X,X
+1763,pomorskie,starogardzki,Starogard Gdański,wiejska,OPS,302213122000,60,60,X,X,X,X
+1764,pomorskie,starogardzki,Zblewo,wiejska,OPS,302213132000,42,42,X,X,X,X
+1765,pomorskie,sztumski,Dzierzgoń,miejsko-wiejska,OPS,302216013000,62,62,X,X,X,X
+1766,pomorskie,sztumski,Mikołajki Pomorskie,wiejska,OPS,302216022000,5,5,X,X,X,X
+1767,pomorskie,sztumski,Stary Dzierzgoń,wiejska,OPS,302216032000,21,21,X,X,X,X
+1768,pomorskie,sztumski,Stary Targ,wiejska,OPS,302216042000,69,69,X,X,X,X
+1769,pomorskie,sztumski,Sztum,miejsko-wiejska,OPS,302216053000,72,72,X,X,X,X
+1770,pomorskie,tczewski,Gniew,miejsko-wiejska,OPS,302214023000,59,59,X,X,X,X
+1771,pomorskie,tczewski,Morzeszczyn,wiejska,OPS,302214032000,13,13,X,X,X,X
+1772,pomorskie,tczewski,Pelplin,miejsko-wiejska,OPS,302214043000,35,35,X,X,X,X
+1773,pomorskie,tczewski,Subkowy,wiejska,OPS,302214052000,17,17,X,X,X,X
+1774,pomorskie,tczewski,Tczew,miejska,OPS,302214011000,290,290,X,X,X,X
+1775,pomorskie,tczewski,Tczew,wiejska,OPS,302214062000,24,24,X,X,X,X
+1776,pomorskie,wejherowski,Choczewo,wiejska,OPS,302215042000,89,89,X,X,X,X
+1777,pomorskie,wejherowski,Gniewino,wiejska,OPS,302215052000,43,43,X,X,X,X
+1778,pomorskie,wejherowski,Linia,wiejska,OPS,302215062000,13,13,X,X,X,X
+1779,pomorskie,wejherowski,Luzino,wiejska,OPS,302215072000,47,47,X,X,X,X
+1780,pomorskie,wejherowski,Łęczyce,wiejska,OPS,302215082000,74,74,X,X,X,X
+1781,pomorskie,wejherowski,Reda,miejska,OPS,302215011000,98,98,X,X,X,X
+1782,pomorskie,wejherowski,Rumia,miejska,OPS,302215021000,146,146,X,X,X,X
+1783,pomorskie,wejherowski,Szemud,wiejska,OPS,302215092000,71,71,X,X,X,X
+1784,pomorskie,wejherowski,Wejherowo,miejska,OPS,302215031000,400,400,X,X,X,X
+1785,pomorskie,wejherowski,Wejherowo,wiejska,OPS,302215102000,85,85,X,X,X,X
+1786,śląskie,-,-,-,WPS,102400000000,20146,20146,X,X,X,X
+1787,śląskie,będziński,Będzin,miejska,OPS,302401011000,278,278,X,X,X,X
+1788,śląskie,będziński,Bobrowniki,wiejska,OPS,302401042000,61,61,X,X,X,X
+1789,śląskie,będziński,Czeladź,miejska,OPS,302401021000,166,166,X,X,X,X
+1790,śląskie,będziński,Mierzęcice,wiejska,OPS,302401052000,34,34,X,X,X,X
+1791,śląskie,będziński,Psary,wiejska,OPS,302401062000,43,43,X,X,X,X
+1792,śląskie,będziński,Siewierz,miejsko-wiejska,OPS,302401073000,50,50,X,X,X,X
+1793,śląskie,będziński,Sławków,miejska,OPS,302401081000,59,59,X,X,X,X
+1794,śląskie,będziński,Wojkowice,miejska,OPS,302401031000,13,13,X,X,X,X
+1795,śląskie,bielski,Bestwina,wiejska,OPS,302402022000,29,29,X,X,X,X
+1796,śląskie,bielski,Buczkowice,wiejska,OPS,302402032000,30,30,X,X,X,X
+1797,śląskie,bielski,Czechowice-Dziedzice,miejsko-wiejska,OPS,302402043000,190,190,X,X,X,X
+1798,śląskie,bielski,Jasienica,wiejska,OPS,302402052000,113,113,X,X,X,X
+1799,śląskie,bielski,Jaworze,wiejska,OPS,302402062000,32,32,X,X,X,X
+1800,śląskie,bielski,Kozy,wiejska,OPS,302402072000,57,57,X,X,X,X
+1801,śląskie,bielski,Porąbka,wiejska,OPS,302402082000,51,51,X,X,X,X
+1802,śląskie,bielski,Szczyrk,miejska,OPS,302402011000,26,26,X,X,X,X
+1803,śląskie,bielski,Wilamowice,miejsko-wiejska,OPS,302402093000,56,56,X,X,X,X
+1804,śląskie,bielski,Wilkowice,wiejska,OPS,302402102000,41,41,X,X,X,X
+1805,śląskie,m. Bielsko-Biała,M. Bielsko-Biała,miejska,MOPR,252461011000,382,382,X,X,X,X
+1806,śląskie,bieruńsko-lędziński,Bieruń,miejska,OPS,302414011000,64,64,X,X,X,X
+1807,śląskie,bieruńsko-lędziński,Bojszowy,wiejska,OPS,302414042000,26,26,X,X,X,X
+1808,śląskie,bieruńsko-lędziński,Chełm Śląski,wiejska,OPS,302414052000,36,36,X,X,X,X
+1809,śląskie,bieruńsko-lędziński,Imielin,miejska,OPS,302414021000,61,61,X,X,X,X
+1810,śląskie,bieruńsko-lędziński,Lędziny,miejska,OPS,302414031000,67,67,X,X,X,X
+1811,śląskie,m. Bytom,M. Bytom,miejska,MOPR,252462011000,1181,1181,X,X,X,X
+1812,śląskie,m. Chorzów,M. Chorzów,miejska,MOPR,252463011000,354,354,X,X,X,X
+1813,śląskie,cieszyński,Brenna,wiejska,OPS,302403042000,33,33,X,X,X,X
+1814,śląskie,cieszyński,Chybie,wiejska,OPS,302403052000,35,35,X,X,X,X
+1815,śląskie,cieszyński,Cieszyn,miejska,OPS,302403011000,100,100,X,X,X,X
+1816,śląskie,cieszyński,Dębowiec,wiejska,OPS,302403062000,24,24,X,X,X,X
+1817,śląskie,cieszyński,Goleszów,wiejska,OPS,302403072000,28,28,X,X,X,X
+1818,śląskie,cieszyński,Hażlach,wiejska,OPS,302403082000,77,77,X,X,X,X
+1819,śląskie,cieszyński,Istebna,wiejska,OPS,302403092000,70,70,X,X,X,X
+1820,śląskie,cieszyński,Skoczów,miejsko-wiejska,OPS,302403103000,115,115,X,X,X,X
+1821,śląskie,cieszyński,Strumień,miejsko-wiejska,OPS,302403113000,59,59,X,X,X,X
+1822,śląskie,cieszyński,Ustroń,miejska,OPS,302403021000,54,54,X,X,X,X
+1823,śląskie,cieszyński,Wisła,miejska,OPS,302403031000,93,93,X,X,X,X
+1824,śląskie,cieszyński,Zebrzydowice,wiejska,OPS,302403122000,80,80,X,X,X,X
+1825,śląskie,m. Częstochowa,M. Częstochowa,miejska,MOPR,252464011000,597,597,X,X,X,X
+1826,śląskie,częstochowski,Blachownia,miejsko-wiejska,OPS,302404013000,30,30,X,X,X,X
+1827,śląskie,częstochowski,Dąbrowa Zielona,wiejska,OPS,302404022000,7,7,X,X,X,X
+1828,śląskie,częstochowski,Janów,wiejska,OPS,302404032000,20,20,X,X,X,X
+1829,śląskie,częstochowski,Kamienica Polska,wiejska,OPS,302404042000,20,20,X,X,X,X
+1830,śląskie,częstochowski,Kłomnice,wiejska,OPS,302404052000,14,14,X,X,X,X
+1831,śląskie,częstochowski,Koniecpol,miejsko-wiejska,OPS,302404063000,24,24,X,X,X,X
+1832,śląskie,częstochowski,Konopiska,wiejska,OPS,302404072000,33,33,X,X,X,X
+1833,śląskie,częstochowski,Kruszyna,wiejska,OPS,302404082000,3,3,X,X,X,X
+1834,śląskie,częstochowski,Lelów,wiejska,OPS,302404092000,6,6,X,X,X,X
+1835,śląskie,częstochowski,Mstów,wiejska,OPS,302404102000,12,12,X,X,X,X
+1836,śląskie,częstochowski,Mykanów,wiejska,OPS,302404112000,23,23,X,X,X,X
+1837,śląskie,częstochowski,Olsztyn,wiejska,OPS,302404122000,18,18,X,X,X,X
+1838,śląskie,częstochowski,Poczesna,wiejska,OPS,302404132000,69,69,X,X,X,X
+1839,śląskie,częstochowski,Przyrów,wiejska,OPS,302404142000,6,6,X,X,X,X
+1840,śląskie,częstochowski,Rędziny,wiejska,OPS,302404152000,8,8,X,X,X,X
+1841,śląskie,częstochowski,Starcza,wiejska,OPS,302404162000,12,12,X,X,X,X
+1842,śląskie,m. Dąbrowa Górnicza,M. Dąbrowa Górnicza,miejska,MOPR,252465011000,293,293,X,X,X,X
+1843,śląskie,m. Gliwice,M. Gliwice,miejska,MOPR,252466011000,738,738,X,X,X,X
+1844,śląskie,gliwicki,Gierałtowice,wiejska,OPS,302405032000,51,51,X,X,X,X
+1845,śląskie,gliwicki,Knurów,miejska,OPS,302405011000,227,227,X,X,X,X
+1846,śląskie,gliwicki,Pilchowice,wiejska,OPS,302405042000,9,9,X,X,X,X
+1847,śląskie,gliwicki,Pyskowice,miejska,OPS,302405021000,155,155,X,X,X,X
+1848,śląskie,gliwicki,Rudziniec,wiejska,OPS,302405052000,18,18,X,X,X,X
+1849,śląskie,gliwicki,Sośnicowice,miejsko-wiejska,OPS,302405063000,21,21,X,X,X,X
+1850,śląskie,gliwicki,Toszek,miejsko-wiejska,OPS,302405073000,38,38,X,X,X,X
+1851,śląskie,gliwicki,Wielowieś,wiejska,OPS,302405082000,36,36,X,X,X,X
+1852,śląskie,m. Jastrzębie-Zdrój,M. Jastrzębie-Zdrój,miejska,MOPR,252467011000,590,590,X,X,X,X
+1853,śląskie,m. Jaworzno,M. Jaworzno,miejska,MOPR,252468011000,564,564,X,X,X,X
+1854,śląskie,m. Katowice,M. Katowice,miejska,MOPR,252469011000,1692,1692,X,X,X,X
+1855,śląskie,kłobucki,Kłobuck,miejsko-wiejska,OPS,302406013000,69,69,X,X,X,X
+1856,śląskie,kłobucki,Krzepice,miejsko-wiejska,OPS,302406023000,14,14,X,X,X,X
+1857,śląskie,kłobucki,Lipie,wiejska,OPS,302406032000,27,27,X,X,X,X
+1858,śląskie,kłobucki,Miedźno,wiejska,OPS,302406042000,42,42,X,X,X,X
+1859,śląskie,kłobucki,Opatów,wiejska,OPS,302406052000,17,17,X,X,X,X
+1860,śląskie,kłobucki,Panki,wiejska,OPS,302406062000,18,18,X,X,X,X
+1861,śląskie,kłobucki,Popów,wiejska,OPS,302406072000,37,37,X,X,X,X
+1862,śląskie,kłobucki,Przystajń,wiejska,OPS,302406082000,17,17,X,X,X,X
+1863,śląskie,kłobucki,Wręczyca Wielka,wiejska,OPS,302406092000,84,84,X,X,X,X
+1864,śląskie,lubliniecki,Boronów,wiejska,OPS,302407022000,12,12,X,X,X,X
+1865,śląskie,lubliniecki,Ciasna,wiejska,OPS,302407032000,26,26,X,X,X,X
+1866,śląskie,lubliniecki,Herby,wiejska,OPS,302407042000,22,22,X,X,X,X
+1867,śląskie,lubliniecki,Kochanowice,wiejska,OPS,302407052000,16,16,X,X,X,X
+1868,śląskie,lubliniecki,Koszęcin,wiejska,OPS,302407062000,22,22,X,X,X,X
+1869,śląskie,lubliniecki,Lubliniec,miejska,OPS,302407011000,114,114,X,X,X,X
+1870,śląskie,lubliniecki,Pawonków,wiejska,OPS,302407072000,19,19,X,X,X,X
+1871,śląskie,lubliniecki,Woźniki,miejsko-wiejska,OPS,302407083000,31,31,X,X,X,X
+1872,śląskie,mikołowski,Łaziska Górne,miejska,OPS,302408011000,37,37,X,X,X,X
+1873,śląskie,mikołowski,Mikołów,miejska,OPS,302408021000,173,173,X,X,X,X
+1874,śląskie,mikołowski,Ornontowice,wiejska,OPS,302408042000,41,41,X,X,X,X
+1875,śląskie,mikołowski,Orzesze,miejska,OPS,302408031000,140,140,X,X,X,X
+1876,śląskie,mikołowski,Wyry,wiejska,OPS,302408052000,27,27,X,X,X,X
+1877,śląskie,m. Mysłowice,M. Mysłowice,miejska,MOPR,252470011000,578,578,X,X,X,X
+1878,śląskie,myszkowski,Koziegłowy,miejsko-wiejska,OPS,302409023000,50,50,X,X,X,X
+1879,śląskie,myszkowski,Myszków,miejska,OPS,302409011000,130,130,X,X,X,X
+1880,śląskie,myszkowski,Niegowa,wiejska,OPS,302409032000,17,17,X,X,X,X
+1881,śląskie,myszkowski,Poraj,wiejska,OPS,302409042000,62,62,X,X,X,X
+1882,śląskie,myszkowski,Żarki,miejsko-wiejska,OPS,302409053000,28,28,X,X,X,X
+1883,śląskie,m. Piekary Śląskie,M. Piekary Śląskie,miejska,MOPR,252471011000,334,334,X,X,X,X
+1884,śląskie,pszczyński,Goczałkowice-Zdrój,wiejska,OPS,302410012000,30,30,X,X,X,X
+1885,śląskie,pszczyński,Kobiór,wiejska,OPS,302410022000,5,5,X,X,X,X
+1886,śląskie,pszczyński,Miedźna,wiejska,OPS,302410032000,88,88,X,X,X,X
+1887,śląskie,pszczyński,Pawłowice,wiejska,OPS,302410042000,28,28,X,X,X,X
+1888,śląskie,pszczyński,Pszczyna,miejsko-wiejska,OPS,302410053000,195,195,X,X,X,X
+1889,śląskie,pszczyński,Suszec,wiejska,OPS,302410062000,61,61,X,X,X,X
+1890,śląskie,raciborski,Kornowac,wiejska,OPS,302411022000,34,34,X,X,X,X
+1891,śląskie,raciborski,Krzanowice,miejsko-wiejska,OPS,302411033000,10,10,X,X,X,X
+1892,śląskie,raciborski,Kuźnia Raciborska,miejsko-wiejska,OPS,302411053000,51,51,X,X,X,X
+1893,śląskie,raciborski,Nędza,wiejska,OPS,302411062000,20,20,X,X,X,X
+1894,śląskie,raciborski,Pietrowice Wielkie,wiejska,OPS,302411072000,18,18,X,X,X,X
+1895,śląskie,raciborski,Racibórz,miejska,OPS,302411011000,226,226,X,X,X,X
+1896,śląskie,raciborski,Rudnik,wiejska,OPS,302411082000,34,34,X,X,X,X
+1897,śląskie,raciborski,Krzyżanowice,wiejska,OPS,302411042000,29,29,X,X,X,X
+1898,śląskie,m. Ruda Śląska,M. Ruda Śląska,miejska,MOPR,252472011000,661,661,X,X,X,X
+1899,śląskie,rybnicki,Czerwionka-Leszczyny,miejsko-wiejska,OPS,302412013000,292,292,X,X,X,X
+1900,śląskie,rybnicki,Gaszowice,wiejska,OPS,302412022000,52,52,X,X,X,X
+1901,śląskie,rybnicki,Jejkowice,wiejska,OPS,302412032000,30,30,X,X,X,X
+1902,śląskie,rybnicki,Lyski,wiejska,OPS,302412042000,31,31,X,X,X,X
+1903,śląskie,rybnicki,Świerklany,wiejska,OPS,302412052000,110,110,X,X,X,X
+1904,śląskie,m. Rybnik,M. Rybnik,miejska,MOPR,252473011000,790,790,X,X,X,X
+1905,śląskie,m. Siemianowice Śląskie,M. Siemianowice Śląskie,miejska,MOPR,252474011000,167,167,X,X,X,X
+1906,śląskie,m. Sosnowiec,M. Sosnowiec,miejska,MOPR,252475011000,886,886,X,X,X,X
+1907,śląskie,m. Świętochłowice,M. Świętochłowice,miejska,MOPR,252476011000,323,323,X,X,X,X
+1908,śląskie,tarnogórski,Kalety,miejska,OPS,302413011000,34,34,X,X,X,X
+1909,śląskie,tarnogórski,Krupski Młyn,wiejska,OPS,302413052000,13,13,X,X,X,X
+1910,śląskie,tarnogórski,Miasteczko Śląskie,miejska,OPS,302413021000,39,39,X,X,X,X
+1911,śląskie,tarnogórski,Ożarowice,wiejska,OPS,302413062000,29,29,X,X,X,X
+1912,śląskie,tarnogórski,Radzionków,miejska,OPS,302413031000,97,97,X,X,X,X
+1913,śląskie,tarnogórski,Świerklaniec,wiejska,OPS,302413072000,55,55,X,X,X,X
+1914,śląskie,tarnogórski,Tarnowskie Góry,miejska,OPS,302413041000,415,415,X,X,X,X
+1915,śląskie,tarnogórski,Tworóg,wiejska,OPS,302413082000,25,25,X,X,X,X
+1916,śląskie,tarnogórski,Zbrosławice,wiejska,OPS,302413092000,74,74,X,X,X,X
+1917,śląskie,m. Tychy,M. Tychy,miejska,MOPR,252477011000,507,507,X,X,X,X
+1918,śląskie,wodzisławski,Godów,wiejska,OPS,302415052000,85,85,X,X,X,X
+1919,śląskie,wodzisławski,Gorzyce,wiejska,OPS,302415062000,50,50,X,X,X,X
+1920,śląskie,wodzisławski,Lubomia,wiejska,OPS,302415072000,58,58,X,X,X,X
+1921,śląskie,wodzisławski,Marklowice,wiejska,OPS,302415082000,24,24,X,X,X,X
+1922,śląskie,wodzisławski,Mszana,wiejska,OPS,302415092000,22,22,X,X,X,X
+1923,śląskie,wodzisławski,Pszów,miejska,OPS,302415011000,44,44,X,X,X,X
+1924,śląskie,wodzisławski,Radlin,miejska,OPS,302415021000,104,104,X,X,X,X
+1925,śląskie,wodzisławski,Rydułtowy,miejska,OPS,302415031000,166,166,X,X,X,X
+1926,śląskie,wodzisławski,Wodzisław Śląski,miejska,OPS,302415041000,247,247,X,X,X,X
+1927,śląskie,m. Zabrze,M. Zabrze,miejska,MOPR,252478011000,569,569,X,X,X,X
+1928,śląskie,zawierciański,Irządze,wiejska,OPS,302416032000,2,2,X,X,X,X
+1929,śląskie,zawierciański,Kroczyce,wiejska,OPS,302416042000,17,17,X,X,X,X
+1930,śląskie,zawierciański,Łazy,miejsko-wiejska,OPS,302416053000,84,84,X,X,X,X
+1931,śląskie,zawierciański,Ogrodzieniec,miejsko-wiejska,OPS,302416063000,13,13,X,X,X,X
+1932,śląskie,zawierciański,Pilica,miejsko-wiejska,OPS,302416073000,34,34,X,X,X,X
+1933,śląskie,zawierciański,Poręba,miejska,OPS,302416011000,31,31,X,X,X,X
+1934,śląskie,zawierciański,Szczekociny,miejsko-wiejska,OPS,302416083000,27,27,X,X,X,X
+1935,śląskie,zawierciański,Włodowice,wiejska,OPS,302416092000,24,24,X,X,X,X
+1936,śląskie,zawierciański,Zawiercie,miejska,OPS,302416021000,221,221,X,X,X,X
+1937,śląskie,zawierciański,Żarnowiec,wiejska,OPS,302416102000,26,26,X,X,X,X
+1938,śląskie,m. Żory,M. Żory,miejska,MOPR,252479011000,266,266,X,X,X,X
+1939,śląskie,żywiecki,Czernichów,wiejska,OPS,302417022000,42,42,X,X,X,X
+1940,śląskie,żywiecki,Gilowice,wiejska,OPS,302417032000,70,70,X,X,X,X
+1941,śląskie,żywiecki,Jeleśnia,wiejska,OPS,302417042000,75,75,X,X,X,X
+1942,śląskie,żywiecki,Koszarawa,wiejska,OPS,302417052000,15,15,X,X,X,X
+1943,śląskie,żywiecki,Lipowa,wiejska,OPS,302417062000,10,10,X,X,X,X
+1944,śląskie,żywiecki,Łękawica,wiejska,OPS,302417072000,23,23,X,X,X,X
+1945,śląskie,żywiecki,Łodygowice,wiejska,OPS,302417082000,47,47,X,X,X,X
+1946,śląskie,żywiecki,Milówka,wiejska,OPS,302417092000,90,90,X,X,X,X
+1947,śląskie,żywiecki,Radziechowy-Wieprz,wiejska,OPS,302417102000,51,51,X,X,X,X
+1948,śląskie,żywiecki,Rajcza,wiejska,OPS,302417112000,48,48,X,X,X,X
+1949,śląskie,żywiecki,Ślemień,wiejska,OPS,302417122000,14,14,X,X,X,X
+1950,śląskie,żywiecki,Świnna,wiejska,OPS,302417132000,59,59,X,X,X,X
+1951,śląskie,żywiecki,Ujsoły,wiejska,OPS,302417142000,20,20,X,X,X,X
+1952,śląskie,żywiecki,Węgierska Górka,wiejska,OPS,302417152000,57,57,X,X,X,X
+1953,śląskie,żywiecki,Żywiec,miejska,OPS,302417011000,146,146,X,X,X,X
+1954,świętokrzyskie,-,-,-,WPS,102600000000,7565,7565,X,X,X,X
+1955,świętokrzyskie,buski,Busko-Zdrój,miejsko-wiejska,OPS,302601013000,124,124,X,X,X,X
+1956,świętokrzyskie,buski,Gnojno,wiejska,OPS,302601022000,12,12,X,X,X,X
+1957,świętokrzyskie,buski,Nowy Korczyn,wiejska,OPS,302601032000,23,23,X,X,X,X
+1958,świętokrzyskie,buski,Pacanów,wiejska,OPS,302601042000,71,71,X,X,X,X
+1959,świętokrzyskie,buski,Solec-Zdrój,wiejska,OPS,302601052000,38,38,X,X,X,X
+1960,świętokrzyskie,buski,Stopnica,miejsko-wiejska,OPS,302601062000,15,15,X,X,X,X
+1961,świętokrzyskie,buski,Tuczępy,wiejska,OPS,302601072000,48,48,X,X,X,X
+1962,świętokrzyskie,buski,Wiślica,miejsko-wiejska,OPS,302601082000,10,10,X,X,X,X
+1963,świętokrzyskie,jędrzejowski,Imielno,wiejska,OPS,302602012000,9,9,X,X,X,X
+1964,świętokrzyskie,jędrzejowski,Jędrzejów,miejsko-wiejska,OPS,302602023000,305,305,X,X,X,X
+1965,świętokrzyskie,jędrzejowski,Małogoszcz,miejsko-wiejska,OPS,302602033000,18,18,X,X,X,X
+1966,świętokrzyskie,jędrzejowski,Nagłowice,wiejska,OPS,302602042000,23,23,X,X,X,X
+1967,świętokrzyskie,jędrzejowski,Oksa,wiejska,OPS,302602052000,20,20,X,X,X,X
+1968,świętokrzyskie,jędrzejowski,Sędziszów,miejsko-wiejska,OPS,302602063000,81,81,X,X,X,X
+1969,świętokrzyskie,jędrzejowski,Słupia,wiejska,OPS,302602072000,4,4,X,X,X,X
+1970,świętokrzyskie,jędrzejowski,Sobków,wiejska,OPS,302602082000,22,22,X,X,X,X
+1971,świętokrzyskie,jędrzejowski,Wodzisław,wiejska,OPS,302602092000,26,26,X,X,X,X
+1972,świętokrzyskie,kazimierski,Bejsce,wiejska,OPS,302603012000,12,12,X,X,X,X
+1973,świętokrzyskie,kazimierski,Czarnocin,wiejska,OPS,302603022000,29,29,X,X,X,X
+1974,świętokrzyskie,kazimierski,Kazimierza Wielka,miejsko-wiejska,OPS,302603033000,153,153,X,X,X,X
+1975,świętokrzyskie,kazimierski,Opatowiec,wiejska,OPS,302603042000,12,12,X,X,X,X
+1976,świętokrzyskie,kazimierski,Skalbmierz,miejsko-wiejska,OPS,302603053000,51,51,X,X,X,X
+1977,świętokrzyskie,m. Kielce,M. Kielce,miejska,MOPR,252661011000,802,802,X,X,X,X
+1978,świętokrzyskie,kielecki,Bieliny,wiejska,OPS,302604012000,58,58,X,X,X,X
+1979,świętokrzyskie,kielecki,Bodzentyn,miejsko-wiejska,OPS,302604023000,277,277,X,X,X,X
+1980,świętokrzyskie,kielecki,Chęciny,miejsko-wiejska,OPS,302604033000,157,157,X,X,X,X
+1981,świętokrzyskie,kielecki,Chmielnik,miejsko-wiejska,OPS,302604043000,31,31,X,X,X,X
+1982,świętokrzyskie,kielecki,Daleszyce,miejsko-wiejska,OPS,302604053000,108,108,X,X,X,X
+1983,świętokrzyskie,kielecki,Górno,wiejska,OPS,302604062000,95,95,X,X,X,X
+1984,świętokrzyskie,kielecki,Łagów,miejsko-wiejska,OPS,302604072000,46,46,X,X,X,X
+1985,świętokrzyskie,kielecki,Łopuszno,wiejska,OPS,302604082000,36,36,X,X,X,X
+1986,świętokrzyskie,kielecki,Masłów,wiejska,OPS,302604092000,110,110,X,X,X,X
+1987,świętokrzyskie,kielecki,Miedziana Góra,wiejska,OPS,302604102000,84,84,X,X,X,X
+1988,świętokrzyskie,kielecki,Mniów,wiejska,OPS,302604112000,138,138,X,X,X,X
+1989,świętokrzyskie,kielecki,Morawica,miejsko-wiejska,OPS,302604122000,196,196,X,X,X,X
+1990,świętokrzyskie,kielecki,Nowa Słupia,wiejska,OPS,302604132000,64,64,X,X,X,X
+1991,świętokrzyskie,kielecki,Nowiny,wiejska,OPS,302604172000,47,47,X,X,X,X
+1992,świętokrzyskie,kielecki,Piekoszów,wiejska,OPS,302604142000,78,78,X,X,X,X
+1993,świętokrzyskie,kielecki,Pierzchnica,wiejska,OPS,302604152000,26,26,X,X,X,X
+1994,świętokrzyskie,kielecki,Raków,wiejska,OPS,302604162000,110,110,X,X,X,X
+1995,świętokrzyskie,kielecki,Strawczyn,wiejska,OPS,302604182000,58,58,X,X,X,X
+1996,świętokrzyskie,kielecki,Zagnańsk,wiejska,OPS,302604192000,80,80,X,X,X,X
+1997,świętokrzyskie,konecki,Fałków,wiejska,OPS,302605012000,32,32,X,X,X,X
+1998,świętokrzyskie,konecki,Gowarczów,wiejska,OPS,302605022000,21,21,X,X,X,X
+1999,świętokrzyskie,konecki,Końskie,miejsko-wiejska,OPS,302605033000,143,143,X,X,X,X
+2000,świętokrzyskie,konecki,Radoszyce,miejsko-wiejska,OPS,302605042000,32,32,X,X,X,X
+2001,świętokrzyskie,konecki,Ruda Maleniecka,wiejska,OPS,302605052000,12,12,X,X,X,X
+2002,świętokrzyskie,konecki,Słupia Konecka,wiejska,OPS,302605062000,31,31,X,X,X,X
+2003,świętokrzyskie,konecki,Smyków,wiejska,OPS,302605072000,20,20,X,X,X,X
+2004,świętokrzyskie,konecki,Stąporków,miejsko-wiejska,OPS,302605083000,80,80,X,X,X,X
+2005,świętokrzyskie,opatowski,Baćkowice,wiejska,OPS,302606012000,24,24,X,X,X,X
+2006,świętokrzyskie,opatowski,Iwaniska,wiejska,OPS,302606022000,36,36,X,X,X,X
+2007,świętokrzyskie,opatowski,Lipnik,wiejska,OPS,302606032000,43,43,X,X,X,X
+2008,świętokrzyskie,opatowski,Opatów,miejsko-wiejska,OPS,302606043000,85,85,X,X,X,X
+2009,świętokrzyskie,opatowski,Ożarów,miejsko-wiejska,OPS,302606053000,48,48,X,X,X,X
+2010,świętokrzyskie,opatowski,Sadowie,wiejska,OPS,302606062000,28,28,X,X,X,X
+2011,świętokrzyskie,opatowski,Tarłów,wiejska,OPS,302606072000,35,35,X,X,X,X
+2012,świętokrzyskie,opatowski,Wojciechowice,wiejska,OPS,302606082000,20,20,X,X,X,X
+2013,świętokrzyskie,ostrowiecki,Bałtów,wiejska,OPS,302607022000,8,8,X,X,X,X
+2014,świętokrzyskie,ostrowiecki,Bodzechów,wiejska,OPS,302607032000,0,0,X,X,X,X
+2015,świętokrzyskie,ostrowiecki,Ćmielów,miejsko-wiejska,OPS,302607043000,25,25,X,X,X,X
+2016,świętokrzyskie,ostrowiecki,Kunów,miejsko-wiejska,OPS,302607053000,61,61,X,X,X,X
+2017,świętokrzyskie,ostrowiecki,Ostrowiec Świętokrzyski,miejska,OPS,302607011000,396,396,X,X,X,X
+2018,świętokrzyskie,ostrowiecki,Waśniów,wiejska,OPS,302607062000,55,55,X,X,X,X
+2019,świętokrzyskie,pińczowski,Działoszyce,miejsko-wiejska,OPS,302608013000,25,25,X,X,X,X
+2020,świętokrzyskie,pińczowski,Kije,wiejska,OPS,302608022000,41,41,X,X,X,X
+2021,świętokrzyskie,pińczowski,Michałów,wiejska,OPS,302608032000,14,14,X,X,X,X
+2022,świętokrzyskie,pińczowski,Pińczów,miejsko-wiejska,OPS,302608043000,235,235,X,X,X,X
+2023,świętokrzyskie,pińczowski,Złota,wiejska,OPS,302608052000,13,13,X,X,X,X
+2024,świętokrzyskie,sandomierski,Dwikozy,wiejska,OPS,302609022000,75,75,X,X,X,X
+2025,świętokrzyskie,sandomierski,Klimontów,wiejska,OPS,302609032000,48,48,X,X,X,X
+2026,świętokrzyskie,sandomierski,Koprzywnica,miejsko-wiejska,OPS,302609043000,74,74,X,X,X,X
+2027,świętokrzyskie,sandomierski,Łoniów,wiejska,OPS,302609052000,56,56,X,X,X,X
+2028,świętokrzyskie,sandomierski,Obrazów,wiejska,OPS,302609062000,19,19,X,X,X,X
+2029,świętokrzyskie,sandomierski,Samborzec,wiejska,OPS,302609072000,70,70,X,X,X,X
+2030,świętokrzyskie,sandomierski,Sandomierz,miejska,OPS,302609011000,169,169,X,X,X,X
+2031,świętokrzyskie,sandomierski,Wilczyce,wiejska,OPS,302609082000,59,59,X,X,X,X
+2032,świętokrzyskie,sandomierski,Zawichost,miejsko-wiejska,OPS,302609093000,22,22,X,X,X,X
+2033,świętokrzyskie,skarżyski,Bliżyn,wiejska,OPS,302610022000,16,16,X,X,X,X
+2034,świętokrzyskie,skarżyski,Łączna,wiejska,OPS,302610032000,6,6,X,X,X,X
+2035,świętokrzyskie,skarżyski,Skarżysko Kościelne,wiejska,OPS,302610042000,50,50,X,X,X,X
+2036,świętokrzyskie,skarżyski,Skarżysko-Kamienna,miejska,OPS,302610011000,179,179,X,X,X,X
+2037,świętokrzyskie,skarżyski,Suchedniów,miejsko-wiejska,OPS,302610053000,17,17,X,X,X,X
+2038,świętokrzyskie,starachowicki,Brody,wiejska,OPS,302611022000,97,97,X,X,X,X
+2039,świętokrzyskie,starachowicki,Mirzec,wiejska,OPS,302611032000,76,76,X,X,X,X
+2040,świętokrzyskie,starachowicki,Pawłów,wiejska,OPS,302611042000,159,159,X,X,X,X
+2041,świętokrzyskie,starachowicki,Starachowice,miejska,OPS,302611011000,393,393,X,X,X,X
+2042,świętokrzyskie,starachowicki,Wąchock,miejsko-wiejska,OPS,302611053000,46,46,X,X,X,X
+2043,świętokrzyskie,staszowski,Bogoria,wiejska,OPS,302612012000,39,39,X,X,X,X
+2044,świętokrzyskie,staszowski,Łubnice,wiejska,OPS,302612022000,51,51,X,X,X,X
+2045,świętokrzyskie,staszowski,Oleśnica,wiejska,OPS,302612032000,24,24,X,X,X,X
+2046,świętokrzyskie,staszowski,Osiek,miejsko-wiejska,OPS,302612043000,59,59,X,X,X,X
+2047,świętokrzyskie,staszowski,Połaniec,miejsko-wiejska,OPS,302612053000,49,49,X,X,X,X
+2048,świętokrzyskie,staszowski,Rytwiany,wiejska,OPS,302612062000,30,30,X,X,X,X
+2049,świętokrzyskie,staszowski,Staszów,miejsko-wiejska,OPS,302612073000,134,134,X,X,X,X
+2050,świętokrzyskie,staszowski,Szydłów,wiejska,OPS,302612082000,13,13,X,X,X,X
+2051,świętokrzyskie,włoszczowski,Kluczewsko,wiejska,OPS,302613012000,17,17,X,X,X,X
+2052,świętokrzyskie,włoszczowski,Krasocin,wiejska,OPS,302613022000,110,110,X,X,X,X
+2053,świętokrzyskie,włoszczowski,Moskorzew,wiejska,OPS,302613032000,8,8,X,X,X,X
+2054,świętokrzyskie,włoszczowski,Radków,wiejska,OPS,302613042000,16,16,X,X,X,X
+2055,świętokrzyskie,włoszczowski,Secemin,wiejska,OPS,302613052000,32,32,X,X,X,X
+2056,świętokrzyskie,włoszczowski,Włoszczowa,miejsko-wiejska,OPS,302613063000,82,82,X,X,X,X
+2057,warmińsko-mazurskie,-,-,-,WPS,102800000000,6599,6599,X,X,X,X
+2058,warmińsko-mazurskie,bartoszycki,Bartoszyce,miejska,OPS,302801011000,219,219,X,X,X,X
+2059,warmińsko-mazurskie,bartoszycki,Bartoszyce,wiejska,OPS,302801032000,88,88,X,X,X,X
+2060,warmińsko-mazurskie,bartoszycki,Bisztynek,miejsko-wiejska,OPS,302801043000,21,21,X,X,X,X
+2061,warmińsko-mazurskie,bartoszycki,Górowo Iławeckie,miejska,OPS,302801021000,8,8,X,X,X,X
+2062,warmińsko-mazurskie,bartoszycki,Górowo Iławeckie,wiejska,OPS,302801052000,25,25,X,X,X,X
+2063,warmińsko-mazurskie,bartoszycki,Sępopol,miejsko-wiejska,OPS,302801063000,40,40,X,X,X,X
+2064,warmińsko-mazurskie,braniewski,Braniewo,miejska,OPS,302802011000,51,51,X,X,X,X
+2065,warmińsko-mazurskie,braniewski,Braniewo,wiejska,OPS,302802022000,20,20,X,X,X,X
+2066,warmińsko-mazurskie,braniewski,Frombork,miejsko-wiejska,OPS,302802033000,13,13,X,X,X,X
+2067,warmińsko-mazurskie,braniewski,Lelkowo,wiejska,OPS,302802042000,5,5,X,X,X,X
+2068,warmińsko-mazurskie,braniewski,Pieniężno,miejsko-wiejska,OPS,302802053000,13,13,X,X,X,X
+2069,warmińsko-mazurskie,braniewski,Płoskinia,wiejska,OPS,302802062000,3,3,X,X,X,X
+2070,warmińsko-mazurskie,braniewski,Wilczęta,wiejska,OPS,302802072000,20,20,X,X,X,X
+2071,warmińsko-mazurskie,działdowski,Działdowo,miejska,OPS,302803011000,240,240,X,X,X,X
+2072,warmińsko-mazurskie,działdowski,Działdowo,wiejska,OPS,302803022000,65,65,X,X,X,X
+2073,warmińsko-mazurskie,działdowski,Iłowo-Osada,wiejska,OPS,302803032000,82,82,X,X,X,X
+2074,warmińsko-mazurskie,działdowski,Lidzbark,miejsko-wiejska,OPS,302803043000,89,89,X,X,X,X
+2075,warmińsko-mazurskie,działdowski,Płośnica,wiejska,OPS,302803052000,31,31,X,X,X,X
+2076,warmińsko-mazurskie,działdowski,Rybno,wiejska,OPS,302803062000,28,28,X,X,X,X
+2077,warmińsko-mazurskie,m. Elbląg,M. Elbląg,miejska,MOPR,252861011000,437,437,X,X,X,X
+2078,warmińsko-mazurskie,elbląski,Elbląg,wiejska,OPS,302804012000,26,26,X,X,X,X
+2079,warmińsko-mazurskie,elbląski,Godkowo,wiejska,OPS,302804022000,18,18,X,X,X,X
+2080,warmińsko-mazurskie,elbląski,Gronowo Elbląskie,wiejska,OPS,302804032000,17,17,X,X,X,X
+2081,warmińsko-mazurskie,elbląski,Markusy,wiejska,OPS,302804042000,7,7,X,X,X,X
+2082,warmińsko-mazurskie,elbląski,Milejewo,wiejska,OPS,302804052000,10,10,X,X,X,X
+2083,warmińsko-mazurskie,elbląski,Młynary,miejsko-wiejska,OPS,302804063000,24,24,X,X,X,X
+2084,warmińsko-mazurskie,elbląski,Pasłęk,miejsko-wiejska,OPS,302804073000,130,130,X,X,X,X
+2085,warmińsko-mazurskie,elbląski,Rychliki,wiejska,OPS,302804082000,35,35,X,X,X,X
+2086,warmińsko-mazurskie,elbląski,Tolkmicko,miejsko-wiejska,OPS,302804093000,58,58,X,X,X,X
+2087,warmińsko-mazurskie,ełcki,Ełk,miejska,OPS,302805011000,235,235,X,X,X,X
+2088,warmińsko-mazurskie,ełcki,Ełk,wiejska,OPS,302805022000,81,81,X,X,X,X
+2089,warmińsko-mazurskie,ełcki,Kalinowo,wiejska,OPS,302805032000,60,60,X,X,X,X
+2090,warmińsko-mazurskie,ełcki,Prostki,wiejska,OPS,302805042000,28,28,X,X,X,X
+2091,warmińsko-mazurskie,ełcki,Stare Juchy,wiejska,OPS,302805052000,17,17,X,X,X,X
+2092,warmińsko-mazurskie,giżycki,Giżycko,miejska,OPS,302806011000,54,54,X,X,X,X
+2093,warmińsko-mazurskie,giżycki,Giżycko,wiejska,OPS,302806042000,14,14,X,X,X,X
+2094,warmińsko-mazurskie,giżycki,Kruklanki,wiejska,OPS,302806052000,20,20,X,X,X,X
+2095,warmińsko-mazurskie,giżycki,Miłki,wiejska,OPS,302806062000,13,13,X,X,X,X
+2096,warmińsko-mazurskie,giżycki,Ryn,miejsko-wiejska,OPS,302806083000,18,18,X,X,X,X
+2097,warmińsko-mazurskie,giżycki,Wydminy,wiejska,OPS,302806102000,7,7,X,X,X,X
+2098,warmińsko-mazurskie,gołdapski,Banie Mazurskie,wiejska,OPS,302818012000,17,17,X,X,X,X
+2099,warmińsko-mazurskie,gołdapski,Dubeninki,wiejska,OPS,302818022000,35,35,X,X,X,X
+2100,warmińsko-mazurskie,gołdapski,Gołdap,miejsko-wiejska,OPS,302818033000,100,100,X,X,X,X
+2101,warmińsko-mazurskie,iławski,Iława,miejska,OPS,302807011000,75,75,X,X,X,X
+2102,warmińsko-mazurskie,iławski,Iława,wiejska,OPS,302807032000,37,37,X,X,X,X
+2103,warmińsko-mazurskie,iławski,Kisielice,miejsko-wiejska,OPS,302807043000,57,57,X,X,X,X
+2104,warmińsko-mazurskie,iławski,Lubawa,miejska,OPS,302807021000,75,75,X,X,X,X
+2105,warmińsko-mazurskie,iławski,Lubawa,wiejska,OPS,302807052000,6,6,X,X,X,X
+2106,warmińsko-mazurskie,iławski,Susz,miejsko-wiejska,OPS,302807063000,49,49,X,X,X,X
+2107,warmińsko-mazurskie,iławski,Zalewo,miejsko-wiejska,OPS,302807073000,52,52,X,X,X,X
+2108,warmińsko-mazurskie,kętrzyński,Barciany,wiejska,OPS,302808022000,54,54,X,X,X,X
+2109,warmińsko-mazurskie,kętrzyński,Kętrzyn,miejska,OPS,302808011000,78,78,X,X,X,X
+2110,warmińsko-mazurskie,kętrzyński,Kętrzyn,wiejska,OPS,302808032000,59,59,X,X,X,X
+2111,warmińsko-mazurskie,kętrzyński,Korsze,miejsko-wiejska,OPS,302808043000,33,33,X,X,X,X
+2112,warmińsko-mazurskie,kętrzyński,Reszel,miejsko-wiejska,OPS,302808053000,19,19,X,X,X,X
+2113,warmińsko-mazurskie,kętrzyński,Srokowo,wiejska,OPS,302808062000,19,19,X,X,X,X
+2114,warmińsko-mazurskie,lidzbarski,Kiwity,wiejska,OPS,302809022000,39,39,X,X,X,X
+2115,warmińsko-mazurskie,lidzbarski,Lidzbark Warmiński,miejska,OPS,302809011000,94,94,X,X,X,X
+2116,warmińsko-mazurskie,lidzbarski,Lidzbark Warmiński,wiejska,OPS,302809032000,47,47,X,X,X,X
+2117,warmińsko-mazurskie,lidzbarski,Lubomino,wiejska,OPS,302809042000,17,17,X,X,X,X
+2118,warmińsko-mazurskie,lidzbarski,Orneta,miejsko-wiejska,OPS,302809053000,70,70,X,X,X,X
+2119,warmińsko-mazurskie,mrągowski,Mikołajki,miejsko-wiejska,OPS,302810023000,13,13,X,X,X,X
+2120,warmińsko-mazurskie,mrągowski,Mrągowo,miejska,OPS,302810011000,107,107,X,X,X,X
+2121,warmińsko-mazurskie,mrągowski,Mrągowo,wiejska,OPS,302810032000,21,21,X,X,X,X
+2122,warmińsko-mazurskie,mrągowski,Piecki,wiejska,OPS,302810042000,72,72,X,X,X,X
+2123,warmińsko-mazurskie,mrągowski,Sorkwity,wiejska,OPS,302810052000,36,36,X,X,X,X
+2124,warmińsko-mazurskie,nidzicki,Janowiec Kościelny,wiejska,OPS,302811012000,19,19,X,X,X,X
+2125,warmińsko-mazurskie,nidzicki,Janowo,wiejska,OPS,302811022000,6,6,X,X,X,X
+2126,warmińsko-mazurskie,nidzicki,Kozłowo,wiejska,OPS,302811032000,41,41,X,X,X,X
+2127,warmińsko-mazurskie,nidzicki,Nidzica,miejsko-wiejska,OPS,302811043000,103,103,X,X,X,X
+2128,warmińsko-mazurskie,nowomiejski,Biskupiec,wiejska,OPS,302812022000,37,37,X,X,X,X
+2129,warmińsko-mazurskie,nowomiejski,Grodziczno,wiejska,OPS,302812032000,40,40,X,X,X,X
+2130,warmińsko-mazurskie,nowomiejski,Kurzętnik,wiejska,OPS,302812042000,42,42,X,X,X,X
+2131,warmińsko-mazurskie,nowomiejski,Nowe Miasto Lubawskie,miejska,OPS,302812011000,41,41,X,X,X,X
+2132,warmińsko-mazurskie,nowomiejski,Nowe Miasto Lubawskie,wiejska,OPS,302812052000,40,40,X,X,X,X
+2133,warmińsko-mazurskie,olecki,Kowale Oleckie,wiejska,OPS,302813032000,50,50,X,X,X,X
+2134,warmińsko-mazurskie,olecki,Olecko,miejsko-wiejska,OPS,302813043000,155,155,X,X,X,X
+2135,warmińsko-mazurskie,olecki,Świętajno,wiejska,OPS,302813052000,39,39,X,X,X,X
+2136,warmińsko-mazurskie,olecki,Wieliczki,wiejska,OPS,302813062000,23,23,X,X,X,X
+2137,warmińsko-mazurskie,m. Olsztyn,M. Olsztyn,miejska,MOPR,252862011000,560,560,X,X,X,X
+2138,warmińsko-mazurskie,olsztyński,Barczewo,miejsko-wiejska,OPS,302814013000,63,63,X,X,X,X
+2139,warmińsko-mazurskie,olsztyński,Biskupiec,miejsko-wiejska,OPS,302814023000,97,97,X,X,X,X
+2140,warmińsko-mazurskie,olsztyński,Dobre Miasto,miejsko-wiejska,OPS,302814033000,72,72,X,X,X,X
+2141,warmińsko-mazurskie,olsztyński,Dywity,wiejska,OPS,302814042000,64,64,X,X,X,X
+2142,warmińsko-mazurskie,olsztyński,Gietrzwałd,wiejska,OPS,302814052000,28,28,X,X,X,X
+2143,warmińsko-mazurskie,olsztyński,Jeziorany,miejsko-wiejska,OPS,302814063000,55,55,X,X,X,X
+2144,warmińsko-mazurskie,olsztyński,Jonkowo,wiejska,OPS,302814072000,19,19,X,X,X,X
+2145,warmińsko-mazurskie,olsztyński,Kolno,wiejska,OPS,302814082000,3,3,X,X,X,X
+2146,warmińsko-mazurskie,olsztyński,Olsztynek,miejsko-wiejska,OPS,302814093000,43,43,X,X,X,X
+2147,warmińsko-mazurskie,olsztyński,Purda,wiejska,OPS,302814102000,25,25,X,X,X,X
+2148,warmińsko-mazurskie,olsztyński,Stawiguda,wiejska,OPS,302814112000,23,23,X,X,X,X
+2149,warmińsko-mazurskie,olsztyński,Świątki,wiejska,OPS,302814122000,18,18,X,X,X,X
+2150,warmińsko-mazurskie,ostródzki,Dąbrówno,wiejska,OPS,302815022000,23,23,X,X,X,X
+2151,warmińsko-mazurskie,ostródzki,Grunwald,wiejska,OPS,302815032000,53,53,X,X,X,X
+2152,warmińsko-mazurskie,ostródzki,Łukta,wiejska,OPS,302815042000,35,35,X,X,X,X
+2153,warmińsko-mazurskie,ostródzki,Małdyty,wiejska,OPS,302815052000,48,48,X,X,X,X
+2154,warmińsko-mazurskie,ostródzki,Miłakowo,miejsko-wiejska,OPS,302815063000,31,31,X,X,X,X
+2155,warmińsko-mazurskie,ostródzki,Miłomłyn,miejsko-wiejska,OPS,302815073000,12,12,X,X,X,X
+2156,warmińsko-mazurskie,ostródzki,Morąg,miejsko-wiejska,OPS,302815083000,65,65,X,X,X,X
+2157,warmińsko-mazurskie,ostródzki,Ostróda,miejska,OPS,302815011000,43,43,X,X,X,X
+2158,warmińsko-mazurskie,ostródzki,Ostróda,wiejska,OPS,302815092000,41,41,X,X,X,X
+2159,warmińsko-mazurskie,piski,Biała Piska,miejsko-wiejska,OPS,302816013000,45,45,X,X,X,X
+2160,warmińsko-mazurskie,piski,Orzysz,miejsko-wiejska,OPS,302816023000,145,145,X,X,X,X
+2161,warmińsko-mazurskie,piski,Pisz,miejsko-wiejska,OPS,302816033000,268,268,X,X,X,X
+2162,warmińsko-mazurskie,piski,Ruciane-Nida,miejsko-wiejska,OPS,302816043000,35,35,X,X,X,X
+2163,warmińsko-mazurskie,szczycieński,Dźwierzuty,wiejska,OPS,302817022000,2,2,X,X,X,X
+2164,warmińsko-mazurskie,szczycieński,Jedwabno,wiejska,OPS,302817032000,28,28,X,X,X,X
+2165,warmińsko-mazurskie,szczycieński,Pasym,miejsko-wiejska,OPS,302817043000,13,13,X,X,X,X
+2166,warmińsko-mazurskie,szczycieński,Rozogi,wiejska,OPS,302817052000,12,12,X,X,X,X
+2167,warmińsko-mazurskie,szczycieński,Szczytno,miejska,OPS,302817011000,95,95,X,X,X,X
+2168,warmińsko-mazurskie,szczycieński,Szczytno,wiejska,OPS,302817062000,30,30,X,X,X,X
+2169,warmińsko-mazurskie,szczycieński,Świętajno,wiejska,OPS,302817072000,5,5,X,X,X,X
+2170,warmińsko-mazurskie,szczycieński,Wielbark,wiejska,OPS,302817082000,16,16,X,X,X,X
+2171,warmińsko-mazurskie,węgorzewski,Budry,wiejska,OPS,302819012000,36,36,X,X,X,X
+2172,warmińsko-mazurskie,węgorzewski,Pozezdrze,wiejska,OPS,302819022000,8,8,X,X,X,X
+2173,warmińsko-mazurskie,węgorzewski,Węgorzewo,miejsko-wiejska,OPS,302819033000,153,153,X,X,X,X
+2174,wielkopolskie,-,-,-,WPS,103000000000,16671,16671,X,X,X,X
+2175,wielkopolskie,chodzieski,Budzyń,wiejska,OPS,303001022000,22,22,X,X,X,X
+2176,wielkopolskie,chodzieski,Chodzież,miejska,OPS,303001011000,153,153,X,X,X,X
+2177,wielkopolskie,chodzieski,Chodzież,wiejska,OPS,303001032000,19,19,X,X,X,X
+2178,wielkopolskie,chodzieski,Margonin,miejsko-wiejska,OPS,303001043000,31,31,X,X,X,X
+2179,wielkopolskie,chodzieski,Szamocin,miejsko-wiejska,OPS,303001053000,56,56,X,X,X,X
+2180,wielkopolskie,czarnkowsko-trzcianecki,Czarnków,miejska,OPS,303002011000,27,27,X,X,X,X
+2181,wielkopolskie,czarnkowsko-trzcianecki,Czarnków,wiejska,OPS,303002022000,35,35,X,X,X,X
+2182,wielkopolskie,czarnkowsko-trzcianecki,Drawsko,wiejska,OPS,303002032000,53,53,X,X,X,X
+2183,wielkopolskie,czarnkowsko-trzcianecki,Krzyż Wielkopolski,miejsko-wiejska,OPS,303002043000,34,34,X,X,X,X
+2184,wielkopolskie,czarnkowsko-trzcianecki,Lubasz,wiejska,OPS,303002052000,22,22,X,X,X,X
+2185,wielkopolskie,czarnkowsko-trzcianecki,Połajewo,wiejska,OPS,303002062000,39,39,X,X,X,X
+2186,wielkopolskie,czarnkowsko-trzcianecki,Trzcianka,miejsko-wiejska,OPS,303002073000,125,125,X,X,X,X
+2187,wielkopolskie,czarnkowsko-trzcianecki,Wieleń,miejsko-wiejska,OPS,303002083000,119,119,X,X,X,X
+2188,wielkopolskie,gnieźnieński,Czerniejewo,miejsko-wiejska,OPS,303003023000,58,58,X,X,X,X
+2189,wielkopolskie,gnieźnieński,Gniezno,miejska,OPS,303003011000,352,352,X,X,X,X
+2190,wielkopolskie,gnieźnieński,Gniezno,wiejska,OPS,303003032000,11,11,X,X,X,X
+2191,wielkopolskie,gnieźnieński,Kiszkowo,wiejska,OPS,303003042000,30,30,X,X,X,X
+2192,wielkopolskie,gnieźnieński,Kłecko,miejsko-wiejska,OPS,303003053000,52,52,X,X,X,X
+2193,wielkopolskie,gnieźnieński,Łubowo,wiejska,OPS,303003062000,37,37,X,X,X,X
+2194,wielkopolskie,gnieźnieński,Mieleszyn,wiejska,OPS,303003072000,20,20,X,X,X,X
+2195,wielkopolskie,gnieźnieński,Niechanowo,wiejska,OPS,303003082000,6,6,X,X,X,X
+2196,wielkopolskie,gnieźnieński,Trzemeszno,miejsko-wiejska,OPS,303003093000,74,74,X,X,X,X
+2197,wielkopolskie,gnieźnieński,Witkowo,miejsko-wiejska,OPS,303003103000,90,90,X,X,X,X
+2198,wielkopolskie,gostyński,Borek Wielkopolski,miejsko-wiejska,OPS,303004013000,20,20,X,X,X,X
+2199,wielkopolskie,gostyński,Gostyń,miejsko-wiejska,OPS,303004023000,63,63,X,X,X,X
+2200,wielkopolskie,gostyński,Krobia,miejsko-wiejska,OPS,303004033000,30,30,X,X,X,X
+2201,wielkopolskie,gostyński,Pępowo,wiejska,OPS,303004042000,17,17,X,X,X,X
+2202,wielkopolskie,gostyński,Piaski,wiejska,OPS,303004052000,14,14,X,X,X,X
+2203,wielkopolskie,gostyński,Pogorzela,miejsko-wiejska,OPS,303004063000,10,10,X,X,X,X
+2204,wielkopolskie,gostyński,Poniec,miejsko-wiejska,OPS,303004073000,5,5,X,X,X,X
+2205,wielkopolskie,grodziski,Granowo,wiejska,OPS,303005012000,30,30,X,X,X,X
+2206,wielkopolskie,grodziski,Grodzisk Wielkopolski,miejsko-wiejska,OPS,303005023000,97,97,X,X,X,X
+2207,wielkopolskie,grodziski,Kamieniec,wiejska,OPS,303005032000,41,41,X,X,X,X
+2208,wielkopolskie,grodziski,Rakoniewice,miejsko-wiejska,OPS,303005043000,42,42,X,X,X,X
+2209,wielkopolskie,grodziski,Wielichowo,miejsko-wiejska,OPS,303005053000,18,18,X,X,X,X
+2210,wielkopolskie,jarociński,Jaraczewo,miejsko-wiejska,OPS,303006012000,36,36,X,X,X,X
+2211,wielkopolskie,jarociński,Jarocin,miejsko-wiejska,OPS,303006023000,266,266,X,X,X,X
+2212,wielkopolskie,jarociński,Kotlin,wiejska,OPS,303006032000,34,34,X,X,X,X
+2213,wielkopolskie,jarociński,Żerków,miejsko-wiejska,OPS,303006043000,28,28,X,X,X,X
+2214,wielkopolskie,kaliski,Blizanów,wiejska,OPS,303007012000,11,11,X,X,X,X
+2215,wielkopolskie,kaliski,Brzeziny,wiejska,OPS,303007022000,38,38,X,X,X,X
+2216,wielkopolskie,kaliski,Ceków-Kolonia,wiejska,OPS,303007032000,21,21,X,X,X,X
+2217,wielkopolskie,kaliski,Godziesze Wielkie,wiejska,OPS,303007042000,27,27,X,X,X,X
+2218,wielkopolskie,kaliski,Koźminek,wiejska,OPS,303007052000,31,31,X,X,X,X
+2219,wielkopolskie,kaliski,Lisków,wiejska,OPS,303007062000,7,7,X,X,X,X
+2220,wielkopolskie,kaliski,Mycielin,wiejska,OPS,303007072000,12,12,X,X,X,X
+2221,wielkopolskie,kaliski,Opatówek,miejsko-wiejska,OPS,303007082000,44,44,X,X,X,X
+2222,wielkopolskie,kaliski,Stawiszyn,miejsko-wiejska,OPS,303007093000,27,27,X,X,X,X
+2223,wielkopolskie,kaliski,Szczytniki,wiejska,OPS,303007102000,30,30,X,X,X,X
+2224,wielkopolskie,kaliski,Żelazków,wiejska,OPS,303007112000,82,82,X,X,X,X
+2225,wielkopolskie,m. Kalisz,M. Kalisz,miejska,MOPR,253061011000,547,547,X,X,X,X
+2226,wielkopolskie,kępiński,Baranów,wiejska,OPS,303008012000,86,86,X,X,X,X
+2227,wielkopolskie,kępiński,Bralin,wiejska,OPS,303008022000,25,25,X,X,X,X
+2228,wielkopolskie,kępiński,Kępno,miejsko-wiejska,OPS,303008033000,62,62,X,X,X,X
+2229,wielkopolskie,kępiński,Łęka Opatowska,wiejska,OPS,303008042000,28,28,X,X,X,X
+2230,wielkopolskie,kępiński,Perzów,wiejska,OPS,303008052000,42,42,X,X,X,X
+2231,wielkopolskie,kępiński,Rychtal,wiejska,OPS,303008062000,22,22,X,X,X,X
+2232,wielkopolskie,kępiński,Trzcinica,wiejska,OPS,303008072000,22,22,X,X,X,X
+2233,wielkopolskie,kolski,Babiak,wiejska,OPS,303009022000,50,50,X,X,X,X
+2234,wielkopolskie,kolski,Chodów,wiejska,OPS,303009032000,13,13,X,X,X,X
+2235,wielkopolskie,kolski,Dąbie,miejsko-wiejska,OPS,303009043000,9,9,X,X,X,X
+2236,wielkopolskie,kolski,Grzegorzew,wiejska,OPS,303009052000,34,34,X,X,X,X
+2237,wielkopolskie,kolski,Kłodawa,miejsko-wiejska,OPS,303009063000,35,35,X,X,X,X
+2238,wielkopolskie,kolski,Koło,miejska,OPS,303009011000,174,174,X,X,X,X
+2239,wielkopolskie,kolski,Koło,wiejska,OPS,303009072000,23,23,X,X,X,X
+2240,wielkopolskie,kolski,Kościelec,wiejska,OPS,303009082000,31,31,X,X,X,X
+2241,wielkopolskie,kolski,Olszówka,wiejska,OPS,303009092000,22,22,X,X,X,X
+2242,wielkopolskie,kolski,Osiek Mały,wiejska,OPS,303009102000,34,34,X,X,X,X
+2243,wielkopolskie,kolski,Przedecz,miejsko-wiejska,OPS,303009113000,19,19,X,X,X,X
+2244,wielkopolskie,m. Konin,M. Konin,miejska,MOPR,253062011000,347,347,X,X,X,X
+2245,wielkopolskie,koniński,Golina,miejsko-wiejska,OPS,303010013000,22,22,X,X,X,X
+2246,wielkopolskie,koniński,Grodziec,wiejska,OPS,303010022000,12,12,X,X,X,X
+2247,wielkopolskie,koniński,Kazimierz Biskupi,wiejska,OPS,303010032000,18,18,X,X,X,X
+2248,wielkopolskie,koniński,Kleczew,miejsko-wiejska,OPS,303010043000,32,32,X,X,X,X
+2249,wielkopolskie,koniński,Kramsk,wiejska,OPS,303010052000,29,29,X,X,X,X
+2250,wielkopolskie,koniński,Krzymów,wiejska,OPS,303010062000,77,77,X,X,X,X
+2251,wielkopolskie,koniński,Rychwał,miejsko-wiejska,OPS,303010073000,27,27,X,X,X,X
+2252,wielkopolskie,koniński,Rzgów,wiejska,OPS,303010082000,45,45,X,X,X,X
+2253,wielkopolskie,koniński,Skulsk,wiejska,OPS,303010092000,8,8,X,X,X,X
+2254,wielkopolskie,koniński,Sompolno,miejsko-wiejska,OPS,303010103000,3,3,X,X,X,X
+2255,wielkopolskie,koniński,Stare Miasto,wiejska,OPS,303010112000,0,0,X,X,X,X
+2256,wielkopolskie,koniński,Ślesin,miejsko-wiejska,OPS,303010123000,86,86,X,X,X,X
+2257,wielkopolskie,koniński,Wierzbinek,wiejska,OPS,303010132000,24,24,X,X,X,X
+2258,wielkopolskie,koniński,Wilczyn,wiejska,OPS,303010142000,45,45,X,X,X,X
+2259,wielkopolskie,kościański,Czempiń,miejsko-wiejska,OPS,303011023000,113,113,X,X,X,X
+2260,wielkopolskie,kościański,Kościan,miejska,OPS,303011011000,239,239,X,X,X,X
+2261,wielkopolskie,kościański,Kościan,wiejska,OPS,303011032000,105,105,X,X,X,X
+2262,wielkopolskie,kościański,Krzywiń,miejsko-wiejska,OPS,303011043000,46,46,X,X,X,X
+2263,wielkopolskie,kościański,Śmigiel,miejsko-wiejska,OPS,303011053000,68,68,X,X,X,X
+2264,wielkopolskie,krotoszyński,Kobylin,miejsko-wiejska,OPS,303012023000,32,32,X,X,X,X
+2265,wielkopolskie,krotoszyński,Koźmin Wielkopolski,miejsko-wiejska,OPS,303012033000,14,14,X,X,X,X
+2266,wielkopolskie,krotoszyński,Krotoszyn,miejsko-wiejska,OPS,303012043000,40,40,X,X,X,X
+2267,wielkopolskie,krotoszyński,Rozdrażew,wiejska,OPS,303012052000,31,31,X,X,X,X
+2268,wielkopolskie,krotoszyński,Sulmierzyce,miejska,OPS,303012011000,29,29,X,X,X,X
+2269,wielkopolskie,krotoszyński,Zduny,miejsko-wiejska,OPS,303012063000,38,38,X,X,X,X
+2270,wielkopolskie,leszczyński,Krzemieniewo,wiejska,OPS,303013012000,27,27,X,X,X,X
+2271,wielkopolskie,leszczyński,Lipno,wiejska,OPS,303013022000,29,29,X,X,X,X
+2272,wielkopolskie,leszczyński,Osieczna,miejsko-wiejska,OPS,303013033000,22,22,X,X,X,X
+2273,wielkopolskie,leszczyński,Rydzyna,miejsko-wiejska,OPS,303013043000,63,63,X,X,X,X
+2274,wielkopolskie,leszczyński,Święciechowa,wiejska,OPS,303013052000,29,29,X,X,X,X
+2275,wielkopolskie,leszczyński,Wijewo,wiejska,OPS,303013062000,28,28,X,X,X,X
+2276,wielkopolskie,leszczyński,Włoszakowice,wiejska,OPS,303013072000,42,42,X,X,X,X
+2277,wielkopolskie,m. Leszno,M. Leszno,miejska,MOPR,253063011000,166,166,X,X,X,X
+2278,wielkopolskie,międzychodzki,Chrzypsko Wielkie,wiejska,OPS,303014012000,16,16,X,X,X,X
+2279,wielkopolskie,międzychodzki,Kwilcz,wiejska,OPS,303014022000,11,11,X,X,X,X
+2280,wielkopolskie,międzychodzki,Międzychód,miejsko-wiejska,OPS,303014033000,36,36,X,X,X,X
+2281,wielkopolskie,międzychodzki,Sieraków,miejsko-wiejska,OPS,303014043000,32,32,X,X,X,X
+2282,wielkopolskie,nowotomyski,Kuślin,wiejska,OPS,303015012000,4,4,X,X,X,X
+2283,wielkopolskie,nowotomyski,Lwówek,miejsko-wiejska,OPS,303015023000,11,11,X,X,X,X
+2284,wielkopolskie,nowotomyski,Miedzichowo,wiejska,OPS,303015032000,6,6,X,X,X,X
+2285,wielkopolskie,nowotomyski,Nowy Tomyśl,miejsko-wiejska,OPS,303015043000,111,111,X,X,X,X
+2286,wielkopolskie,nowotomyski,Opalenica,miejsko-wiejska,OPS,303015053000,41,41,X,X,X,X
+2287,wielkopolskie,nowotomyski,Zbąszyń,miejsko-wiejska,OPS,303015063000,30,30,X,X,X,X
+2288,wielkopolskie,obornicki,Oborniki,miejsko-wiejska,OPS,303016013000,132,132,X,X,X,X
+2289,wielkopolskie,obornicki,Rogoźno,miejsko-wiejska,OPS,303016023000,54,54,X,X,X,X
+2290,wielkopolskie,obornicki,Ryczywół,wiejska,OPS,303016032000,66,66,X,X,X,X
+2291,wielkopolskie,ostrowski,Nowe Skalmierzyce,miejsko-wiejska,OPS,303017023000,74,74,X,X,X,X
+2292,wielkopolskie,ostrowski,Odolanów,miejsko-wiejska,OPS,303017033000,243,243,X,X,X,X
+2293,wielkopolskie,ostrowski,Ostrów Wielkopolski,miejska,OPS,303017011000,442,442,X,X,X,X
+2294,wielkopolskie,ostrowski,Ostrów Wielkopolski,wiejska,OPS,303017042000,109,109,X,X,X,X
+2295,wielkopolskie,ostrowski,Przygodzice,wiejska,OPS,303017052000,64,64,X,X,X,X
+2296,wielkopolskie,ostrowski,Raszków,miejsko-wiejska,OPS,303017063000,141,141,X,X,X,X
+2297,wielkopolskie,ostrowski,Sieroszewice,wiejska,OPS,303017072000,0,0,X,X,X,X
+2298,wielkopolskie,ostrowski,Sośnie,wiejska,OPS,303017082000,128,128,X,X,X,X
+2299,wielkopolskie,ostrzeszowski,Czajków,wiejska,OPS,303018012000,10,10,X,X,X,X
+2300,wielkopolskie,ostrzeszowski,Doruchów,wiejska,OPS,303018022000,17,17,X,X,X,X
+2301,wielkopolskie,ostrzeszowski,Grabów nad Prosną,miejsko-wiejska,OPS,303018033000,21,21,X,X,X,X
+2302,wielkopolskie,ostrzeszowski,Kobyla Góra,wiejska,OPS,303018042000,6,6,X,X,X,X
+2303,wielkopolskie,ostrzeszowski,Kraszewice,wiejska,OPS,303018052000,17,17,X,X,X,X
+2304,wielkopolskie,ostrzeszowski,Mikstat,miejsko-wiejska,OPS,303018063000,17,17,X,X,X,X
+2305,wielkopolskie,ostrzeszowski,Ostrzeszów,miejsko-wiejska,OPS,303018073000,114,114,X,X,X,X
+2306,wielkopolskie,pilski,Białośliwie,wiejska,OPS,303019022000,22,22,X,X,X,X
+2307,wielkopolskie,pilski,Kaczory,wiejska,OPS,303019032000,25,25,X,X,X,X
+2308,wielkopolskie,pilski,Łobżenica,miejsko-wiejska,OPS,303019043000,20,20,X,X,X,X
+2309,wielkopolskie,pilski,Miasteczko Krajeńskie,wiejska,OPS,303019052000,7,7,X,X,X,X
+2310,wielkopolskie,pilski,Piła,miejska,OPS,303019011000,737,737,X,X,X,X
+2311,wielkopolskie,pilski,Szydłowo,wiejska,OPS,303019062000,55,55,X,X,X,X
+2312,wielkopolskie,pilski,Ujście,miejsko-wiejska,OPS,303019073000,32,32,X,X,X,X
+2313,wielkopolskie,pilski,Wyrzysk,miejsko-wiejska,OPS,303019083000,35,35,X,X,X,X
+2314,wielkopolskie,pilski,Wysoka,miejsko-wiejska,OPS,303019093000,21,21,X,X,X,X
+2315,wielkopolskie,pleszewski,Chocz,miejsko-wiejska,OPS,303020012000,40,40,X,X,X,X
+2316,wielkopolskie,pleszewski,Czermin,wiejska,OPS,303020022000,8,8,X,X,X,X
+2317,wielkopolskie,pleszewski,Dobrzyca,miejsko-wiejska,OPS,303020032000,12,12,X,X,X,X
+2318,wielkopolskie,pleszewski,Gizałki,wiejska,OPS,303020042000,51,51,X,X,X,X
+2319,wielkopolskie,pleszewski,Gołuchów,wiejska,OPS,303020052000,34,34,X,X,X,X
+2320,wielkopolskie,pleszewski,Pleszew,miejsko-wiejska,OPS,303020063000,49,49,X,X,X,X
+2321,wielkopolskie,m. Poznań,M. Poznań,miejska,MOPR,253064011000,2513,2513,X,X,X,X
+2322,wielkopolskie,poznański,Buk,miejsko-wiejska,OPS,303021033000,64,64,X,X,X,X
+2323,wielkopolskie,poznański,Czerwonak,wiejska,OPS,303021042000,190,190,X,X,X,X
+2324,wielkopolskie,poznański,Dopiewo,wiejska,OPS,303021052000,63,63,X,X,X,X
+2325,wielkopolskie,poznański,Kleszczewo,wiejska,OPS,303021062000,13,13,X,X,X,X
+2326,wielkopolskie,poznański,Komorniki,wiejska,OPS,303021072000,158,158,X,X,X,X
+2327,wielkopolskie,poznański,Kostrzyn,miejsko-wiejska,OPS,303021083000,150,150,X,X,X,X
+2328,wielkopolskie,poznański,Kórnik,miejsko-wiejska,OPS,303021093000,63,63,X,X,X,X
+2329,wielkopolskie,poznański,Luboń,miejska,OPS,303021011000,194,194,X,X,X,X
+2330,wielkopolskie,poznański,Mosina,miejsko-wiejska,OPS,303021103000,87,87,X,X,X,X
+2331,wielkopolskie,poznański,Murowana Goślina,miejsko-wiejska,OPS,303021113000,89,89,X,X,X,X
+2332,wielkopolskie,poznański,Pobiedziska,miejsko-wiejska,OPS,303021123000,134,134,X,X,X,X
+2333,wielkopolskie,poznański,Puszczykowo,miejska,OPS,303021021000,41,41,X,X,X,X
+2334,wielkopolskie,poznański,Rokietnica,wiejska,OPS,303021132000,51,51,X,X,X,X
+2335,wielkopolskie,poznański,Stęszew,miejsko-wiejska,OPS,303021143000,94,94,X,X,X,X
+2336,wielkopolskie,poznański,Suchy Las,wiejska,OPS,303021152000,115,115,X,X,X,X
+2337,wielkopolskie,poznański,Swarzędz,miejsko-wiejska,OPS,303021163000,85,85,X,X,X,X
+2338,wielkopolskie,poznański,Tarnowo Podgórne,wiejska,OPS,303021172000,186,186,X,X,X,X
+2339,wielkopolskie,rawicki,Bojanowo,miejsko-wiejska,OPS,303022013000,55,55,X,X,X,X
+2340,wielkopolskie,rawicki,Jutrosin,miejsko-wiejska,OPS,303022023000,51,51,X,X,X,X
+2341,wielkopolskie,rawicki,Miejska Górka,miejsko-wiejska,OPS,303022033000,13,13,X,X,X,X
+2342,wielkopolskie,rawicki,Pakosław,wiejska,OPS,303022042000,23,23,X,X,X,X
+2343,wielkopolskie,rawicki,Rawicz,miejsko-wiejska,OPS,303022053000,158,158,X,X,X,X
+2344,wielkopolskie,słupecki,Lądek,wiejska,OPS,303023022000,5,5,X,X,X,X
+2345,wielkopolskie,słupecki,Orchowo,wiejska,OPS,303023032000,45,45,X,X,X,X
+2346,wielkopolskie,słupecki,Ostrowite,wiejska,OPS,303023042000,13,13,X,X,X,X
+2347,wielkopolskie,słupecki,Powidz,wiejska,OPS,303023052000,8,8,X,X,X,X
+2348,wielkopolskie,słupecki,Słupca,miejska,OPS,303023011000,88,88,X,X,X,X
+2349,wielkopolskie,słupecki,Słupca,wiejska,OPS,303023062000,52,52,X,X,X,X
+2350,wielkopolskie,słupecki,Strzałkowo,wiejska,OPS,303023072000,58,58,X,X,X,X
+2351,wielkopolskie,słupecki,Zagórów,miejsko-wiejska,OPS,303023083000,32,32,X,X,X,X
+2352,wielkopolskie,szamotulski,Duszniki,wiejska,OPS,303024022000,58,58,X,X,X,X
+2353,wielkopolskie,szamotulski,Kaźmierz,wiejska,OPS,303024032000,72,72,X,X,X,X
+2354,wielkopolskie,szamotulski,Obrzycko,miejska,OPS,303024011000,3,3,X,X,X,X
+2355,wielkopolskie,szamotulski,Obrzycko,wiejska,OPS,303024042000,0,0,X,X,X,X
+2356,wielkopolskie,szamotulski,Ostroróg,miejsko-wiejska,OPS,303024053000,16,16,X,X,X,X
+2357,wielkopolskie,szamotulski,Pniewy,miejsko-wiejska,OPS,303024063000,45,45,X,X,X,X
+2358,wielkopolskie,szamotulski,Szamotuły,miejsko-wiejska,OPS,303024073000,285,285,X,X,X,X
+2359,wielkopolskie,szamotulski,Wronki,miejsko-wiejska,OPS,303024083000,43,43,X,X,X,X
+2360,wielkopolskie,średzki,Dominowo,wiejska,OPS,303025012000,41,41,X,X,X,X
+2361,wielkopolskie,średzki,Krzykosy,wiejska,OPS,303025022000,95,95,X,X,X,X
+2362,wielkopolskie,średzki,Nowe Miasto nad Wartą,wiejska,OPS,303025032000,109,109,X,X,X,X
+2363,wielkopolskie,średzki,Środa Wielkopolska,miejsko-wiejska,OPS,303025043000,89,89,X,X,X,X
+2364,wielkopolskie,średzki,Zaniemyśl,wiejska,OPS,303025052000,36,36,X,X,X,X
+2365,wielkopolskie,śremski,Brodnica,wiejska,OPS,303026012000,48,48,X,X,X,X
+2366,wielkopolskie,śremski,Dolsk,miejsko-wiejska,OPS,303026023000,19,19,X,X,X,X
+2367,wielkopolskie,śremski,Książ Wielkopolski,miejsko-wiejska,OPS,303026033000,24,24,X,X,X,X
+2368,wielkopolskie,śremski,Śrem,miejsko-wiejska,OPS,303026043000,323,323,X,X,X,X
+2369,wielkopolskie,turecki,Brudzew,wiejska,OPS,303027022000,26,26,X,X,X,X
+2370,wielkopolskie,turecki,Dobra,miejsko-wiejska,OPS,303027033000,11,11,X,X,X,X
+2371,wielkopolskie,turecki,Kawęczyn,wiejska,OPS,303027042000,55,55,X,X,X,X
+2372,wielkopolskie,turecki,Malanów,wiejska,OPS,303027052000,9,9,X,X,X,X
+2373,wielkopolskie,turecki,Przykona,wiejska,OPS,303027062000,19,19,X,X,X,X
+2374,wielkopolskie,turecki,Tuliszków,miejsko-wiejska,OPS,303027073000,89,89,X,X,X,X
+2375,wielkopolskie,turecki,Turek,miejska,OPS,303027011000,32,32,X,X,X,X
+2376,wielkopolskie,turecki,Turek,wiejska,OPS,303027082000,0,0,X,X,X,X
+2377,wielkopolskie,turecki,Władysławów,wiejska,OPS,303027092000,15,15,X,X,X,X
+2378,wielkopolskie,wągrowiecki,Damasławek,wiejska,OPS,303028022000,31,31,X,X,X,X
+2379,wielkopolskie,wągrowiecki,Gołańcz,miejsko-wiejska,OPS,303028033000,23,23,X,X,X,X
+2380,wielkopolskie,wągrowiecki,Mieścisko,wiejska,OPS,303028042000,16,16,X,X,X,X
+2381,wielkopolskie,wągrowiecki,Skoki,miejsko-wiejska,OPS,303028053000,58,58,X,X,X,X
+2382,wielkopolskie,wągrowiecki,Wapno,wiejska,OPS,303028062000,18,18,X,X,X,X
+2383,wielkopolskie,wągrowiecki,Wągrowiec,miejska,OPS,303028011000,177,177,X,X,X,X
+2384,wielkopolskie,wągrowiecki,Wągrowiec,wiejska,OPS,303028072000,118,118,X,X,X,X
+2385,wielkopolskie,wolsztyński,Przemęt,wiejska,OPS,303029012000,40,40,X,X,X,X
+2386,wielkopolskie,wolsztyński,Siedlec,wiejska,OPS,303029022000,68,68,X,X,X,X
+2387,wielkopolskie,wolsztyński,Wolsztyn,miejsko-wiejska,OPS,303029033000,25,25,X,X,X,X
+2388,wielkopolskie,wrzesiński,Kołaczkowo,wiejska,OPS,303030012000,17,17,X,X,X,X
+2389,wielkopolskie,wrzesiński,Miłosław,miejsko-wiejska,OPS,303030023000,20,20,X,X,X,X
+2390,wielkopolskie,wrzesiński,Nekla,miejsko-wiejska,OPS,303030033000,0,0,X,X,X,X
+2391,wielkopolskie,wrzesiński,Pyzdry,miejsko-wiejska,OPS,303030043000,5,5,X,X,X,X
+2392,wielkopolskie,wrzesiński,Września,miejsko-wiejska,OPS,303030053000,388,388,X,X,X,X
+2393,wielkopolskie,złotowski,Jastrowie,miejsko-wiejska,OPS,303031023000,63,63,X,X,X,X
+2394,wielkopolskie,złotowski,Krajenka,miejsko-wiejska,OPS,303031033000,0,0,X,X,X,X
+2395,wielkopolskie,złotowski,Lipka,wiejska,OPS,303031042000,10,10,X,X,X,X
+2396,wielkopolskie,złotowski,Okonek,miejsko-wiejska,OPS,303031053000,59,59,X,X,X,X
+2397,wielkopolskie,złotowski,Tarnówka,wiejska,OPS,303031062000,22,22,X,X,X,X
+2398,wielkopolskie,złotowski,Zakrzewo,wiejska,OPS,303031072000,5,5,X,X,X,X
+2399,wielkopolskie,złotowski,Złotów,miejska,OPS,303031011000,89,89,X,X,X,X
+2400,wielkopolskie,złotowski,Złotów,wiejska,OPS,303031082000,105,105,X,X,X,X
+2401,zachodniopomorskie,-,-,-,WPS,103200000000,6536,6536,X,X,X,X
+2402,zachodniopomorskie,białogardzki,Białogard,miejska,OPS,303201011000,109,109,X,X,X,X
+2403,zachodniopomorskie,białogardzki,Białogard,wiejska,OPS,303201022000,37,37,X,X,X,X
+2404,zachodniopomorskie,białogardzki,Karlino,miejsko-wiejska,OPS,303201033000,19,19,X,X,X,X
+2405,zachodniopomorskie,białogardzki,Tychowo,miejsko-wiejska,OPS,303201043000,35,35,X,X,X,X
+2406,zachodniopomorskie,choszczeński,Bierzwnik,wiejska,OPS,303202012000,10,10,X,X,X,X
+2407,zachodniopomorskie,choszczeński,Choszczno,miejsko-wiejska,OPS,303202023000,0,0,X,X,X,X
+2408,zachodniopomorskie,choszczeński,Drawno,miejsko-wiejska,OPS,303202033000,26,26,X,X,X,X
+2409,zachodniopomorskie,choszczeński,Krzęcin,wiejska,OPS,303202042000,8,8,X,X,X,X
+2410,zachodniopomorskie,choszczeński,Pełczyce,miejsko-wiejska,OPS,303202053000,12,12,X,X,X,X
+2411,zachodniopomorskie,choszczeński,Recz,miejsko-wiejska,OPS,303202063000,19,19,X,X,X,X
+2412,zachodniopomorskie,drawski,Czaplinek,miejsko-wiejska,OPS,303203013000,64,64,X,X,X,X
+2413,zachodniopomorskie,drawski,Drawsko Pomorskie,miejsko-wiejska,OPS,303203023000,228,228,X,X,X,X
+2414,zachodniopomorskie,drawski,Kalisz Pomorski,miejsko-wiejska,OPS,303203033000,36,36,X,X,X,X
+2415,zachodniopomorskie,drawski,Wierzchowo,wiejska,OPS,303203052000,36,36,X,X,X,X
+2416,zachodniopomorskie,drawski,Złocieniec,miejsko-wiejska,OPS,303203063000,58,58,X,X,X,X
+2417,zachodniopomorskie,goleniowski,Goleniów,miejsko-wiejska,OPS,303204023000,140,140,X,X,X,X
+2418,zachodniopomorskie,goleniowski,Maszewo,miejsko-wiejska,OPS,303204033000,40,40,X,X,X,X
+2419,zachodniopomorskie,goleniowski,Nowogard,miejsko-wiejska,OPS,303204043000,61,61,X,X,X,X
+2420,zachodniopomorskie,goleniowski,Osina,wiejska,OPS,303204052000,7,7,X,X,X,X
+2421,zachodniopomorskie,goleniowski,Przybiernów,wiejska,OPS,303204062000,25,25,X,X,X,X
+2422,zachodniopomorskie,goleniowski,Stepnica,miejsko-wiejska,OPS,303204072000,56,56,X,X,X,X
+2423,zachodniopomorskie,gryficki,Brojce,wiejska,OPS,303205012000,15,15,X,X,X,X
+2424,zachodniopomorskie,gryficki,Gryfice,miejsko-wiejska,OPS,303205023000,117,117,X,X,X,X
+2425,zachodniopomorskie,gryficki,Karnice,wiejska,OPS,303205032000,18,18,X,X,X,X
+2426,zachodniopomorskie,gryficki,Płoty,miejsko-wiejska,OPS,303205043000,35,35,X,X,X,X
+2427,zachodniopomorskie,gryficki,Rewal,wiejska,OPS,303205072000,2,2,X,X,X,X
+2428,zachodniopomorskie,gryficki,Trzebiatów,miejsko-wiejska,OPS,303205083000,75,75,X,X,X,X
+2429,zachodniopomorskie,gryfiński,Banie,wiejska,OPS,303206012000,35,35,X,X,X,X
+2430,zachodniopomorskie,gryfiński,Cedynia,miejsko-wiejska,OPS,303206023000,8,8,X,X,X,X
+2431,zachodniopomorskie,gryfiński,Chojna,miejsko-wiejska,OPS,303206033000,38,38,X,X,X,X
+2432,zachodniopomorskie,gryfiński,Gryfino,miejsko-wiejska,OPS,303206043000,78,78,X,X,X,X
+2433,zachodniopomorskie,gryfiński,Mieszkowice,miejsko-wiejska,OPS,303206053000,71,71,X,X,X,X
+2434,zachodniopomorskie,gryfiński,Moryń,miejsko-wiejska,OPS,303206063000,16,16,X,X,X,X
+2435,zachodniopomorskie,gryfiński,Stare Czarnowo,wiejska,OPS,303206072000,25,25,X,X,X,X
+2436,zachodniopomorskie,gryfiński,Trzcińsko-Zdrój,miejsko-wiejska,OPS,303206083000,27,27,X,X,X,X
+2437,zachodniopomorskie,gryfiński,Widuchowa,wiejska,OPS,303206092000,26,26,X,X,X,X
+2438,zachodniopomorskie,kamieński,Dziwnów,miejsko-wiejska,OPS,303207013000,5,5,X,X,X,X
+2439,zachodniopomorskie,kamieński,Golczewo,miejsko-wiejska,OPS,303207023000,65,65,X,X,X,X
+2440,zachodniopomorskie,kamieński,Kamień Pomorski,miejsko-wiejska,OPS,303207033000,39,39,X,X,X,X
+2441,zachodniopomorskie,kamieński,Międzyzdroje,miejsko-wiejska,OPS,303207043000,51,51,X,X,X,X
+2442,zachodniopomorskie,kamieński,Świerzno,wiejska,OPS,303207052000,11,11,X,X,X,X
+2443,zachodniopomorskie,kamieński,Wolin,miejsko-wiejska,OPS,303207063000,18,18,X,X,X,X
+2444,zachodniopomorskie,kołobrzeski,Dygowo,wiejska,OPS,303208022000,47,47,X,X,X,X
+2445,zachodniopomorskie,kołobrzeski,Gościno,miejsko-wiejska,OPS,303208033000,8,8,X,X,X,X
+2446,zachodniopomorskie,kołobrzeski,Kołobrzeg,miejska,OPS,303208011000,105,105,X,X,X,X
+2447,zachodniopomorskie,kołobrzeski,Kołobrzeg,wiejska,OPS,303208042000,15,15,X,X,X,X
+2448,zachodniopomorskie,kołobrzeski,Rymań,wiejska,OPS,303208052000,19,19,X,X,X,X
+2449,zachodniopomorskie,kołobrzeski,Siemyśl,wiejska,OPS,303208062000,8,8,X,X,X,X
+2450,zachodniopomorskie,kołobrzeski,Ustronie Morskie,wiejska,OPS,303208072000,11,11,X,X,X,X
+2451,zachodniopomorskie,m. Koszalin,M. Koszalin,miejska,MOPR,253261011000,177,177,X,X,X,X
+2452,zachodniopomorskie,koszaliński,Będzino,wiejska,OPS,303209012000,71,71,X,X,X,X
+2453,zachodniopomorskie,koszaliński,Biesiekierz,wiejska,OPS,303209022000,11,11,X,X,X,X
+2454,zachodniopomorskie,koszaliński,Bobolice,miejsko-wiejska,OPS,303209033000,19,19,X,X,X,X
+2455,zachodniopomorskie,koszaliński,Manowo,wiejska,OPS,303209042000,14,14,X,X,X,X
+2456,zachodniopomorskie,koszaliński,Mielno,miejsko-wiejska,OPS,303209052000,9,9,X,X,X,X
+2457,zachodniopomorskie,koszaliński,Polanów,miejsko-wiejska,OPS,303209063000,18,18,X,X,X,X
+2458,zachodniopomorskie,koszaliński,Sianów,miejsko-wiejska,OPS,303209073000,35,35,X,X,X,X
+2459,zachodniopomorskie,koszaliński,Świeszyno,wiejska,OPS,303209082000,18,18,X,X,X,X
+2460,zachodniopomorskie,łobeski,Dobra,miejsko-wiejska,OPS,303218013000,26,26,X,X,X,X
+2461,zachodniopomorskie,łobeski,Łobez,miejsko-wiejska,OPS,303218023000,12,12,X,X,X,X
+2462,zachodniopomorskie,łobeski,Radowo Małe,wiejska,OPS,303218032000,12,12,X,X,X,X
+2463,zachodniopomorskie,łobeski,Resko,miejsko-wiejska,OPS,303218043000,12,12,X,X,X,X
+2464,zachodniopomorskie,łobeski,Węgorzyno,miejsko-wiejska,OPS,303218053000,37,37,X,X,X,X
+2465,zachodniopomorskie,myśliborski,Barlinek,miejsko-wiejska,OPS,303210013000,50,50,X,X,X,X
+2466,zachodniopomorskie,myśliborski,Boleszkowice,wiejska,OPS,303210022000,4,4,X,X,X,X
+2467,zachodniopomorskie,myśliborski,Dębno,miejsko-wiejska,OPS,303210033000,49,49,X,X,X,X
+2468,zachodniopomorskie,myśliborski,Myślibórz,miejsko-wiejska,OPS,303210043000,84,84,X,X,X,X
+2469,zachodniopomorskie,myśliborski,Nowogródek Pomorski,wiejska,OPS,303210052000,15,15,X,X,X,X
+2470,zachodniopomorskie,policki,Dobra (Szczecińska),wiejska,OPS,303211012000,60,60,X,X,X,X
+2471,zachodniopomorskie,policki,Kołbaskowo,wiejska,OPS,303211022000,25,25,X,X,X,X
+2472,zachodniopomorskie,policki,Nowe Warpno,miejsko-wiejska,OPS,303211033000,7,7,X,X,X,X
+2473,zachodniopomorskie,policki,Police,miejsko-wiejska,OPS,303211043000,170,170,X,X,X,X
+2474,zachodniopomorskie,pyrzycki,Bielice,wiejska,OPS,303212012000,3,3,X,X,X,X
+2475,zachodniopomorskie,pyrzycki,Kozielice,wiejska,OPS,303212022000,4,4,X,X,X,X
+2476,zachodniopomorskie,pyrzycki,Lipiany,miejsko-wiejska,OPS,303212033000,25,25,X,X,X,X
+2477,zachodniopomorskie,pyrzycki,Przelewice,wiejska,OPS,303212042000,16,16,X,X,X,X
+2478,zachodniopomorskie,pyrzycki,Pyrzyce,miejsko-wiejska,OPS,303212053000,34,34,X,X,X,X
+2479,zachodniopomorskie,pyrzycki,Warnice,wiejska,OPS,303212062000,3,3,X,X,X,X
+2480,zachodniopomorskie,sławieński,Darłowo,miejska,OPS,303213011000,8,8,X,X,X,X
+2481,zachodniopomorskie,sławieński,Darłowo,wiejska,OPS,303213032000,33,33,X,X,X,X
+2482,zachodniopomorskie,sławieński,Malechowo,wiejska,OPS,303213042000,23,23,X,X,X,X
+2483,zachodniopomorskie,sławieński,Postomino,wiejska,OPS,303213052000,14,14,X,X,X,X
+2484,zachodniopomorskie,sławieński,Sławno,miejska,OPS,303213021000,22,22,X,X,X,X
+2485,zachodniopomorskie,sławieński,Sławno,wiejska,OPS,303213062000,10,10,X,X,X,X
+2486,zachodniopomorskie,stargardzki,Chociwel,miejsko-wiejska,OPS,303214023000,33,33,X,X,X,X
+2487,zachodniopomorskie,stargardzki,Dobrzany,miejsko-wiejska,OPS,303214033000,14,14,X,X,X,X
+2488,zachodniopomorskie,stargardzki,Dolice,wiejska,OPS,303214042000,5,5,X,X,X,X
+2489,zachodniopomorskie,stargardzki,Ińsko,miejsko-wiejska,OPS,303214053000,13,13,X,X,X,X
+2490,zachodniopomorskie,stargardzki,Kobylanka,wiejska,OPS,303214062000,25,25,X,X,X,X
+2491,zachodniopomorskie,stargardzki,Marianowo,wiejska,OPS,303214082000,51,51,X,X,X,X
+2492,zachodniopomorskie,stargardzki,Stara Dąbrowa,wiejska,OPS,303214092000,16,16,X,X,X,X
+2493,zachodniopomorskie,stargardzki,Stargard,miejska,OPS,303214011000,404,404,X,X,X,X
+2494,zachodniopomorskie,stargardzki,Stargard,wiejska,OPS,303214102000,58,58,X,X,X,X
+2495,zachodniopomorskie,stargardzki,Suchań,miejsko-wiejska,OPS,303214113000,35,35,X,X,X,X
+2496,zachodniopomorskie,m. Szczecin,M. Szczecin,miejska,MOPR,253262011000,1421,1421,X,X,X,X
+2497,zachodniopomorskie,szczecinecki,Barwice,miejsko-wiejska,OPS,303215023000,10,10,X,X,X,X
+2498,zachodniopomorskie,szczecinecki,Biały Bór,miejsko-wiejska,OPS,303215033000,18,18,X,X,X,X
+2499,zachodniopomorskie,szczecinecki,Borne Sulinowo,miejsko-wiejska,OPS,303215043000,9,9,X,X,X,X
+2500,zachodniopomorskie,szczecinecki,Grzmiąca,wiejska,OPS,303215052000,5,5,X,X,X,X
+2501,zachodniopomorskie,szczecinecki,Szczecinek,miejska,OPS,303215011000,246,246,X,X,X,X
+2502,zachodniopomorskie,szczecinecki,Szczecinek,wiejska,OPS,303215062000,10,10,X,X,X,X
+2503,zachodniopomorskie,świdwiński,Brzeżno,wiejska,OPS,303216022000,0,0,X,X,X,X
+2504,zachodniopomorskie,świdwiński,Połczyn-Zdrój,miejsko-wiejska,OPS,303216033000,66,66,X,X,X,X
+2505,zachodniopomorskie,świdwiński,Rąbino,wiejska,OPS,303216042000,59,59,X,X,X,X
+2506,zachodniopomorskie,świdwiński,Sławoborze,wiejska,OPS,303216052000,18,18,X,X,X,X
+2507,zachodniopomorskie,świdwiński,Świdwin,miejska,OPS,303216011000,162,162,X,X,X,X
+2508,zachodniopomorskie,świdwiński,Świdwin,wiejska,OPS,303216062000,64,64,X,X,X,X
+2509,zachodniopomorskie,m. Świnoujście,M. Świnoujście,miejska,MOPR,253263011000,355,355,X,X,X,X
+2510,zachodniopomorskie,wałecki,Człopa,miejsko-wiejska,OPS,303217023000,11,11,X,X,X,X
+2511,zachodniopomorskie,wałecki,Mirosławiec,miejsko-wiejska,OPS,303217033000,21,21,X,X,X,X
+2512,zachodniopomorskie,wałecki,Tuczno,miejsko-wiejska,OPS,303217043000,57,57,X,X,X,X
+2513,zachodniopomorskie,wałecki,Wałcz,miejska,OPS,303217011000,151,151,X,X,X,X
+2514,zachodniopomorskie,wałecki,Wałcz,wiejska,OPS,303217052000,55,55,X,X,X,X
+2515,-,-,-,-,MEiN,170000000000,X,X,X,X,X,X
+X,RAZEM,X,-,-,X,-,161575,161575,X,X,X,X
