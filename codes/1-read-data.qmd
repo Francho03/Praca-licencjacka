@@ -17,7 +17,7 @@ Wczytanie danych
 
 ```{r}
 dane <- read_excel("data/Sprawozdanie_przemoc_2014_2023 (2).xlsx",
-                    col_names = c("lp", "woj", "pow", "gm", "typ_gm", "typ_jednostki","keso",  "rok", "liczba_proc_nk_a", "rodziny_wszczete", "liczba_osob_ogol",  "liczba_osob_kobiety", "liczba_osob_mezczyzni", "liczba_osob_dzieci"), 
+                    col_names = c("lp", "woj", "pow", "gm", "typ_gm", "typ_jednostki","keso", "rok", "liczba_proc_nk_a", "rodziny_wszczete", "liczba_osob_ogol",  "liczba_osob_kobiety", "liczba_osob_mezczyzni", "liczba_osob_dzieci"), 
                     skip = 1) |>
     mutate(keso =  str_extract(keso, "\\d{12,}")) 
 head(dane)
@@ -34,8 +34,9 @@ Wyłączamy dane w gminie z brakiami danych
 
 ```{r}
 dane |> 
-    subset(is.na(woj) | woj == "RAZEM") |>
-    count(rok, wt = liczba_proc_nk_a)
+    subset((is.na(woj) & rok %in% 2021:2023)| 
+            (woj == "RAZEM" & !rok %in% 2021:2023)) |>
+    count(typ_jednostki, rok, wt = liczba_proc_nk_a)
 ```
 
 Podstawowe informacje na poziomie 
